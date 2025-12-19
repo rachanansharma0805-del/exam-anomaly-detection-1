@@ -4,6 +4,7 @@
 __pycache__/
 
 # Virtual environments
+exam-anomaly-env/
 exam-anomaly-env-310/
 exam-anomaly-env-311/
 exam_env/
