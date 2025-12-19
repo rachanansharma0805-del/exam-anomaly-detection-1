@@ -1,3 +1,14 @@
-exam-anomaly-env/ 
-__pycache__/ 
-*.pyc 
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Virtual environments
+exam-anomaly-env-310/
+exam-anomaly-env-311/
+exam_env/
+
+# System files
+.DS_Store
+Thumbs.db
+
