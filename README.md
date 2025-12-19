@@ -34,17 +34,17 @@ The system acts as a digital invigilator by identifying activities such as exces
 
 ## System Workflow 
 Video Input
-↓
+->
 YOLOv8 (Person Detection)
-↓
+->
 DeepSORT (Tracking)
-↓
+->
 MediaPipe (Pose Estimation)
-↓
+->
 Feature Extraction
-↓
+->
 Anomaly Detection
-↓
+->
 Logs & Dashboard Output
 
 ## Project Structure
