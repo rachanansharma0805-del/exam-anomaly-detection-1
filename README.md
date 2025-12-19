@@ -88,3 +88,6 @@ Initial setup and environment configuration completed.
 Execution steps will be updated as modules are implemented.
 
 
+## Author
+Rachana Sharma & Meghana 
+AI/ML Internship Project
