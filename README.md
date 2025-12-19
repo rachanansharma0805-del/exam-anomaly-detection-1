@@ -56,7 +56,6 @@ docs/       - diagrams and screenshots
 ## Installation & Setup
 ### 1. Clone the repository
 git clone https://github.com/rachanansharma0805-del/exam-anomaly-detection-1 
- [github_link](https://github.com/rachanansharma0805-del/exam-anomaly-detection-1)
 
 ### 2.Create virtual environment
 - python -m venv env
