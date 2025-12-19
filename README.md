@@ -1,5 +1,4 @@
 # Exam Hall Anomaly Detection System 
-Project Title - Exam Hall Detection System
 Problem Statement - 
 Malpractice and suspicious behavior in examination halls are difficult to monitor manually.
 This project aims to detect anomalous behavior in an exam hall using computer vision and
@@ -24,4 +23,7 @@ Tools and Technologies -
 - GitHub
 - Trello
 Project Management - Project tasks are planned and tracked using Trello with a weekly milestone-based approach.
+
+TRELLO BOARD FOR PROJECT TRACKING:
+Link - [Exam Anomaly Detection Project](https://trello.com/b/UfJU17FE/exam-anomaly-detection-project)
 
