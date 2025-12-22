@@ -22,8 +22,8 @@ Heuristic rules analyse the extracted features to flag suspicious behaviour patt
 Detected anomalies are logged and displayed in a Streamlit dashboard for review and verification.
 
 ## Project Structure (reference)
-exam-hall-anomaly-detection/
 ```text
+exam-hall-anomaly-detection/
 ├── src/
 │   ├── video_input.py
 │   ├── detection_yolov8.py
