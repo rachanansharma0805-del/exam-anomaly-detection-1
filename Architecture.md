@@ -23,6 +23,7 @@ Detected anomalies are logged and displayed in a Streamlit dashboard for review 
 
 ## Project Structure (reference)
 exam-hall-anomaly-detection/
+```text
 ├── src/
 │   ├── video_input.py
 │   ├── detection_yolov8.py
