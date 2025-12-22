@@ -43,6 +43,7 @@ exam-hall-anomaly-detection/
 ├── requirements.txt
 ├── README.md
 └── Architecture.md
+```
 
 ## Key Design Decisions
 ### Interpretability first: Rule-based detection allows transparent behaviour analysis.
