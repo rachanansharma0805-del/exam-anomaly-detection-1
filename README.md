@@ -32,20 +32,14 @@ The system acts as a digital invigilator by identifying activities such as exces
 ### TRELLO BOARD FOR PROJECT TRACKING:
 [Exam Anomaly Detection Project](https://trello.com/b/UfJU17FE/exam-anomaly-detection-project)
 
-## System Workflow 
-Video Input
-->
-YOLOv8 (Person Detection)
-->
-DeepSORT (Tracking)
-->
-MediaPipe (Pose Estimation)
-->
-Feature Extraction
-->
-Anomaly Detection
-->
-Logs & Dashboard Output
+## System Workflow
+1. Video Input  
+2. YOLOv8 – Person Detection  
+3. DeepSORT – Multi-object Tracking  
+4. MediaPipe – Pose Estimation  
+5. Feature Extraction  
+6. Anomaly Detection  
+7. Logs & Dashboard Output  
 
 ## Project Structure
 src/        - core source code  
@@ -53,41 +47,35 @@ data/       - input images/videos
 outputs/    - results and logs  
 docs/       - diagrams and screenshots 
 
+
+## How to Run the Project 
 ## Installation & Setup
 ### 1. Clone the repository
 git clone https://github.com/rachanansharma0805-del/exam-anomaly-detection-1 
 
-### 2.Create virtual environment
+### 2. Create virtual environment
 - python -m venv env
 - env\Scripts\activate
 
-### 3.Install dependencies
+### 3. Install dependencies
 - pip install -r requirements.txt
-
-### 4.Install packages
-- py -m pip install --upgrade pip
-- py -m pip install opencv-python
-- py -m pip install opencv-contrib-python
-- py -m pip install mediapipe
-- py -m pip install --upgrade pip setuptools wheel
--  py -m pip install "numpy<2"
--  py -m pip install mediapipe
--  py -m pip install torch torchvision torchaudio
--  py -m pip install ultralytics or py -m pip install ultralytics --no-deps and then py -m pip install torch torchvision
--  pip freeze > requirements.txt
+(Installs all packages)
 
 ## Week 1 Progress
-- Development environment set up successfully  
+- Development environment set up successfully 
 - YOLOv8 pretrained model tested on sample image/video  
 - Person detection verified with bounding boxes  
 - Initial observations documented for further improvements
 
-## How to Run the Project
-Currently under development.  
-Initial setup and environment configuration completed.  
-Execution steps will be updated as modules are implemented.
+## Week 2 Progress
+- Implemented person detection using YOLOv8 on video input  
+- Integrated DeepSORT for multi-object tracking and consistent ID assignment  
+- Applied face blurring to detected individuals for privacy preservation  
+- Generated and stored detection and tracking logs in CSV format  
+- Verified outputs through processed videos with bounding boxes and track IDs  
 
 
 ## Author
-Rachana Sharma & Meghana 
+Rachana Sharma 
+N Meghana 
 AI/ML Internship Project
