@@ -91,7 +91,7 @@ Some people were not tracked consistently across frames, leading to lower recall
 - ID flickering affects recall
 - Occlusions and movement impact tracking
 - CPU-based inference limits real-time performance
-- 
+  
 ## Limitations
 - No labeled ground-truth dataset was used
 - Metrics were estimated manually and from logs
@@ -100,6 +100,4 @@ Some people were not tracked consistently across frames, leading to lower recall
 ## Conclusion
 - The detection and tracking pipeline functions correctly
 - Logs are generated reliably
-- Performance issues and limitations are clearly identified
-
-This evaluation confirms that the system is ready to move into **Week 3**, where pose estimation and anomaly detection will be added on top of the validated tracking pipeline.
+- Performance issues and limitations are clearly identified.
