@@ -51,10 +51,7 @@ False Positives (FP): Incorrect detections (detections where no person was prese
 ### Result:
 - Correct detections: **29**
 - Total people present: **30**
-
-\[
-\text{Precision} = \frac{29}{30} = 0.96
-\]
+{Precision} = frac{29}/{30} = 0.96
 
 **Interpretation:**  
 The high precision indicates that when the system detects a person, it is usually correct, with very few false positives.
@@ -78,9 +75,7 @@ False Negatives (FN): People present but missed or not consistently tracked
 - Total unique tracks: **17**
 - Valid tracks (≥ 30 frames): **8**
 
-\[
-\text{Recall} = \frac{8}{17} = 0.47
-\]
+{Recall} = frac{8}/{17} = 0.47
 
 **Interpretation:**  
 Some people were not tracked consistently across frames, leading to lower recall.
