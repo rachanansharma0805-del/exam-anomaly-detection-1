@@ -1,4 +1,5 @@
-# Evaluation Metrics– Week 2
+# Evaluation Metrics–
+# Week 2
 This document explains how the people detection and tracking system was evaluated during **Week 2** of the project.
 The main goal of Week 2 was to ensure that:
 - People detection works reliably
