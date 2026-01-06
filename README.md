@@ -30,7 +30,7 @@ The system acts as a digital invigilator by identifying activities such as exces
 
 ## Project Management - Project tasks are planned and tracked using Trello with a weekly milestone-based approach.
 ### TRELLO BOARD FOR PROJECT TRACKING:
-[Exam Anomaly Detection Project](https://trello.com/b/UfJU17FE/exam-anomaly-detection-project)
+[Exam Anomaly Detection Project](https://trello.com/invite/b/69593f10d77282585d9e62a1/ATTIf28afd3f91d72ee65c3e4f3ec83d572475D03CF4/exam-anomaly-detection)
 
 ## System Workflow
 1. Video Input  
