@@ -72,7 +72,18 @@ git clone https://github.com/rachanansharma0805-del/exam-anomaly-detection-1
 - Integrated DeepSORT for multi-object tracking and consistent ID assignment  
 - Applied face blurring to detected individuals for privacy preservation  
 - Generated and stored detection and tracking logs in CSV format  
-- Verified outputs through processed videos with bounding boxes and track IDs  
+- Verified outputs through processed videos with bounding boxes and track IDs
+
+## Week 3 Progress
+
+- Performed pose estimation on video input to extract keypoints
+-  Applied anomaly rules on pose data to flag suspicious behavior
+-  Included more rulesand tested the code for more videos for more accurate anomaly detection
+-  Defined confidence thresholds to reduce false positives
+-  Logged detected anomalies with timestamps in CSV files
+-  Saved sample evidence frames for flagged events
+-  Compared flagged events with actual events to evaluate performance
+-  Documented results and evaluation in Evaluation.md
 
 
 ## Author
