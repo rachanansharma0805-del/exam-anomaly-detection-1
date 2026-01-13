@@ -1,0 +1,2054 @@
+frame,person_id,type,timestamp,clip_start,clip_end
+30,1,Looking Away,1.00s,0,90
+30,2,Looking Away,1.00s,0,90
+37,1,Excessive Hand Movement,1.23s,0,97
+37,2,Excessive Hand Movement,1.23s,0,97
+73,7,Excessive Hand Movement,2.43s,13,133
+73,7,Looking Away,2.43s,13,133
+84,8,Excessive Head Turn,2.80s,24,144
+84,8,Looking Away,2.80s,24,144
+90,1,Excessive Hand Movement,3.00s,30,150
+90,1,Excessive Head Turn,3.00s,30,150
+90,1,Looking Away,3.00s,30,150
+90,15,Looking Away,3.00s,30,150
+93,2,Excessive Hand Movement,3.10s,33,153
+93,2,Looking Away,3.10s,33,153
+95,8,Excessive Hand Movement,3.17s,35,155
+95,9,Looking Away,3.17s,35,155
+95,10,Excessive Head Turn,3.17s,35,155
+95,10,Looking Away,3.17s,35,155
+96,16,Looking Away,3.20s,36,156
+97,12,Looking Away,3.23s,37,157
+108,9,Excessive Hand Movement,3.60s,48,168
+109,7,Excessive Hand Movement,3.63s,49,169
+109,7,Looking Away,3.63s,49,169
+109,9,Excessive Head Turn,3.63s,49,169
+109,12,Excessive Head Turn,3.63s,49,169
+109,15,Excessive Hand Movement,3.63s,49,169
+111,15,Excessive Head Turn,3.70s,51,171
+114,8,Excessive Head Turn,3.80s,54,174
+114,8,Looking Away,3.80s,54,174
+115,2-7,Suspicious Proximity,3.83s,55,175
+120,15,Looking Away,4.00s,60,180
+121,12,Excessive Hand Movement,4.03s,61,181
+125,8,Excessive Hand Movement,4.17s,65,185
+125,9,Looking Away,4.17s,65,185
+127,12,Looking Away,4.23s,67,187
+132,1-8,Suspicious Proximity,4.40s,72,192
+133,1-9,Suspicious Proximity,4.43s,73,193
+133,10-2,Suspicious Proximity,4.43s,73,193
+133,10-7,Suspicious Proximity,4.43s,73,193
+134,1-12,Suspicious Proximity,4.47s,74,194
+134,12-2,Suspicious Proximity,4.47s,74,194
+134,12-9,Suspicious Proximity,4.47s,74,194
+139,12,Excessive Head Turn,4.63s,79,199
+139,15,Excessive Hand Movement,4.63s,79,199
+139,16,Excessive Hand Movement,4.63s,79,199
+139,16,Excessive Head Turn,4.63s,79,199
+139,16,Looking Away,4.63s,79,199
+141,15,Excessive Head Turn,4.70s,81,201
+146,8,Excessive Head Turn,4.87s,86,206
+146,8,Looking Away,4.87s,86,206
+155,8,Excessive Hand Movement,5.17s,95,215
+156,12,Excessive Hand Movement,5.20s,96,216
+156,15,Looking Away,5.20s,96,216
+157,12,Looking Away,5.23s,97,217
+158,12-15,Suspicious Proximity,5.27s,98,218
+158,15-2,Suspicious Proximity,5.27s,98,218
+158,15-9,Suspicious Proximity,5.27s,98,218
+166,1-16,Suspicious Proximity,5.53s,106,226
+166,10-16,Suspicious Proximity,5.53s,106,226
+166,16-2,Suspicious Proximity,5.53s,106,226
+166,16-7,Suspicious Proximity,5.53s,106,226
+166,16-8,Suspicious Proximity,5.53s,106,226
+167,9,Excessive Hand Movement,5.57s,107,227
+167,9,Excessive Head Turn,5.57s,107,227
+167,9,Looking Away,5.57s,107,227
+167,10,Excessive Hand Movement,5.57s,107,227
+167,10,Excessive Head Turn,5.57s,107,227
+167,10,Looking Away,5.57s,107,227
+169,12,Excessive Head Turn,5.63s,109,229
+169,15,Excessive Hand Movement,5.63s,109,229
+171,15,Excessive Head Turn,5.70s,111,231
+176,8,Excessive Head Turn,5.87s,116,236
+176,8,Looking Away,5.87s,116,236
+185,8,Excessive Hand Movement,6.17s,125,245
+188,12,Excessive Hand Movement,6.27s,128,248
+188,12,Looking Away,6.27s,128,248
+206,8,Excessive Head Turn,6.87s,146,266
+206,8,Looking Away,6.87s,146,266
+207,10,Excessive Hand Movement,6.90s,147,267
+207,10,Excessive Head Turn,6.90s,147,267
+207,10,Looking Away,6.90s,147,267
+207,15,Excessive Hand Movement,6.90s,147,267
+207,15,Excessive Head Turn,6.90s,147,267
+207,15,Looking Away,6.90s,147,267
+207,16,Excessive Hand Movement,6.90s,147,267
+207,16,Excessive Head Turn,6.90s,147,267
+207,16,Looking Away,6.90s,147,267
+213,7,Excessive Hand Movement,7.10s,153,273
+213,7,Excessive Head Turn,7.10s,153,273
+213,7,Looking Away,7.10s,153,273
+215,8,Excessive Hand Movement,7.17s,155,275
+216,12,Excessive Head Turn,7.20s,156,276
+218,12,Excessive Hand Movement,7.27s,158,278
+218,12,Looking Away,7.27s,158,278
+226,15-7,Suspicious Proximity,7.53s,166,286
+233,18,Excessive Head Turn,7.77s,173,293
+233,18,Looking Away,7.77s,173,293
+236,8,Excessive Head Turn,7.87s,176,296
+236,8,Looking Away,7.87s,176,296
+237,10,Excessive Hand Movement,7.90s,177,297
+237,10,Excessive Head Turn,7.90s,177,297
+237,10,Looking Away,7.90s,177,297
+237,15,Excessive Hand Movement,7.90s,177,297
+237,15,Excessive Head Turn,7.90s,177,297
+237,15,Looking Away,7.90s,177,297
+237,16,Excessive Hand Movement,7.90s,177,297
+237,16,Excessive Head Turn,7.90s,177,297
+237,16,Looking Away,7.90s,177,297
+243,7,Excessive Hand Movement,8.10s,183,303
+243,7,Excessive Head Turn,8.10s,183,303
+243,7,Looking Away,8.10s,183,303
+252,8,Excessive Hand Movement,8.40s,192,312
+257,9,Excessive Hand Movement,8.57s,197,317
+257,9,Excessive Head Turn,8.57s,197,317
+257,9,Looking Away,8.57s,197,317
+263,1,Excessive Hand Movement,8.77s,203,323
+263,1,Excessive Head Turn,8.77s,203,323
+263,1,Looking Away,8.77s,203,323
+263,2,Excessive Hand Movement,8.77s,203,323
+263,2,Excessive Head Turn,8.77s,203,323
+263,2,Looking Away,8.77s,203,323
+263,18,Excessive Head Turn,8.77s,203,323
+263,18,Looking Away,8.77s,203,323
+266,8,Excessive Head Turn,8.87s,206,326
+266,8,Looking Away,8.87s,206,326
+267,10-18,Suspicious Proximity,8.90s,207,327
+267,16-18,Suspicious Proximity,8.90s,207,327
+267,18-7,Suspicious Proximity,8.90s,207,327
+267,18-8,Suspicious Proximity,8.90s,207,327
+282,8,Excessive Hand Movement,9.40s,222,342
+286,10,Excessive Hand Movement,9.53s,226,346
+286,10,Excessive Head Turn,9.53s,226,346
+286,10,Looking Away,9.53s,226,346
+287,9,Excessive Hand Movement,9.57s,227,347
+287,9,Excessive Head Turn,9.57s,227,347
+287,9,Looking Away,9.57s,227,347
+296,12-7,Suspicious Proximity,9.87s,236,356
+307,8,Excessive Head Turn,10.23s,247,367
+307,8,Looking Away,10.23s,247,367
+312,8,Excessive Hand Movement,10.40s,252,372
+318,12,Excessive Hand Movement,10.60s,258,378
+318,12,Excessive Head Turn,10.60s,258,378
+318,12,Looking Away,10.60s,258,378
+318,15,Excessive Hand Movement,10.60s,258,378
+318,15,Excessive Head Turn,10.60s,258,378
+318,15,Looking Away,10.60s,258,378
+318,16,Excessive Hand Movement,10.60s,258,378
+318,16,Excessive Head Turn,10.60s,258,378
+318,16,Looking Away,10.60s,258,378
+320,18,Excessive Hand Movement,10.67s,260,380
+320,18,Excessive Head Turn,10.67s,260,380
+320,18,Looking Away,10.67s,260,380
+323,7,Excessive Hand Movement,10.77s,263,383
+323,7,Excessive Head Turn,10.77s,263,383
+323,7,Looking Away,10.77s,263,383
+339,8,Excessive Head Turn,11.30s,279,399
+339,8,Looking Away,11.30s,279,399
+339,9,Excessive Hand Movement,11.30s,279,399
+339,9,Excessive Head Turn,11.30s,279,399
+339,9,Looking Away,11.30s,279,399
+351,18-22,Suspicious Proximity,11.70s,291,411
+351,22-8,Suspicious Proximity,11.70s,291,411
+355,1,Excessive Hand Movement,11.83s,295,415
+355,1,Excessive Head Turn,11.83s,295,415
+355,1,Looking Away,11.83s,295,415
+355,2,Excessive Hand Movement,11.83s,295,415
+355,2,Excessive Head Turn,11.83s,295,415
+355,2,Looking Away,11.83s,295,415
+355,7,Excessive Hand Movement,11.83s,295,415
+355,7,Excessive Head Turn,11.83s,295,415
+355,7,Looking Away,11.83s,295,415
+355,8,Excessive Hand Movement,11.83s,295,415
+356,25,Looking Away,11.87s,296,416
+358,25,Excessive Head Turn,11.93s,298,418
+361,10,Excessive Hand Movement,12.03s,301,421
+361,10,Excessive Head Turn,12.03s,301,421
+361,10,Looking Away,12.03s,301,421
+379,18-2,Suspicious Proximity,12.63s,319,439
+391,1-25,Suspicious Proximity,13.03s,331,451
+391,25-7,Suspicious Proximity,13.03s,331,451
+393,8,Excessive Hand Movement,13.10s,333,453
+393,8,Excessive Head Turn,13.10s,333,453
+393,8,Looking Away,13.10s,333,453
+393,9,Excessive Hand Movement,13.10s,333,453
+393,9,Excessive Head Turn,13.10s,333,453
+393,9,Looking Away,13.10s,333,453
+393,10,Excessive Hand Movement,13.10s,333,453
+393,10,Excessive Head Turn,13.10s,333,453
+393,10,Looking Away,13.10s,333,453
+397,2-25,Suspicious Proximity,13.23s,337,457
+408,25,Excessive Hand Movement,13.60s,348,468
+408,25,Excessive Head Turn,13.60s,348,468
+408,25,Looking Away,13.60s,348,468
+409,2,Excessive Hand Movement,13.63s,349,469
+409,2,Excessive Head Turn,13.63s,349,469
+409,2,Looking Away,13.63s,349,469
+409,12-25,Suspicious Proximity,13.63s,349,469
+412,25-9,Suspicious Proximity,13.73s,352,472
+413,15-25,Suspicious Proximity,13.77s,353,473
+423,8,Excessive Hand Movement,14.10s,363,483
+423,8,Excessive Head Turn,14.10s,363,483
+423,8,Looking Away,14.10s,363,483
+423,9,Excessive Hand Movement,14.10s,363,483
+423,9,Excessive Head Turn,14.10s,363,483
+423,9,Looking Away,14.10s,363,483
+423,10,Excessive Hand Movement,14.10s,363,483
+423,10,Excessive Head Turn,14.10s,363,483
+423,10,Looking Away,14.10s,363,483
+429,15,Excessive Hand Movement,14.30s,369,489
+429,15,Excessive Head Turn,14.30s,369,489
+429,15,Looking Away,14.30s,369,489
+431,18,Excessive Hand Movement,14.37s,371,491
+431,18,Excessive Head Turn,14.37s,371,491
+431,18,Looking Away,14.37s,371,491
+453,25,Excessive Hand Movement,15.10s,393,513
+453,25,Excessive Head Turn,15.10s,393,513
+453,25,Looking Away,15.10s,393,513
+454,2,Excessive Hand Movement,15.13s,394,514
+454,2,Excessive Head Turn,15.13s,394,514
+454,2,Looking Away,15.13s,394,514
+455,8,Excessive Hand Movement,15.17s,395,515
+455,8,Excessive Head Turn,15.17s,395,515
+455,8,Looking Away,15.17s,395,515
+455,9,Excessive Hand Movement,15.17s,395,515
+455,9,Excessive Head Turn,15.17s,395,515
+455,9,Looking Away,15.17s,395,515
+461,18,Excessive Hand Movement,15.37s,401,521
+461,18,Excessive Head Turn,15.37s,401,521
+461,18,Looking Away,15.37s,401,521
+461,32,Looking Away,15.37s,401,521
+463,10,Excessive Hand Movement,15.43s,403,523
+463,10,Excessive Head Turn,15.43s,403,523
+463,10,Looking Away,15.43s,403,523
+463,12,Excessive Hand Movement,15.43s,403,523
+463,12,Excessive Head Turn,15.43s,403,523
+463,12,Looking Away,15.43s,403,523
+463,15,Excessive Hand Movement,15.43s,403,523
+463,15,Excessive Head Turn,15.43s,403,523
+463,15,Looking Away,15.43s,403,523
+472,32,Excessive Hand Movement,15.73s,412,532
+473,33,Looking Away,15.77s,413,533
+485,9,Excessive Hand Movement,16.17s,425,545
+485,9,Excessive Head Turn,16.17s,425,545
+485,9,Looking Away,16.17s,425,545
+486,2,Excessive Hand Movement,16.20s,426,546
+486,2,Excessive Head Turn,16.20s,426,546
+486,2,Looking Away,16.20s,426,546
+487,25,Excessive Hand Movement,16.23s,427,547
+487,25,Excessive Head Turn,16.23s,427,547
+487,25,Looking Away,16.23s,427,547
+491,8,Excessive Hand Movement,16.37s,431,551
+491,8,Excessive Head Turn,16.37s,431,551
+491,8,Looking Away,16.37s,431,551
+494,10,Excessive Hand Movement,16.47s,434,554
+494,10,Excessive Head Turn,16.47s,434,554
+494,10,Looking Away,16.47s,434,554
+494,12,Excessive Hand Movement,16.47s,434,554
+494,12,Excessive Head Turn,16.47s,434,554
+494,12,Looking Away,16.47s,434,554
+494,15,Excessive Hand Movement,16.47s,434,554
+494,15,Excessive Head Turn,16.47s,434,554
+494,15,Looking Away,16.47s,434,554
+494,18,Excessive Hand Movement,16.47s,434,554
+494,18,Excessive Head Turn,16.47s,434,554
+494,18,Looking Away,16.47s,434,554
+515,9,Excessive Hand Movement,17.17s,455,575
+515,9,Excessive Head Turn,17.17s,455,575
+515,9,Looking Away,17.17s,455,575
+516,25-32,Suspicious Proximity,17.20s,456,576
+516,32-9,Suspicious Proximity,17.20s,456,576
+521,7,Excessive Hand Movement,17.37s,461,581
+521,7,Excessive Head Turn,17.37s,461,581
+521,7,Looking Away,17.37s,461,581
+521,8,Excessive Hand Movement,17.37s,461,581
+521,8,Excessive Head Turn,17.37s,461,581
+521,8,Looking Away,17.37s,461,581
+537,25,Excessive Hand Movement,17.90s,477,597
+537,25,Excessive Head Turn,17.90s,477,597
+537,25,Looking Away,17.90s,477,597
+537,32,Excessive Hand Movement,17.90s,477,597
+537,32,Looking Away,17.90s,477,597
+537,33,Excessive Hand Movement,17.90s,477,597
+537,33,Looking Away,17.90s,477,597
+539,32,Excessive Head Turn,17.97s,479,599
+542,12-33,Suspicious Proximity,18.07s,482,602
+542,15-33,Suspicious Proximity,18.07s,482,602
+542,25-33,Suspicious Proximity,18.07s,482,602
+545,9,Excessive Hand Movement,18.17s,485,605
+545,9,Excessive Head Turn,18.17s,485,605
+545,9,Looking Away,18.17s,485,605
+549,35,Looking Away,18.30s,489,609
+551,7,Excessive Hand Movement,18.37s,491,611
+551,7,Excessive Head Turn,18.37s,491,611
+551,7,Looking Away,18.37s,491,611
+551,8,Excessive Hand Movement,18.37s,491,611
+551,8,Excessive Head Turn,18.37s,491,611
+551,8,Looking Away,18.37s,491,611
+556,10,Excessive Hand Movement,18.53s,496,616
+556,10,Excessive Head Turn,18.53s,496,616
+556,10,Looking Away,18.53s,496,616
+556,35,Excessive Head Turn,18.53s,496,616
+560,12,Excessive Hand Movement,18.67s,500,620
+560,12,Excessive Head Turn,18.67s,500,620
+560,12,Looking Away,18.67s,500,620
+568,25,Excessive Hand Movement,18.93s,508,628
+568,25,Excessive Head Turn,18.93s,508,628
+568,25,Looking Away,18.93s,508,628
+572,32-7,Suspicious Proximity,19.07s,512,632
+584,10-12,Suspicious Proximity,19.47s,524,644
+586,8,Excessive Hand Movement,19.53s,526,646
+586,8,Excessive Head Turn,19.53s,526,646
+586,8,Looking Away,19.53s,526,646
+586,9,Excessive Hand Movement,19.53s,526,646
+586,9,Excessive Head Turn,19.53s,526,646
+586,9,Looking Away,19.53s,526,646
+590,7,Excessive Hand Movement,19.67s,530,650
+590,7,Excessive Head Turn,19.67s,530,650
+590,7,Looking Away,19.67s,530,650
+593,7-8,Suspicious Proximity,19.77s,533,653
+603,2-33,Suspicious Proximity,20.10s,543,663
+605,7-9,Suspicious Proximity,20.17s,545,665
+607,32,Excessive Hand Movement,20.23s,547,667
+607,32,Excessive Head Turn,20.23s,547,667
+607,32,Looking Away,20.23s,547,667
+607,33,Excessive Hand Movement,20.23s,547,667
+607,33,Excessive Head Turn,20.23s,547,667
+607,33,Looking Away,20.23s,547,667
+607,32-35,Suspicious Proximity,20.23s,547,667
+607,35-7,Suspicious Proximity,20.23s,547,667
+607,35-8,Suspicious Proximity,20.23s,547,667
+613,15,Excessive Hand Movement,20.43s,553,673
+613,15,Excessive Head Turn,20.43s,553,673
+613,15,Hands Raised,20.43s,553,673
+613,15,Looking Away,20.43s,553,673
+616,25,Excessive Hand Movement,20.53s,556,676
+616,25,Excessive Head Turn,20.53s,556,676
+616,25,Hands Raised,20.53s,556,676
+616,25,Looking Away,20.53s,556,676
+617,12,Excessive Hand Movement,20.57s,557,677
+617,12,Excessive Head Turn,20.57s,557,677
+617,12,Looking Away,20.57s,557,677
+625,10-33,Suspicious Proximity,20.83s,565,685
+628,2,Excessive Hand Movement,20.93s,568,688
+628,2,Excessive Head Turn,20.93s,568,688
+628,2,Looking Away,20.93s,568,688
+631,35,Excessive Hand Movement,21.03s,571,691
+631,35,Excessive Head Turn,21.03s,571,691
+631,35,Looking Away,21.03s,571,691
+645,32,Excessive Hand Movement,21.50s,585,705
+645,32,Excessive Head Turn,21.50s,585,705
+645,32,Looking Away,21.50s,585,705
+645,33,Excessive Hand Movement,21.50s,585,705
+645,33,Excessive Head Turn,21.50s,585,705
+645,33,Looking Away,21.50s,585,705
+646,7,Excessive Hand Movement,21.53s,586,706
+646,7,Excessive Head Turn,21.53s,586,706
+646,7,Looking Away,21.53s,586,706
+646,8,Excessive Hand Movement,21.53s,586,706
+646,8,Excessive Head Turn,21.53s,586,706
+646,8,Looking Away,21.53s,586,706
+657,12,Excessive Hand Movement,21.90s,597,717
+657,12,Excessive Head Turn,21.90s,597,717
+657,12,Hands Raised,21.90s,597,717
+657,12,Looking Away,21.90s,597,717
+691,46,Looking Away,23.03s,631,751
+709,46,Excessive Head Turn,23.63s,649,769
+712,46,Excessive Hand Movement,23.73s,652,772
+732,7,Excessive Hand Movement,24.40s,672,792
+732,7,Excessive Head Turn,24.40s,672,792
+732,7,Hands Raised,24.40s,672,792
+732,7,Looking Away,24.40s,672,792
+732,8,Excessive Hand Movement,24.40s,672,792
+732,8,Excessive Head Turn,24.40s,672,792
+732,8,Looking Away,24.40s,672,792
+753,12-46,Suspicious Proximity,25.10s,693,813
+753,25-46,Suspicious Proximity,25.10s,693,813
+760,25-47,Suspicious Proximity,25.33s,700,820
+762,7,Excessive Hand Movement,25.40s,702,822
+762,7,Excessive Head Turn,25.40s,702,822
+762,7,Hands Raised,25.40s,702,822
+762,7,Looking Away,25.40s,702,822
+762,8,Excessive Hand Movement,25.40s,702,822
+762,8,Excessive Head Turn,25.40s,702,822
+762,8,Looking Away,25.40s,702,822
+763,25,Excessive Hand Movement,25.43s,703,823
+763,25,Excessive Head Turn,25.43s,703,823
+763,25,Hands Raised,25.43s,703,823
+763,25,Looking Away,25.43s,703,823
+763,33,Excessive Hand Movement,25.43s,703,823
+763,33,Excessive Head Turn,25.43s,703,823
+763,33,Hands Raised,25.43s,703,823
+763,33,Looking Away,25.43s,703,823
+773,25-8,Suspicious Proximity,25.77s,713,833
+774,46-47,Suspicious Proximity,25.80s,714,834
+775,32,Excessive Hand Movement,25.83s,715,835
+775,32,Excessive Head Turn,25.83s,715,835
+775,32,Hands Raised,25.83s,715,835
+775,32,Looking Away,25.83s,715,835
+778,35,Excessive Hand Movement,25.93s,718,838
+778,35,Excessive Head Turn,25.93s,718,838
+778,35,Hands Raised,25.93s,718,838
+778,35,Looking Away,25.93s,718,838
+778,33-46,Suspicious Proximity,25.93s,718,838
+791,12-47,Suspicious Proximity,26.37s,731,851
+792,8,Excessive Hand Movement,26.40s,732,852
+792,8,Excessive Head Turn,26.40s,732,852
+792,8,Looking Away,26.40s,732,852
+806,25,Excessive Hand Movement,26.87s,746,866
+806,25,Excessive Head Turn,26.87s,746,866
+806,25,Hands Raised,26.87s,746,866
+806,25,Looking Away,26.87s,746,866
+806,32,Excessive Hand Movement,26.87s,746,866
+806,32,Excessive Head Turn,26.87s,746,866
+806,32,Hands Raised,26.87s,746,866
+806,32,Looking Away,26.87s,746,866
+806,33,Excessive Hand Movement,26.87s,746,866
+806,33,Excessive Head Turn,26.87s,746,866
+806,33,Hands Raised,26.87s,746,866
+806,33,Looking Away,26.87s,746,866
+807,2-46,Suspicious Proximity,26.90s,747,867
+808,2-51,Suspicious Proximity,26.93s,748,868
+808,33-51,Suspicious Proximity,26.93s,748,868
+817,12-51,Suspicious Proximity,27.23s,757,877
+823,58,Looking Away,27.43s,763,883
+827,47-7,Suspicious Proximity,27.57s,767,887
+838,46-51,Suspicious Proximity,27.93s,778,898
+840,58-7,Suspicious Proximity,28.00s,780,900
+855,64,Looking Away,28.50s,795,915
+860,64,Excessive Hand Movement,28.67s,800,920
+862,10-51,Suspicious Proximity,28.73s,802,922
+873,64,Excessive Head Turn,29.10s,813,933
+874,2,Excessive Hand Movement,29.13s,814,934
+874,2,Excessive Head Turn,29.13s,814,934
+874,2,Hands Raised,29.13s,814,934
+874,2,Looking Away,29.13s,814,934
+879,47-8,Suspicious Proximity,29.30s,819,939
+880,32-61,Suspicious Proximity,29.33s,820,940
+880,46-61,Suspicious Proximity,29.33s,820,940
+880,61-7,Suspicious Proximity,29.33s,820,940
+885,64,Looking Away,29.50s,825,945
+885,68,Looking Away,29.50s,825,945
+886,68,Excessive Head Turn,29.53s,826,946
+889,25,Excessive Hand Movement,29.63s,829,949
+889,25,Excessive Head Turn,29.63s,829,949
+889,25,Hands Raised,29.63s,829,949
+889,25,Looking Away,29.63s,829,949
+889,32,Excessive Hand Movement,29.63s,829,949
+889,32,Excessive Head Turn,29.63s,829,949
+889,32,Hands Raised,29.63s,829,949
+889,32,Looking Away,29.63s,829,949
+889,33,Excessive Hand Movement,29.63s,829,949
+889,33,Excessive Head Turn,29.63s,829,949
+889,33,Hands Raised,29.63s,829,949
+889,33,Looking Away,29.63s,829,949
+890,64,Excessive Hand Movement,29.67s,830,950
+904,64,Excessive Head Turn,30.13s,844,964
+904,68,Excessive Hand Movement,30.13s,844,964
+914,7,Excessive Hand Movement,30.47s,854,974
+914,7,Excessive Head Turn,30.47s,854,974
+914,7,Hands Raised,30.47s,854,974
+914,7,Looking Away,30.47s,854,974
+915,68,Looking Away,30.50s,855,975
+915,25-64,Suspicious Proximity,30.50s,855,975
+916,68,Excessive Head Turn,30.53s,856,976
+921,58,Excessive Hand Movement,30.70s,861,981
+921,58,Excessive Head Turn,30.70s,861,981
+921,58,Looking Away,30.70s,861,981
+927,64-8,Suspicious Proximity,30.90s,867,987
+930,33-61,Suspicious Proximity,31.00s,870,990
+932,32-47,Suspicious Proximity,31.07s,872,992
+939,64,Excessive Hand Movement,31.30s,879,999
+939,64,Excessive Head Turn,31.30s,879,999
+939,64,Looking Away,31.30s,879,999
+939,68,Excessive Hand Movement,31.30s,879,999
+944,58-68,Suspicious Proximity,31.47s,884,1004
+944,68-7,Suspicious Proximity,31.47s,884,1004
+950,2-61,Suspicious Proximity,31.67s,890,1010
+952,68,Excessive Head Turn,31.73s,892,1012
+952,68,Looking Away,31.73s,892,1012
+956,2-32,Suspicious Proximity,31.87s,896,1016
+964,64-68,Suspicious Proximity,32.13s,904,1024
+969,7,Excessive Hand Movement,32.30s,909,1029
+969,7,Excessive Head Turn,32.30s,909,1029
+969,7,Hands Raised,32.30s,909,1029
+969,7,Looking Away,32.30s,909,1029
+969,10,Excessive Hand Movement,32.30s,909,1029
+969,10,Excessive Head Turn,32.30s,909,1029
+969,10,Hands Raised,32.30s,909,1029
+969,10,Looking Away,32.30s,909,1029
+969,64,Excessive Hand Movement,32.30s,909,1029
+969,64,Excessive Head Turn,32.30s,909,1029
+969,64,Looking Away,32.30s,909,1029
+969,68,Excessive Hand Movement,32.30s,909,1029
+971,12,Excessive Hand Movement,32.37s,911,1031
+971,12,Excessive Head Turn,32.37s,911,1031
+971,12,Hands Raised,32.37s,911,1031
+971,12,Looking Away,32.37s,911,1031
+972,25-68,Suspicious Proximity,32.40s,912,1032
+982,68,Excessive Head Turn,32.73s,922,1042
+982,68,Looking Away,32.73s,922,1042
+983,70,Looking Away,32.77s,923,1043
+983,47-61,Suspicious Proximity,32.77s,923,1043
+985,47-58,Suspicious Proximity,32.83s,925,1045
+985,47-68,Suspicious Proximity,32.83s,925,1045
+998,70,Excessive Head Turn,33.27s,938,1058
+999,64,Excessive Hand Movement,33.30s,939,1059
+999,64,Excessive Head Turn,33.30s,939,1059
+999,64,Looking Away,33.30s,939,1059
+999,68,Excessive Hand Movement,33.30s,939,1059
+1002,70,Excessive Hand Movement,33.40s,942,1062
+1010,7,Excessive Hand Movement,33.67s,950,1070
+1010,7,Excessive Head Turn,33.67s,950,1070
+1010,7,Hands Raised,33.67s,950,1070
+1010,7,Looking Away,33.67s,950,1070
+1012,68,Excessive Head Turn,33.73s,952,1072
+1012,68,Looking Away,33.73s,952,1072
+1013,70,Looking Away,33.77s,953,1073
+1015,10-61,Suspicious Proximity,33.83s,955,1075
+1020,64,Hands Raised,34.00s,960,1080
+1025,10,Excessive Hand Movement,34.17s,965,1085
+1025,10,Excessive Head Turn,34.17s,965,1085
+1025,10,Hands Raised,34.17s,965,1085
+1025,10,Looking Away,34.17s,965,1085
+1025,12,Excessive Hand Movement,34.17s,965,1085
+1025,12,Excessive Head Turn,34.17s,965,1085
+1025,12,Hands Raised,34.17s,965,1085
+1025,12,Looking Away,34.17s,965,1085
+1028,70,Excessive Head Turn,34.27s,968,1088
+1029,64,Excessive Hand Movement,34.30s,969,1089
+1029,64,Excessive Head Turn,34.30s,969,1089
+1029,64,Looking Away,34.30s,969,1089
+1029,68,Excessive Hand Movement,34.30s,969,1089
+1032,70,Excessive Hand Movement,34.40s,972,1092
+1042,47,Excessive Hand Movement,34.73s,982,1102
+1042,47,Excessive Head Turn,34.73s,982,1102
+1042,47,Hands Raised,34.73s,982,1102
+1042,47,Looking Away,34.73s,982,1102
+1042,51,Excessive Hand Movement,34.73s,982,1102
+1042,51,Excessive Head Turn,34.73s,982,1102
+1042,51,Hands Raised,34.73s,982,1102
+1042,51,Looking Away,34.73s,982,1102
+1047,68,Excessive Head Turn,34.90s,987,1107
+1047,68,Looking Away,34.90s,987,1107
+1047,70,Looking Away,34.90s,987,1107
+1050,64,Hands Raised,35.00s,990,1110
+1052,12-70,Suspicious Proximity,35.07s,992,1112
+1052,25-70,Suspicious Proximity,35.07s,992,1112
+1052,51-70,Suspicious Proximity,35.07s,992,1112
+1055,10,Excessive Hand Movement,35.17s,995,1115
+1055,10,Excessive Head Turn,35.17s,995,1115
+1055,10,Hands Raised,35.17s,995,1115
+1055,10,Looking Away,35.17s,995,1115
+1055,12,Excessive Hand Movement,35.17s,995,1115
+1055,12,Excessive Head Turn,35.17s,995,1115
+1055,12,Hands Raised,35.17s,995,1115
+1055,12,Looking Away,35.17s,995,1115
+1062,61,Excessive Hand Movement,35.40s,1002,1122
+1062,61,Excessive Head Turn,35.40s,1002,1122
+1062,61,Looking Away,35.40s,1002,1122
+1063,64,Excessive Hand Movement,35.43s,1003,1123
+1063,64,Excessive Head Turn,35.43s,1003,1123
+1063,64,Looking Away,35.43s,1003,1123
+1064,32-58,Suspicious Proximity,35.47s,1004,1124
+1066,68,Excessive Hand Movement,35.53s,1006,1126
+1066,70,Excessive Hand Movement,35.53s,1006,1126
+1066,70,Excessive Head Turn,35.53s,1006,1126
+1078,33,Excessive Hand Movement,35.93s,1018,1138
+1078,33,Excessive Head Turn,35.93s,1018,1138
+1078,33,Hands Raised,35.93s,1018,1138
+1078,33,Looking Away,35.93s,1018,1138
+1089,25,Excessive Hand Movement,36.30s,1029,1149
+1089,25,Excessive Head Turn,36.30s,1029,1149
+1089,25,Hands Raised,36.30s,1029,1149
+1089,25,Looking Away,36.30s,1029,1149
+1093,51-61,Suspicious Proximity,36.43s,1033,1153
+1094,10-47,Suspicious Proximity,36.47s,1034,1154
+1097,47,Excessive Hand Movement,36.57s,1037,1157
+1097,47,Excessive Head Turn,36.57s,1037,1157
+1097,47,Hands Raised,36.57s,1037,1157
+1097,47,Looking Away,36.57s,1037,1157
+1097,61,Excessive Hand Movement,36.57s,1037,1157
+1097,61,Excessive Head Turn,36.57s,1037,1157
+1097,61,Looking Away,36.57s,1037,1157
+1110,12-61,Suspicious Proximity,37.00s,1050,1170
+1112,7,Excessive Hand Movement,37.07s,1052,1172
+1112,7,Excessive Head Turn,37.07s,1052,1172
+1112,7,Hands Raised,37.07s,1052,1172
+1112,7,Looking Away,37.07s,1052,1172
+1112,10,Excessive Hand Movement,37.07s,1052,1172
+1112,10,Excessive Head Turn,37.07s,1052,1172
+1112,10,Hands Raised,37.07s,1052,1172
+1112,10,Looking Away,37.07s,1052,1172
+1117,33,Excessive Hand Movement,37.23s,1057,1177
+1117,33,Excessive Head Turn,37.23s,1057,1177
+1117,33,Hands Raised,37.23s,1057,1177
+1117,33,Looking Away,37.23s,1057,1177
+1127,47,Excessive Hand Movement,37.57s,1067,1187
+1127,47,Excessive Head Turn,37.57s,1067,1187
+1127,47,Hands Raised,37.57s,1067,1187
+1127,47,Looking Away,37.57s,1067,1187
+1158,47,Excessive Hand Movement,38.60s,1098,1218
+1158,47,Excessive Head Turn,38.60s,1098,1218
+1158,47,Hands Raised,38.60s,1098,1218
+1158,47,Looking Away,38.60s,1098,1218
+1158,51,Excessive Hand Movement,38.60s,1098,1218
+1158,51,Excessive Head Turn,38.60s,1098,1218
+1158,51,Hands Raised,38.60s,1098,1218
+1158,51,Looking Away,38.60s,1098,1218
+1158,61,Excessive Hand Movement,38.60s,1098,1218
+1158,61,Excessive Head Turn,38.60s,1098,1218
+1158,61,Hands Raised,38.60s,1098,1218
+1158,61,Looking Away,38.60s,1098,1218
+1160,64,Excessive Hand Movement,38.67s,1100,1220
+1160,64,Excessive Head Turn,38.67s,1100,1220
+1160,64,Hands Raised,38.67s,1100,1220
+1160,64,Looking Away,38.67s,1100,1220
+1160,68,Excessive Hand Movement,38.67s,1100,1220
+1160,68,Excessive Head Turn,38.67s,1100,1220
+1160,68,Looking Away,38.67s,1100,1220
+1160,70,Excessive Hand Movement,38.67s,1100,1220
+1160,70,Excessive Head Turn,38.67s,1100,1220
+1160,70,Hands Raised,38.67s,1100,1220
+1160,70,Looking Away,38.67s,1100,1220
+1171,33-8,Suspicious Proximity,39.03s,1111,1231
+1174,7,Excessive Hand Movement,39.13s,1114,1234
+1174,7,Excessive Head Turn,39.13s,1114,1234
+1174,7,Hands Raised,39.13s,1114,1234
+1174,7,Looking Away,39.13s,1114,1234
+1185,10-70,Suspicious Proximity,39.50s,1125,1245
+1188,47,Excessive Hand Movement,39.60s,1128,1248
+1188,47,Excessive Head Turn,39.60s,1128,1248
+1188,47,Hands Raised,39.60s,1128,1248
+1188,47,Looking Away,39.60s,1128,1248
+1190,68,Excessive Hand Movement,39.67s,1130,1250
+1190,68,Excessive Head Turn,39.67s,1130,1250
+1190,68,Looking Away,39.67s,1130,1250
+1190,70,Excessive Hand Movement,39.67s,1130,1250
+1190,70,Excessive Head Turn,39.67s,1130,1250
+1190,70,Hands Raised,39.67s,1130,1250
+1190,70,Looking Away,39.67s,1130,1250
+1204,7,Excessive Hand Movement,40.13s,1144,1264
+1204,7,Excessive Head Turn,40.13s,1144,1264
+1204,7,Hands Raised,40.13s,1144,1264
+1204,7,Looking Away,40.13s,1144,1264
+1207,10,Excessive Hand Movement,40.23s,1147,1267
+1207,10,Excessive Head Turn,40.23s,1147,1267
+1207,10,Hands Raised,40.23s,1147,1267
+1207,10,Looking Away,40.23s,1147,1267
+1207,12,Excessive Hand Movement,40.23s,1147,1267
+1207,12,Excessive Head Turn,40.23s,1147,1267
+1207,12,Hands Raised,40.23s,1147,1267
+1207,12,Looking Away,40.23s,1147,1267
+1208,68-8,Suspicious Proximity,40.27s,1148,1268
+1210,8,Excessive Hand Movement,40.33s,1150,1270
+1210,8,Excessive Head Turn,40.33s,1150,1270
+1210,8,Hands Raised,40.33s,1150,1270
+1210,8,Looking Away,40.33s,1150,1270
+1211,51,Excessive Hand Movement,40.37s,1151,1271
+1211,51,Excessive Head Turn,40.37s,1151,1271
+1211,51,Hands Raised,40.37s,1151,1271
+1211,51,Looking Away,40.37s,1151,1271
+1211,61,Excessive Hand Movement,40.37s,1151,1271
+1211,61,Excessive Head Turn,40.37s,1151,1271
+1211,61,Hands Raised,40.37s,1151,1271
+1211,61,Looking Away,40.37s,1151,1271
+1211,64,Excessive Hand Movement,40.37s,1151,1271
+1211,64,Excessive Head Turn,40.37s,1151,1271
+1211,64,Hands Raised,40.37s,1151,1271
+1211,64,Looking Away,40.37s,1151,1271
+1213,10-8,Suspicious Proximity,40.43s,1153,1273
+1218,47,Excessive Hand Movement,40.60s,1158,1278
+1218,47,Excessive Head Turn,40.60s,1158,1278
+1218,47,Hands Raised,40.60s,1158,1278
+1218,47,Looking Away,40.60s,1158,1278
+1220,68,Excessive Hand Movement,40.67s,1160,1280
+1220,68,Excessive Head Turn,40.67s,1160,1280
+1220,68,Looking Away,40.67s,1160,1280
+1220,70,Excessive Hand Movement,40.67s,1160,1280
+1220,70,Excessive Head Turn,40.67s,1160,1280
+1220,70,Hands Raised,40.67s,1160,1280
+1220,70,Looking Away,40.67s,1160,1280
+1221,47-51,Suspicious Proximity,40.70s,1161,1281
+1224,25,Excessive Hand Movement,40.80s,1164,1284
+1224,25,Excessive Head Turn,40.80s,1164,1284
+1224,25,Hands Raised,40.80s,1164,1284
+1224,25,Looking Away,40.80s,1164,1284
+1234,7,Excessive Hand Movement,41.13s,1174,1294
+1234,7,Excessive Head Turn,41.13s,1174,1294
+1234,7,Hands Raised,41.13s,1174,1294
+1234,7,Looking Away,41.13s,1174,1294
+1236,33,Excessive Hand Movement,41.20s,1176,1296
+1236,33,Excessive Head Turn,41.20s,1176,1296
+1236,33,Hands Raised,41.20s,1176,1296
+1236,33,Looking Away,41.20s,1176,1296
+1237,10,Excessive Hand Movement,41.23s,1177,1297
+1237,10,Excessive Head Turn,41.23s,1177,1297
+1237,10,Hands Raised,41.23s,1177,1297
+1237,10,Looking Away,41.23s,1177,1297
+1237,12,Excessive Hand Movement,41.23s,1177,1297
+1237,12,Excessive Head Turn,41.23s,1177,1297
+1237,12,Hands Raised,41.23s,1177,1297
+1237,12,Looking Away,41.23s,1177,1297
+1241,51,Excessive Hand Movement,41.37s,1181,1301
+1241,51,Excessive Head Turn,41.37s,1181,1301
+1241,51,Hands Raised,41.37s,1181,1301
+1241,51,Looking Away,41.37s,1181,1301
+1241,61,Excessive Hand Movement,41.37s,1181,1301
+1241,61,Excessive Head Turn,41.37s,1181,1301
+1241,61,Hands Raised,41.37s,1181,1301
+1241,61,Looking Away,41.37s,1181,1301
+1241,64,Excessive Hand Movement,41.37s,1181,1301
+1241,64,Excessive Head Turn,41.37s,1181,1301
+1241,64,Hands Raised,41.37s,1181,1301
+1241,64,Looking Away,41.37s,1181,1301
+1243,10-68,Suspicious Proximity,41.43s,1183,1303
+1251,8,Excessive Hand Movement,41.70s,1191,1311
+1251,8,Excessive Head Turn,41.70s,1191,1311
+1251,8,Hands Raised,41.70s,1191,1311
+1251,8,Looking Away,41.70s,1191,1311
+1251,12-8,Suspicious Proximity,41.70s,1191,1311
+1257,68,Excessive Hand Movement,41.90s,1197,1317
+1257,68,Excessive Head Turn,41.90s,1197,1317
+1257,68,Looking Away,41.90s,1197,1317
+1264,7,Excessive Hand Movement,42.13s,1204,1324
+1264,7,Excessive Head Turn,42.13s,1204,1324
+1264,7,Hands Raised,42.13s,1204,1324
+1264,7,Looking Away,42.13s,1204,1324
+1266,33,Excessive Hand Movement,42.20s,1206,1326
+1266,33,Excessive Head Turn,42.20s,1206,1326
+1266,33,Hands Raised,42.20s,1206,1326
+1266,33,Looking Away,42.20s,1206,1326
+1269,68,Hands Raised,42.30s,1209,1329
+1271,10,Excessive Hand Movement,42.37s,1211,1331
+1271,10,Excessive Head Turn,42.37s,1211,1331
+1271,10,Hands Raised,42.37s,1211,1331
+1271,10,Looking Away,42.37s,1211,1331
+1271,51,Excessive Hand Movement,42.37s,1211,1331
+1271,51,Excessive Head Turn,42.37s,1211,1331
+1271,51,Hands Raised,42.37s,1211,1331
+1271,51,Looking Away,42.37s,1211,1331
+1271,61,Excessive Hand Movement,42.37s,1211,1331
+1271,61,Excessive Head Turn,42.37s,1211,1331
+1271,61,Hands Raised,42.37s,1211,1331
+1271,61,Looking Away,42.37s,1211,1331
+1271,64,Excessive Hand Movement,42.37s,1211,1331
+1271,64,Excessive Head Turn,42.37s,1211,1331
+1271,64,Hands Raised,42.37s,1211,1331
+1271,64,Looking Away,42.37s,1211,1331
+1274,12,Excessive Hand Movement,42.47s,1214,1334
+1274,12,Excessive Head Turn,42.47s,1214,1334
+1274,12,Hands Raised,42.47s,1214,1334
+1274,12,Looking Away,42.47s,1214,1334
+1287,68,Excessive Hand Movement,42.90s,1227,1347
+1287,68,Excessive Head Turn,42.90s,1227,1347
+1287,68,Looking Away,42.90s,1227,1347
+1294,51-7,Suspicious Proximity,43.13s,1234,1354
+1295,25-51,Suspicious Proximity,43.17s,1235,1355
+1296,33,Excessive Hand Movement,43.20s,1236,1356
+1296,33,Excessive Head Turn,43.20s,1236,1356
+1296,33,Hands Raised,43.20s,1236,1356
+1296,33,Looking Away,43.20s,1236,1356
+1296,70-8,Suspicious Proximity,43.20s,1236,1356
+1301,10,Excessive Hand Movement,43.37s,1241,1361
+1301,10,Excessive Head Turn,43.37s,1241,1361
+1301,10,Hands Raised,43.37s,1241,1361
+1301,10,Looking Away,43.37s,1241,1361
+1301,51,Excessive Hand Movement,43.37s,1241,1361
+1301,51,Excessive Head Turn,43.37s,1241,1361
+1301,51,Hands Raised,43.37s,1241,1361
+1301,51,Looking Away,43.37s,1241,1361
+1301,61,Excessive Hand Movement,43.37s,1241,1361
+1301,61,Excessive Head Turn,43.37s,1241,1361
+1301,61,Hands Raised,43.37s,1241,1361
+1301,61,Looking Away,43.37s,1241,1361
+1302,25,Excessive Hand Movement,43.40s,1242,1362
+1302,25,Excessive Head Turn,43.40s,1242,1362
+1302,25,Hands Raised,43.40s,1242,1362
+1302,25,Looking Away,43.40s,1242,1362
+1304,12,Excessive Hand Movement,43.47s,1244,1364
+1304,12,Excessive Head Turn,43.47s,1244,1364
+1304,12,Hands Raised,43.47s,1244,1364
+1304,12,Looking Away,43.47s,1244,1364
+1320,64,Excessive Hand Movement,44.00s,1260,1380
+1320,64,Excessive Head Turn,44.00s,1260,1380
+1320,64,Hands Raised,44.00s,1260,1380
+1320,64,Looking Away,44.00s,1260,1380
+1331,10,Excessive Hand Movement,44.37s,1271,1391
+1331,10,Excessive Head Turn,44.37s,1271,1391
+1331,10,Hands Raised,44.37s,1271,1391
+1331,10,Looking Away,44.37s,1271,1391
+1331,61,Excessive Hand Movement,44.37s,1271,1391
+1331,61,Excessive Head Turn,44.37s,1271,1391
+1331,61,Hands Raised,44.37s,1271,1391
+1331,61,Looking Away,44.37s,1271,1391
+1334,12,Excessive Hand Movement,44.47s,1274,1394
+1334,12,Excessive Head Turn,44.47s,1274,1394
+1334,12,Hands Raised,44.47s,1274,1394
+1334,12,Looking Away,44.47s,1274,1394
+1334,25,Excessive Hand Movement,44.47s,1274,1394
+1334,25,Excessive Head Turn,44.47s,1274,1394
+1334,25,Hands Raised,44.47s,1274,1394
+1334,25,Looking Away,44.47s,1274,1394
+1334,33,Excessive Hand Movement,44.47s,1274,1394
+1334,33,Excessive Head Turn,44.47s,1274,1394
+1334,33,Hands Raised,44.47s,1274,1394
+1334,33,Looking Away,44.47s,1274,1394
+1334,51,Excessive Hand Movement,44.47s,1274,1394
+1334,51,Excessive Head Turn,44.47s,1274,1394
+1334,51,Hands Raised,44.47s,1274,1394
+1334,51,Looking Away,44.47s,1274,1394
+1334,68,Excessive Hand Movement,44.47s,1274,1394
+1334,68,Excessive Head Turn,44.47s,1274,1394
+1334,68,Hands Raised,44.47s,1274,1394
+1334,68,Looking Away,44.47s,1274,1394
+1335,7,Excessive Hand Movement,44.50s,1275,1395
+1335,7,Excessive Head Turn,44.50s,1275,1395
+1335,7,Hands Raised,44.50s,1275,1395
+1335,7,Looking Away,44.50s,1275,1395
+1361,10,Excessive Hand Movement,45.37s,1301,1421
+1361,10,Excessive Head Turn,45.37s,1301,1421
+1361,10,Hands Raised,45.37s,1301,1421
+1361,10,Looking Away,45.37s,1301,1421
+1362,64-70,Suspicious Proximity,45.40s,1302,1422
+1363,64,Excessive Hand Movement,45.43s,1303,1423
+1363,64,Excessive Head Turn,45.43s,1303,1423
+1363,64,Hands Raised,45.43s,1303,1423
+1363,64,Looking Away,45.43s,1303,1423
+1364,12,Excessive Hand Movement,45.47s,1304,1424
+1364,12,Excessive Head Turn,45.47s,1304,1424
+1364,12,Hands Raised,45.47s,1304,1424
+1364,12,Looking Away,45.47s,1304,1424
+1364,33,Excessive Hand Movement,45.47s,1304,1424
+1364,33,Excessive Head Turn,45.47s,1304,1424
+1364,33,Hands Raised,45.47s,1304,1424
+1364,33,Looking Away,45.47s,1304,1424
+1369,25,Excessive Hand Movement,45.63s,1309,1429
+1369,25,Excessive Head Turn,45.63s,1309,1429
+1369,25,Hands Raised,45.63s,1309,1429
+1369,25,Looking Away,45.63s,1309,1429
+1386,51,Excessive Hand Movement,46.20s,1326,1446
+1386,51,Excessive Head Turn,46.20s,1326,1446
+1386,51,Hands Raised,46.20s,1326,1446
+1386,51,Looking Away,46.20s,1326,1446
+1387,25-61,Suspicious Proximity,46.23s,1327,1447
+1388,61,Excessive Hand Movement,46.27s,1328,1448
+1388,61,Excessive Head Turn,46.27s,1328,1448
+1388,61,Hands Raised,46.27s,1328,1448
+1388,61,Looking Away,46.27s,1328,1448
+1390,33-70,Suspicious Proximity,46.33s,1330,1450
+1391,10,Excessive Hand Movement,46.37s,1331,1451
+1391,10,Excessive Head Turn,46.37s,1331,1451
+1391,10,Hands Raised,46.37s,1331,1451
+1391,10,Looking Away,46.37s,1331,1451
+1392,33-7,Suspicious Proximity,46.40s,1332,1452
+1394,12,Excessive Hand Movement,46.47s,1334,1454
+1394,12,Excessive Head Turn,46.47s,1334,1454
+1394,12,Hands Raised,46.47s,1334,1454
+1394,12,Looking Away,46.47s,1334,1454
+1398,68,Excessive Hand Movement,46.60s,1338,1458
+1398,68,Excessive Head Turn,46.60s,1338,1458
+1398,68,Hands Raised,46.60s,1338,1458
+1398,68,Looking Away,46.60s,1338,1458
+1403,7,Excessive Hand Movement,46.77s,1343,1463
+1403,7,Excessive Head Turn,46.77s,1343,1463
+1403,7,Hands Raised,46.77s,1343,1463
+1403,7,Looking Away,46.77s,1343,1463
+1405,64,Excessive Hand Movement,46.83s,1345,1465
+1405,64,Excessive Head Turn,46.83s,1345,1465
+1405,64,Hands Raised,46.83s,1345,1465
+1405,64,Looking Away,46.83s,1345,1465
+1412,25,Excessive Hand Movement,47.07s,1352,1472
+1412,25,Excessive Head Turn,47.07s,1352,1472
+1412,25,Hands Raised,47.07s,1352,1472
+1412,25,Looking Away,47.07s,1352,1472
+1422,33,Excessive Hand Movement,47.40s,1362,1482
+1422,33,Excessive Head Turn,47.40s,1362,1482
+1422,33,Hands Raised,47.40s,1362,1482
+1422,33,Looking Away,47.40s,1362,1482
+1424,12,Excessive Hand Movement,47.47s,1364,1484
+1424,12,Excessive Head Turn,47.47s,1364,1484
+1424,12,Hands Raised,47.47s,1364,1484
+1424,12,Looking Away,47.47s,1364,1484
+1428,68,Excessive Hand Movement,47.60s,1368,1488
+1428,68,Excessive Head Turn,47.60s,1368,1488
+1428,68,Hands Raised,47.60s,1368,1488
+1428,68,Looking Away,47.60s,1368,1488
+1429,8,Excessive Hand Movement,47.63s,1369,1489
+1429,8,Excessive Head Turn,47.63s,1369,1489
+1429,8,Hands Raised,47.63s,1369,1489
+1429,8,Looking Away,47.63s,1369,1489
+1444,79,Looking Away,48.13s,1384,1504
+1454,12,Excessive Hand Movement,48.47s,1394,1514
+1454,12,Excessive Head Turn,48.47s,1394,1514
+1454,12,Hands Raised,48.47s,1394,1514
+1454,12,Looking Away,48.47s,1394,1514
+1456,25,Excessive Hand Movement,48.53s,1396,1516
+1456,25,Excessive Head Turn,48.53s,1396,1516
+1456,25,Hands Raised,48.53s,1396,1516
+1456,25,Looking Away,48.53s,1396,1516
+1458,68,Excessive Hand Movement,48.60s,1398,1518
+1458,68,Excessive Head Turn,48.60s,1398,1518
+1458,68,Hands Raised,48.60s,1398,1518
+1458,68,Looking Away,48.60s,1398,1518
+1459,10,Excessive Hand Movement,48.63s,1399,1519
+1459,10,Excessive Head Turn,48.63s,1399,1519
+1459,10,Hands Raised,48.63s,1399,1519
+1459,10,Looking Away,48.63s,1399,1519
+1460,79,Excessive Hand Movement,48.67s,1400,1520
+1460,79,Excessive Head Turn,48.67s,1400,1520
+1470,33,Excessive Hand Movement,49.00s,1410,1530
+1470,33,Excessive Head Turn,49.00s,1410,1530
+1470,33,Hands Raised,49.00s,1410,1530
+1470,33,Looking Away,49.00s,1410,1530
+1471,61-68,Suspicious Proximity,49.03s,1411,1531
+1474,79,Looking Away,49.13s,1414,1534
+1488,68,Excessive Hand Movement,49.60s,1428,1548
+1488,68,Excessive Head Turn,49.60s,1428,1548
+1488,68,Hands Raised,49.60s,1428,1548
+1488,68,Looking Away,49.60s,1428,1548
+1490,79,Excessive Hand Movement,49.67s,1430,1550
+1490,79,Excessive Head Turn,49.67s,1430,1550
+1492,12,Excessive Hand Movement,49.73s,1432,1552
+1492,12,Excessive Head Turn,49.73s,1432,1552
+1492,12,Hands Raised,49.73s,1432,1552
+1492,12,Looking Away,49.73s,1432,1552
+1497,10,Excessive Hand Movement,49.90s,1437,1557
+1497,10,Excessive Head Turn,49.90s,1437,1557
+1497,10,Hands Raised,49.90s,1437,1557
+1497,10,Looking Away,49.90s,1437,1557
+1499,12-68,Suspicious Proximity,49.97s,1439,1559
+1501,51-68,Suspicious Proximity,50.03s,1441,1561
+1502,25,Excessive Hand Movement,50.07s,1442,1562
+1502,25,Excessive Head Turn,50.07s,1442,1562
+1502,25,Hands Raised,50.07s,1442,1562
+1502,25,Looking Away,50.07s,1442,1562
+1504,79,Looking Away,50.13s,1444,1564
+1508,33,Excessive Hand Movement,50.27s,1448,1568
+1508,33,Excessive Head Turn,50.27s,1448,1568
+1508,33,Hands Raised,50.27s,1448,1568
+1508,33,Looking Away,50.27s,1448,1568
+1514,7-79,Suspicious Proximity,50.47s,1454,1574
+1514,12-79,Suspicious Proximity,50.47s,1454,1574
+1514,25-79,Suspicious Proximity,50.47s,1454,1574
+1514,61-79,Suspicious Proximity,50.47s,1454,1574
+1533,51,Excessive Hand Movement,51.10s,1473,1593
+1533,51,Excessive Head Turn,51.10s,1473,1593
+1533,51,Hands Raised,51.10s,1473,1593
+1533,51,Looking Away,51.10s,1473,1593
+1538,33,Excessive Hand Movement,51.27s,1478,1598
+1538,33,Excessive Head Turn,51.27s,1478,1598
+1538,33,Hands Raised,51.27s,1478,1598
+1538,33,Looking Away,51.27s,1478,1598
+1538,68,Excessive Hand Movement,51.27s,1478,1598
+1538,68,Excessive Head Turn,51.27s,1478,1598
+1538,68,Hands Raised,51.27s,1478,1598
+1538,68,Looking Away,51.27s,1478,1598
+1545,10,Excessive Hand Movement,51.50s,1485,1605
+1545,10,Excessive Head Turn,51.50s,1485,1605
+1545,10,Hands Raised,51.50s,1485,1605
+1545,10,Looking Away,51.50s,1485,1605
+1552,12,Excessive Hand Movement,51.73s,1492,1612
+1552,12,Excessive Head Turn,51.73s,1492,1612
+1552,12,Hands Raised,51.73s,1492,1612
+1552,12,Looking Away,51.73s,1492,1612
+1556,70,Excessive Hand Movement,51.87s,1496,1616
+1556,70,Excessive Head Turn,51.87s,1496,1616
+1556,70,Hands Raised,51.87s,1496,1616
+1556,70,Looking Away,51.87s,1496,1616
+1556,79,Excessive Hand Movement,51.87s,1496,1616
+1556,79,Excessive Head Turn,51.87s,1496,1616
+1556,79,Looking Away,51.87s,1496,1616
+1557,8,Excessive Hand Movement,51.90s,1497,1617
+1557,8,Excessive Head Turn,51.90s,1497,1617
+1557,8,Hands Raised,51.90s,1497,1617
+1557,8,Looking Away,51.90s,1497,1617
+1567,64,Excessive Hand Movement,52.23s,1507,1627
+1567,64,Excessive Head Turn,52.23s,1507,1627
+1567,64,Hands Raised,52.23s,1507,1627
+1567,64,Looking Away,52.23s,1507,1627
+1573,80,Looking Away,52.43s,1513,1633
+1575,68,Excessive Hand Movement,52.50s,1515,1635
+1575,68,Excessive Head Turn,52.50s,1515,1635
+1575,68,Hands Raised,52.50s,1515,1635
+1575,68,Looking Away,52.50s,1515,1635
+1576,80,Excessive Head Turn,52.53s,1516,1636
+1579,80,Excessive Hand Movement,52.63s,1519,1639
+1586,10,Excessive Hand Movement,52.87s,1526,1646
+1586,10,Excessive Head Turn,52.87s,1526,1646
+1586,10,Hands Raised,52.87s,1526,1646
+1586,10,Looking Away,52.87s,1526,1646
+1599,7,Excessive Hand Movement,53.30s,1539,1659
+1599,7,Excessive Head Turn,53.30s,1539,1659
+1599,7,Hands Raised,53.30s,1539,1659
+1599,7,Looking Away,53.30s,1539,1659
+1601,12,Excessive Hand Movement,53.37s,1541,1661
+1601,12,Excessive Head Turn,53.37s,1541,1661
+1601,12,Hands Raised,53.37s,1541,1661
+1601,12,Looking Away,53.37s,1541,1661
+1614,61-8,Suspicious Proximity,53.80s,1554,1674
+1624,51,Excessive Hand Movement,54.13s,1564,1684
+1624,51,Excessive Head Turn,54.13s,1564,1684
+1624,51,Hands Raised,54.13s,1564,1684
+1624,51,Looking Away,54.13s,1564,1684
+1624,61,Excessive Hand Movement,54.13s,1564,1684
+1624,61,Excessive Head Turn,54.13s,1564,1684
+1624,61,Hands Raised,54.13s,1564,1684
+1624,61,Looking Away,54.13s,1564,1684
+1629,7,Excessive Hand Movement,54.30s,1569,1689
+1629,7,Excessive Head Turn,54.30s,1569,1689
+1629,7,Hands Raised,54.30s,1569,1689
+1629,7,Looking Away,54.30s,1569,1689
+1629,8-80,Suspicious Proximity,54.30s,1569,1689
+1632,61-70,Suspicious Proximity,54.40s,1572,1692
+1632,68-70,Suspicious Proximity,54.40s,1572,1692
+1636,51-8,Suspicious Proximity,54.53s,1576,1696
+1658,70-79,Suspicious Proximity,55.27s,1598,1718
+1673,80,Excessive Hand Movement,55.77s,1613,1733
+1673,80,Excessive Head Turn,55.77s,1613,1733
+1673,80,Looking Away,55.77s,1613,1733
+1673,68-80,Suspicious Proximity,55.77s,1613,1733
+1675,7-80,Suspicious Proximity,55.83s,1615,1735
+1678,70,Excessive Hand Movement,55.93s,1618,1738
+1678,70,Excessive Head Turn,55.93s,1618,1738
+1678,70,Hands Raised,55.93s,1618,1738
+1678,70,Looking Away,55.93s,1618,1738
+1678,79,Excessive Hand Movement,55.93s,1618,1738
+1678,79,Excessive Head Turn,55.93s,1618,1738
+1678,79,Looking Away,55.93s,1618,1738
+1679,68,Excessive Hand Movement,55.97s,1619,1739
+1679,68,Excessive Head Turn,55.97s,1619,1739
+1679,68,Hands Raised,55.97s,1619,1739
+1679,68,Looking Away,55.97s,1619,1739
+1682,51-80,Suspicious Proximity,56.07s,1622,1742
+1686,51,Excessive Hand Movement,56.20s,1626,1746
+1686,51,Excessive Head Turn,56.20s,1626,1746
+1686,51,Hands Raised,56.20s,1626,1746
+1686,51,Looking Away,56.20s,1626,1746
+1686,61,Excessive Hand Movement,56.20s,1626,1746
+1686,61,Excessive Head Turn,56.20s,1626,1746
+1686,61,Hands Raised,56.20s,1626,1746
+1686,61,Looking Away,56.20s,1626,1746
+1703,80,Excessive Hand Movement,56.77s,1643,1763
+1703,80,Excessive Head Turn,56.77s,1643,1763
+1703,80,Looking Away,56.77s,1643,1763
+1708,7,Excessive Hand Movement,56.93s,1648,1768
+1708,7,Excessive Head Turn,56.93s,1648,1768
+1708,7,Hands Raised,56.93s,1648,1768
+1708,7,Looking Away,56.93s,1648,1768
+1708,70,Excessive Hand Movement,56.93s,1648,1768
+1708,70,Excessive Head Turn,56.93s,1648,1768
+1708,70,Hands Raised,56.93s,1648,1768
+1708,70,Looking Away,56.93s,1648,1768
+1708,79,Excessive Hand Movement,56.93s,1648,1768
+1708,79,Excessive Head Turn,56.93s,1648,1768
+1708,79,Looking Away,56.93s,1648,1768
+1708,10-25,Suspicious Proximity,56.93s,1648,1768
+1716,10,Excessive Hand Movement,57.20s,1656,1776
+1716,10,Excessive Head Turn,57.20s,1656,1776
+1716,10,Hands Raised,57.20s,1656,1776
+1716,10,Looking Away,57.20s,1656,1776
+1716,12,Excessive Hand Movement,57.20s,1656,1776
+1716,12,Excessive Head Turn,57.20s,1656,1776
+1716,12,Hands Raised,57.20s,1656,1776
+1716,12,Looking Away,57.20s,1656,1776
+1723,51-79,Suspicious Proximity,57.43s,1663,1783
+1726,33,Excessive Hand Movement,57.53s,1666,1786
+1726,33,Excessive Head Turn,57.53s,1666,1786
+1726,33,Hands Raised,57.53s,1666,1786
+1726,33,Looking Away,57.53s,1666,1786
+1726,51,Excessive Hand Movement,57.53s,1666,1786
+1726,51,Excessive Head Turn,57.53s,1666,1786
+1726,51,Hands Raised,57.53s,1666,1786
+1726,51,Looking Away,57.53s,1666,1786
+1726,61,Excessive Hand Movement,57.53s,1666,1786
+1726,61,Excessive Head Turn,57.53s,1666,1786
+1726,61,Hands Raised,57.53s,1666,1786
+1726,61,Looking Away,57.53s,1666,1786
+1728,79-8,Suspicious Proximity,57.60s,1668,1788
+1733,80,Excessive Hand Movement,57.77s,1673,1793
+1733,80,Excessive Head Turn,57.77s,1673,1793
+1733,80,Looking Away,57.77s,1673,1793
+1747,68,Excessive Hand Movement,58.23s,1687,1807
+1747,68,Excessive Head Turn,58.23s,1687,1807
+1747,68,Hands Raised,58.23s,1687,1807
+1747,68,Looking Away,58.23s,1687,1807
+1755,25,Excessive Hand Movement,58.50s,1695,1815
+1755,25,Excessive Head Turn,58.50s,1695,1815
+1755,25,Hands Raised,58.50s,1695,1815
+1755,25,Looking Away,58.50s,1695,1815
+1756,12,Excessive Hand Movement,58.53s,1696,1816
+1756,12,Excessive Head Turn,58.53s,1696,1816
+1756,12,Hands Raised,58.53s,1696,1816
+1756,12,Looking Away,58.53s,1696,1816
+1756,33,Excessive Hand Movement,58.53s,1696,1816
+1756,33,Excessive Head Turn,58.53s,1696,1816
+1756,33,Hands Raised,58.53s,1696,1816
+1756,33,Looking Away,58.53s,1696,1816
+1757,51,Excessive Hand Movement,58.57s,1697,1817
+1757,51,Excessive Head Turn,58.57s,1697,1817
+1757,51,Hands Raised,58.57s,1697,1817
+1757,51,Looking Away,58.57s,1697,1817
+1757,61,Excessive Hand Movement,58.57s,1697,1817
+1757,61,Excessive Head Turn,58.57s,1697,1817
+1757,61,Hands Raised,58.57s,1697,1817
+1757,61,Looking Away,58.57s,1697,1817
+1769,10,Excessive Hand Movement,58.97s,1709,1829
+1769,10,Excessive Head Turn,58.97s,1709,1829
+1769,10,Hands Raised,58.97s,1709,1829
+1769,10,Looking Away,58.97s,1709,1829
+1781,33-84,Suspicious Proximity,59.37s,1721,1841
+1781,83-84,Suspicious Proximity,59.37s,1721,1841
+1787,12,Excessive Hand Movement,59.57s,1727,1847
+1787,12,Excessive Head Turn,59.57s,1727,1847
+1787,12,Hands Raised,59.57s,1727,1847
+1787,12,Looking Away,59.57s,1727,1847
+1797,10-79,Suspicious Proximity,59.90s,1737,1857
+1801,33,Excessive Hand Movement,60.03s,1741,1861
+1801,33,Excessive Head Turn,60.03s,1741,1861
+1801,33,Hands Raised,60.03s,1741,1861
+1801,33,Looking Away,60.03s,1741,1861
+1801,51,Excessive Hand Movement,60.03s,1741,1861
+1801,51,Excessive Head Turn,60.03s,1741,1861
+1801,51,Hands Raised,60.03s,1741,1861
+1801,51,Looking Away,60.03s,1741,1861
+1801,61,Excessive Hand Movement,60.03s,1741,1861
+1801,61,Excessive Head Turn,60.03s,1741,1861
+1801,61,Hands Raised,60.03s,1741,1861
+1801,61,Looking Away,60.03s,1741,1861
+1801,68,Excessive Hand Movement,60.03s,1741,1861
+1801,68,Excessive Head Turn,60.03s,1741,1861
+1801,68,Hands Raised,60.03s,1741,1861
+1801,68,Looking Away,60.03s,1741,1861
+1807,12-80,Suspicious Proximity,60.23s,1747,1867
+1823,80,Excessive Hand Movement,60.77s,1763,1883
+1823,80,Excessive Head Turn,60.77s,1763,1883
+1823,80,Looking Away,60.77s,1763,1883
+1827,84,Excessive Head Turn,60.90s,1767,1887
+1827,84,Looking Away,60.90s,1767,1887
+1837,12,Excessive Hand Movement,61.23s,1777,1897
+1837,12,Excessive Head Turn,61.23s,1777,1897
+1837,12,Hands Raised,61.23s,1777,1897
+1837,12,Looking Away,61.23s,1777,1897
+1837,33,Excessive Hand Movement,61.23s,1777,1897
+1837,33,Excessive Head Turn,61.23s,1777,1897
+1837,33,Hands Raised,61.23s,1777,1897
+1837,33,Looking Away,61.23s,1777,1897
+1847,7,Excessive Hand Movement,61.57s,1787,1907
+1847,7,Excessive Head Turn,61.57s,1787,1907
+1847,7,Hands Raised,61.57s,1787,1907
+1847,7,Looking Away,61.57s,1787,1907
+1850,84,Excessive Hand Movement,61.67s,1790,1910
+1850,87,Looking Away,61.67s,1790,1910
+1853,87,Excessive Head Turn,61.77s,1793,1913
+1857,84,Excessive Head Turn,61.90s,1797,1917
+1857,84,Looking Away,61.90s,1797,1917
+1857,87,Excessive Hand Movement,61.90s,1797,1917
+1868,68,Excessive Hand Movement,62.27s,1808,1928
+1868,68,Excessive Head Turn,62.27s,1808,1928
+1868,68,Hands Raised,62.27s,1808,1928
+1868,68,Looking Away,62.27s,1808,1928
+1868,70,Excessive Hand Movement,62.27s,1808,1928
+1868,70,Excessive Head Turn,62.27s,1808,1928
+1868,70,Hands Raised,62.27s,1808,1928
+1868,70,Looking Away,62.27s,1808,1928
+1868,79,Excessive Hand Movement,62.27s,1808,1928
+1868,79,Excessive Head Turn,62.27s,1808,1928
+1868,79,Hands Raised,62.27s,1808,1928
+1868,79,Looking Away,62.27s,1808,1928
+1892,7,Excessive Hand Movement,63.07s,1832,1952
+1892,7,Excessive Head Turn,63.07s,1832,1952
+1892,7,Hands Raised,63.07s,1832,1952
+1892,7,Looking Away,63.07s,1832,1952
+1892,12,Excessive Hand Movement,63.07s,1832,1952
+1892,12,Excessive Head Turn,63.07s,1832,1952
+1892,12,Hands Raised,63.07s,1832,1952
+1892,12,Looking Away,63.07s,1832,1952
+1892,25,Excessive Hand Movement,63.07s,1832,1952
+1892,25,Excessive Head Turn,63.07s,1832,1952
+1892,25,Hands Raised,63.07s,1832,1952
+1892,25,Looking Away,63.07s,1832,1952
+1904,10,Excessive Hand Movement,63.47s,1844,1964
+1904,10,Excessive Head Turn,63.47s,1844,1964
+1904,10,Hands Raised,63.47s,1844,1964
+1904,10,Looking Away,63.47s,1844,1964
+1908,7-87,Suspicious Proximity,63.60s,1848,1968
+1908,12-87,Suspicious Proximity,63.60s,1848,1968
+1908,68-87,Suspicious Proximity,63.60s,1848,1968
+1920,79,Excessive Hand Movement,64.00s,1860,1980
+1920,79,Excessive Head Turn,64.00s,1860,1980
+1920,79,Hands Raised,64.00s,1860,1980
+1920,79,Looking Away,64.00s,1860,1980
+1922,12,Excessive Hand Movement,64.07s,1862,1982
+1922,12,Excessive Head Turn,64.07s,1862,1982
+1922,12,Hands Raised,64.07s,1862,1982
+1922,12,Looking Away,64.07s,1862,1982
+1922,25,Excessive Hand Movement,64.07s,1862,1982
+1922,25,Excessive Head Turn,64.07s,1862,1982
+1922,25,Hands Raised,64.07s,1862,1982
+1922,25,Looking Away,64.07s,1862,1982
+1925,51,Excessive Hand Movement,64.17s,1865,1985
+1925,51,Excessive Head Turn,64.17s,1865,1985
+1925,51,Hands Raised,64.17s,1865,1985
+1925,51,Looking Away,64.17s,1865,1985
+1925,61,Excessive Hand Movement,64.17s,1865,1985
+1925,61,Excessive Head Turn,64.17s,1865,1985
+1925,61,Hands Raised,64.17s,1865,1985
+1925,61,Looking Away,64.17s,1865,1985
+1925,68,Excessive Hand Movement,64.17s,1865,1985
+1925,68,Excessive Head Turn,64.17s,1865,1985
+1925,68,Hands Raised,64.17s,1865,1985
+1925,68,Looking Away,64.17s,1865,1985
+1925,70,Excessive Hand Movement,64.17s,1865,1985
+1925,70,Excessive Head Turn,64.17s,1865,1985
+1925,70,Hands Raised,64.17s,1865,1985
+1925,70,Looking Away,64.17s,1865,1985
+1929,33,Excessive Hand Movement,64.30s,1869,1989
+1929,33,Excessive Head Turn,64.30s,1869,1989
+1929,33,Hands Raised,64.30s,1869,1989
+1929,33,Looking Away,64.30s,1869,1989
+1945,7,Excessive Hand Movement,64.83s,1885,2005
+1945,7,Excessive Head Turn,64.83s,1885,2005
+1945,7,Hands Raised,64.83s,1885,2005
+1945,7,Looking Away,64.83s,1885,2005
+1951,10,Excessive Hand Movement,65.03s,1891,2011
+1951,10,Excessive Head Turn,65.03s,1891,2011
+1951,10,Hands Raised,65.03s,1891,2011
+1951,10,Looking Away,65.03s,1891,2011
+1952,12,Excessive Hand Movement,65.07s,1892,2012
+1952,12,Excessive Head Turn,65.07s,1892,2012
+1952,12,Hands Raised,65.07s,1892,2012
+1952,12,Looking Away,65.07s,1892,2012
+1952,25,Excessive Hand Movement,65.07s,1892,2012
+1952,25,Excessive Head Turn,65.07s,1892,2012
+1952,25,Hands Raised,65.07s,1892,2012
+1952,25,Looking Away,65.07s,1892,2012
+1958,51,Excessive Hand Movement,65.27s,1898,2018
+1958,51,Excessive Head Turn,65.27s,1898,2018
+1958,51,Hands Raised,65.27s,1898,2018
+1958,51,Looking Away,65.27s,1898,2018
+1958,61,Excessive Hand Movement,65.27s,1898,2018
+1958,61,Excessive Head Turn,65.27s,1898,2018
+1958,61,Hands Raised,65.27s,1898,2018
+1958,61,Looking Away,65.27s,1898,2018
+1958,68,Excessive Hand Movement,65.27s,1898,2018
+1958,68,Excessive Head Turn,65.27s,1898,2018
+1958,68,Hands Raised,65.27s,1898,2018
+1958,68,Looking Away,65.27s,1898,2018
+1958,70,Excessive Hand Movement,65.27s,1898,2018
+1958,70,Excessive Head Turn,65.27s,1898,2018
+1958,70,Hands Raised,65.27s,1898,2018
+1958,70,Looking Away,65.27s,1898,2018
+1959,33,Excessive Hand Movement,65.30s,1899,2019
+1959,33,Excessive Head Turn,65.30s,1899,2019
+1959,33,Hands Raised,65.30s,1899,2019
+1959,33,Looking Away,65.30s,1899,2019
+1965,89,Looking Away,65.50s,1905,2025
+1978,89,Excessive Head Turn,65.93s,1918,2038
+1978,33-79,Suspicious Proximity,65.93s,1918,2038
+1982,12,Excessive Hand Movement,66.07s,1922,2042
+1982,12,Excessive Head Turn,66.07s,1922,2042
+1982,12,Hands Raised,66.07s,1922,2042
+1982,12,Looking Away,66.07s,1922,2042
+1982,25,Excessive Hand Movement,66.07s,1922,2042
+1982,25,Excessive Head Turn,66.07s,1922,2042
+1982,25,Hands Raised,66.07s,1922,2042
+1982,25,Looking Away,66.07s,1922,2042
+1988,51,Excessive Hand Movement,66.27s,1928,2048
+1988,51,Excessive Head Turn,66.27s,1928,2048
+1988,51,Hands Raised,66.27s,1928,2048
+1988,51,Looking Away,66.27s,1928,2048
+1988,61,Excessive Hand Movement,66.27s,1928,2048
+1988,61,Excessive Head Turn,66.27s,1928,2048
+1988,61,Hands Raised,66.27s,1928,2048
+1988,61,Looking Away,66.27s,1928,2048
+1988,68,Excessive Hand Movement,66.27s,1928,2048
+1988,68,Excessive Head Turn,66.27s,1928,2048
+1988,68,Hands Raised,66.27s,1928,2048
+1988,68,Looking Away,66.27s,1928,2048
+1988,70,Excessive Hand Movement,66.27s,1928,2048
+1988,70,Excessive Head Turn,66.27s,1928,2048
+1988,70,Hands Raised,66.27s,1928,2048
+1988,70,Looking Away,66.27s,1928,2048
+1989,33,Excessive Hand Movement,66.30s,1929,2049
+1989,33,Excessive Head Turn,66.30s,1929,2049
+1989,33,Hands Raised,66.30s,1929,2049
+1989,33,Looking Away,66.30s,1929,2049
+2001,7,Excessive Hand Movement,66.70s,1941,2061
+2001,7,Excessive Head Turn,66.70s,1941,2061
+2001,7,Hands Raised,66.70s,1941,2061
+2001,7,Looking Away,66.70s,1941,2061
+2009,68-79,Suspicious Proximity,66.97s,1949,2069
+2012,12,Excessive Hand Movement,67.07s,1952,2072
+2012,12,Excessive Head Turn,67.07s,1952,2072
+2012,12,Hands Raised,67.07s,1952,2072
+2012,12,Looking Away,67.07s,1952,2072
+2015,25,Excessive Hand Movement,67.17s,1955,2075
+2015,25,Excessive Head Turn,67.17s,1955,2075
+2015,25,Hands Raised,67.17s,1955,2075
+2015,25,Looking Away,67.17s,1955,2075
+2019,33,Excessive Hand Movement,67.30s,1959,2079
+2019,33,Excessive Head Turn,67.30s,1959,2079
+2019,33,Hands Raised,67.30s,1959,2079
+2019,33,Looking Away,67.30s,1959,2079
+2030,7-89,Suspicious Proximity,67.67s,1970,2090
+2030,12-89,Suspicious Proximity,67.67s,1970,2090
+2030,51-89,Suspicious Proximity,67.67s,1970,2090
+2030,70-89,Suspicious Proximity,67.67s,1970,2090
+2031,7,Excessive Hand Movement,67.70s,1971,2091
+2031,7,Excessive Head Turn,67.70s,1971,2091
+2031,7,Hands Raised,67.70s,1971,2091
+2031,7,Looking Away,67.70s,1971,2091
+2036,68,Excessive Hand Movement,67.87s,1976,2096
+2036,68,Excessive Head Turn,67.87s,1976,2096
+2036,68,Hands Raised,67.87s,1976,2096
+2036,68,Looking Away,67.87s,1976,2096
+2036,70,Excessive Hand Movement,67.87s,1976,2096
+2036,70,Excessive Head Turn,67.87s,1976,2096
+2036,70,Hands Raised,67.87s,1976,2096
+2036,70,Looking Away,67.87s,1976,2096
+2040,68-89,Suspicious Proximity,68.00s,1980,2100
+2042,12,Excessive Hand Movement,68.07s,1982,2102
+2042,12,Excessive Head Turn,68.07s,1982,2102
+2042,12,Hands Raised,68.07s,1982,2102
+2042,12,Looking Away,68.07s,1982,2102
+2045,25,Excessive Hand Movement,68.17s,1985,2105
+2045,25,Excessive Head Turn,68.17s,1985,2105
+2045,25,Hands Raised,68.17s,1985,2105
+2045,25,Looking Away,68.17s,1985,2105
+2057,10,Excessive Hand Movement,68.57s,1997,2117
+2057,10,Excessive Head Turn,68.57s,1997,2117
+2057,10,Hands Raised,68.57s,1997,2117
+2057,10,Looking Away,68.57s,1997,2117
+2057,51,Excessive Hand Movement,68.57s,1997,2117
+2057,51,Excessive Head Turn,68.57s,1997,2117
+2057,51,Hands Raised,68.57s,1997,2117
+2057,51,Looking Away,68.57s,1997,2117
+2058,33,Excessive Hand Movement,68.60s,1998,2118
+2058,33,Excessive Head Turn,68.60s,1998,2118
+2058,33,Hands Raised,68.60s,1998,2118
+2058,33,Looking Away,68.60s,1998,2118
+2061,7,Excessive Hand Movement,68.70s,2001,2121
+2061,7,Excessive Head Turn,68.70s,2001,2121
+2061,7,Hands Raised,68.70s,2001,2121
+2061,7,Looking Away,68.70s,2001,2121
+2066,68,Excessive Hand Movement,68.87s,2006,2126
+2066,68,Excessive Head Turn,68.87s,2006,2126
+2066,68,Hands Raised,68.87s,2006,2126
+2066,68,Looking Away,68.87s,2006,2126
+2066,70,Excessive Hand Movement,68.87s,2006,2126
+2066,70,Excessive Head Turn,68.87s,2006,2126
+2066,70,Hands Raised,68.87s,2006,2126
+2066,70,Looking Away,68.87s,2006,2126
+2075,89,Excessive Hand Movement,69.17s,2015,2135
+2075,89,Excessive Head Turn,69.17s,2015,2135
+2075,89,Looking Away,69.17s,2015,2135
+2086,12,Excessive Hand Movement,69.53s,2026,2146
+2086,12,Excessive Head Turn,69.53s,2026,2146
+2086,12,Hands Raised,69.53s,2026,2146
+2086,12,Looking Away,69.53s,2026,2146
+2086,25,Excessive Hand Movement,69.53s,2026,2146
+2086,25,Excessive Head Turn,69.53s,2026,2146
+2086,25,Hands Raised,69.53s,2026,2146
+2086,25,Looking Away,69.53s,2026,2146
+2086,61,Excessive Hand Movement,69.53s,2026,2146
+2086,61,Excessive Head Turn,69.53s,2026,2146
+2086,61,Hands Raised,69.53s,2026,2146
+2086,61,Looking Away,69.53s,2026,2146
+2087,10,Excessive Hand Movement,69.57s,2027,2147
+2087,10,Excessive Head Turn,69.57s,2027,2147
+2087,10,Hands Raised,69.57s,2027,2147
+2087,10,Looking Away,69.57s,2027,2147
+2087,51,Excessive Hand Movement,69.57s,2027,2147
+2087,51,Excessive Head Turn,69.57s,2027,2147
+2087,51,Hands Raised,69.57s,2027,2147
+2087,51,Looking Away,69.57s,2027,2147
+2089,79-89,Suspicious Proximity,69.63s,2029,2149
+2091,7,Excessive Hand Movement,69.70s,2031,2151
+2091,7,Excessive Head Turn,69.70s,2031,2151
+2091,7,Hands Raised,69.70s,2031,2151
+2091,7,Looking Away,69.70s,2031,2151
+2105,89,Excessive Hand Movement,70.17s,2045,2165
+2105,89,Excessive Head Turn,70.17s,2045,2165
+2105,89,Looking Away,70.17s,2045,2165
+2106,68,Excessive Hand Movement,70.20s,2046,2166
+2106,68,Excessive Head Turn,70.20s,2046,2166
+2106,68,Hands Raised,70.20s,2046,2166
+2106,68,Looking Away,70.20s,2046,2166
+2106,70,Excessive Hand Movement,70.20s,2046,2166
+2106,70,Excessive Head Turn,70.20s,2046,2166
+2106,70,Hands Raised,70.20s,2046,2166
+2106,70,Looking Away,70.20s,2046,2166
+2130,79,Excessive Hand Movement,71.00s,2070,2190
+2130,79,Excessive Head Turn,71.00s,2070,2190
+2130,79,Hands Raised,71.00s,2070,2190
+2130,79,Looking Away,71.00s,2070,2190
+2130,87,Excessive Hand Movement,71.00s,2070,2190
+2130,87,Excessive Head Turn,71.00s,2070,2190
+2130,87,Looking Away,71.00s,2070,2190
+2137,7,Excessive Hand Movement,71.23s,2077,2197
+2137,7,Excessive Head Turn,71.23s,2077,2197
+2137,7,Hands Raised,71.23s,2077,2197
+2137,7,Looking Away,71.23s,2077,2197
+2139,10,Excessive Hand Movement,71.30s,2079,2199
+2139,10,Excessive Head Turn,71.30s,2079,2199
+2139,10,Hands Raised,71.30s,2079,2199
+2139,10,Looking Away,71.30s,2079,2199
+2139,12,Excessive Hand Movement,71.30s,2079,2199
+2139,12,Excessive Head Turn,71.30s,2079,2199
+2139,12,Hands Raised,71.30s,2079,2199
+2139,12,Looking Away,71.30s,2079,2199
+2142,25,Excessive Hand Movement,71.40s,2082,2202
+2142,25,Excessive Head Turn,71.40s,2082,2202
+2142,25,Hands Raised,71.40s,2082,2202
+2142,25,Looking Away,71.40s,2082,2202
+2147,68,Excessive Hand Movement,71.57s,2087,2207
+2147,68,Excessive Head Turn,71.57s,2087,2207
+2147,68,Hands Raised,71.57s,2087,2207
+2147,68,Looking Away,71.57s,2087,2207
+2147,70,Excessive Hand Movement,71.57s,2087,2207
+2147,70,Excessive Head Turn,71.57s,2087,2207
+2147,70,Hands Raised,71.57s,2087,2207
+2147,70,Looking Away,71.57s,2087,2207
+2171,10,Excessive Hand Movement,72.37s,2111,2231
+2171,10,Excessive Head Turn,72.37s,2111,2231
+2171,10,Hands Raised,72.37s,2111,2231
+2171,10,Looking Away,72.37s,2111,2231
+2171,12,Excessive Hand Movement,72.37s,2111,2231
+2171,12,Excessive Head Turn,72.37s,2111,2231
+2171,12,Hands Raised,72.37s,2111,2231
+2171,12,Looking Away,72.37s,2111,2231
+2176,25,Excessive Hand Movement,72.53s,2116,2236
+2176,25,Excessive Head Turn,72.53s,2116,2236
+2176,25,Hands Raised,72.53s,2116,2236
+2176,25,Looking Away,72.53s,2116,2236
+2186,7,Excessive Hand Movement,72.87s,2126,2246
+2186,7,Excessive Head Turn,72.87s,2126,2246
+2186,7,Hands Raised,72.87s,2126,2246
+2186,7,Looking Away,72.87s,2126,2246
+2186,68,Excessive Hand Movement,72.87s,2126,2246
+2186,68,Excessive Head Turn,72.87s,2126,2246
+2186,68,Hands Raised,72.87s,2126,2246
+2186,68,Looking Away,72.87s,2126,2246
+2209,70,Excessive Hand Movement,73.63s,2149,2269
+2209,70,Excessive Head Turn,73.63s,2149,2269
+2209,70,Hands Raised,73.63s,2149,2269
+2209,70,Looking Away,73.63s,2149,2269
+2209,87,Excessive Hand Movement,73.63s,2149,2269
+2209,87,Excessive Head Turn,73.63s,2149,2269
+2209,87,Looking Away,73.63s,2149,2269
+2216,7,Excessive Hand Movement,73.87s,2156,2276
+2216,7,Excessive Head Turn,73.87s,2156,2276
+2216,7,Hands Raised,73.87s,2156,2276
+2216,7,Looking Away,73.87s,2156,2276
+2216,10,Excessive Hand Movement,73.87s,2156,2276
+2216,10,Excessive Head Turn,73.87s,2156,2276
+2216,10,Hands Raised,73.87s,2156,2276
+2216,10,Looking Away,73.87s,2156,2276
+2216,12,Excessive Hand Movement,73.87s,2156,2276
+2216,12,Excessive Head Turn,73.87s,2156,2276
+2216,12,Hands Raised,73.87s,2156,2276
+2216,12,Looking Away,73.87s,2156,2276
+2216,25,Excessive Hand Movement,73.87s,2156,2276
+2216,25,Excessive Head Turn,73.87s,2156,2276
+2216,25,Hands Raised,73.87s,2156,2276
+2216,25,Looking Away,73.87s,2156,2276
+2216,61,Excessive Hand Movement,73.87s,2156,2276
+2216,61,Excessive Head Turn,73.87s,2156,2276
+2216,61,Hands Raised,73.87s,2156,2276
+2216,61,Looking Away,73.87s,2156,2276
+2216,68,Excessive Hand Movement,73.87s,2156,2276
+2216,68,Excessive Head Turn,73.87s,2156,2276
+2216,68,Hands Raised,73.87s,2156,2276
+2216,68,Looking Away,73.87s,2156,2276
+2217,10-91,Suspicious Proximity,73.90s,2157,2277
+2217,25-91,Suspicious Proximity,73.90s,2157,2277
+2217,61-91,Suspicious Proximity,73.90s,2157,2277
+2217,68-91,Suspicious Proximity,73.90s,2157,2277
+2218,93,Looking Away,73.93s,2158,2278
+2228,7-92,Suspicious Proximity,74.27s,2168,2288
+2228,12-92,Suspicious Proximity,74.27s,2168,2288
+2228,68-92,Suspicious Proximity,74.27s,2168,2288
+2228,87-92,Suspicious Proximity,74.27s,2168,2288
+2229,91,Excessive Hand Movement,74.30s,2169,2289
+2229,91,Excessive Head Turn,74.30s,2169,2289
+2229,91,Looking Away,74.30s,2169,2289
+2229,92,Excessive Hand Movement,74.30s,2169,2289
+2229,92,Looking Away,74.30s,2169,2289
+2239,70,Excessive Hand Movement,74.63s,2179,2299
+2239,70,Excessive Head Turn,74.63s,2179,2299
+2239,70,Hands Raised,74.63s,2179,2299
+2239,70,Looking Away,74.63s,2179,2299
+2239,87,Excessive Hand Movement,74.63s,2179,2299
+2239,87,Excessive Head Turn,74.63s,2179,2299
+2239,87,Looking Away,74.63s,2179,2299
+2246,10,Excessive Hand Movement,74.87s,2186,2306
+2246,10,Excessive Head Turn,74.87s,2186,2306
+2246,10,Hands Raised,74.87s,2186,2306
+2246,10,Looking Away,74.87s,2186,2306
+2246,68,Excessive Hand Movement,74.87s,2186,2306
+2246,68,Excessive Head Turn,74.87s,2186,2306
+2246,68,Hands Raised,74.87s,2186,2306
+2246,68,Looking Away,74.87s,2186,2306
+2246,93,Excessive Hand Movement,74.87s,2186,2306
+2246,93,Excessive Head Turn,74.87s,2186,2306
+2248,7-70,Suspicious Proximity,74.93s,2188,2308
+2267,12-93,Suspicious Proximity,75.57s,2207,2327
+2267,25-93,Suspicious Proximity,75.57s,2207,2327
+2267,68-93,Suspicious Proximity,75.57s,2207,2327
+2269,93,Looking Away,75.63s,2209,2329
+2270,7,Excessive Hand Movement,75.67s,2210,2330
+2270,7,Excessive Head Turn,75.67s,2210,2330
+2270,7,Hands Raised,75.67s,2210,2330
+2270,7,Looking Away,75.67s,2210,2330
+2271,70-92,Suspicious Proximity,75.70s,2211,2331
+2273,70-91,Suspicious Proximity,75.77s,2213,2333
+2276,10,Excessive Hand Movement,75.87s,2216,2336
+2276,10,Excessive Head Turn,75.87s,2216,2336
+2276,10,Hands Raised,75.87s,2216,2336
+2276,10,Looking Away,75.87s,2216,2336
+2276,93,Excessive Hand Movement,75.87s,2216,2336
+2276,93,Excessive Head Turn,75.87s,2216,2336
+2280,70-87,Suspicious Proximity,76.00s,2220,2340
+2286,12-91,Suspicious Proximity,76.20s,2226,2346
+2289,33,Excessive Hand Movement,76.30s,2229,2349
+2289,33,Excessive Head Turn,76.30s,2229,2349
+2289,33,Hands Raised,76.30s,2229,2349
+2289,33,Looking Away,76.30s,2229,2349
+2289,61,Excessive Hand Movement,76.30s,2229,2349
+2289,61,Excessive Head Turn,76.30s,2229,2349
+2289,61,Hands Raised,76.30s,2229,2349
+2289,61,Looking Away,76.30s,2229,2349
+2290,68,Excessive Hand Movement,76.33s,2230,2350
+2290,68,Excessive Head Turn,76.33s,2230,2350
+2290,68,Hands Raised,76.33s,2230,2350
+2290,68,Looking Away,76.33s,2230,2350
+2291,12,Excessive Hand Movement,76.37s,2231,2351
+2291,12,Excessive Head Turn,76.37s,2231,2351
+2291,12,Hands Raised,76.37s,2231,2351
+2291,12,Looking Away,76.37s,2231,2351
+2291,25,Excessive Hand Movement,76.37s,2231,2351
+2291,25,Excessive Head Turn,76.37s,2231,2351
+2291,25,Hands Raised,76.37s,2231,2351
+2291,25,Looking Away,76.37s,2231,2351
+2297,70,Excessive Hand Movement,76.57s,2237,2357
+2297,70,Excessive Head Turn,76.57s,2237,2357
+2297,70,Hands Raised,76.57s,2237,2357
+2297,70,Looking Away,76.57s,2237,2357
+2297,91,Excessive Hand Movement,76.57s,2237,2357
+2297,91,Excessive Head Turn,76.57s,2237,2357
+2297,91,Looking Away,76.57s,2237,2357
+2297,92,Excessive Hand Movement,76.57s,2237,2357
+2297,92,Excessive Head Turn,76.57s,2237,2357
+2297,92,Looking Away,76.57s,2237,2357
+2299,93,Looking Away,76.63s,2239,2359
+2299,91-93,Suspicious Proximity,76.63s,2239,2359
+2300,7,Excessive Hand Movement,76.67s,2240,2360
+2300,7,Excessive Head Turn,76.67s,2240,2360
+2300,7,Hands Raised,76.67s,2240,2360
+2300,7,Looking Away,76.67s,2240,2360
+2306,10,Excessive Hand Movement,76.87s,2246,2366
+2306,10,Excessive Head Turn,76.87s,2246,2366
+2306,10,Hands Raised,76.87s,2246,2366
+2306,10,Looking Away,76.87s,2246,2366
+2306,93,Excessive Hand Movement,76.87s,2246,2366
+2306,93,Excessive Head Turn,76.87s,2246,2366
+2307,33-91,Suspicious Proximity,76.90s,2247,2367
+2319,33,Excessive Hand Movement,77.30s,2259,2379
+2319,33,Excessive Head Turn,77.30s,2259,2379
+2319,33,Hands Raised,77.30s,2259,2379
+2319,33,Looking Away,77.30s,2259,2379
+2319,61,Excessive Hand Movement,77.30s,2259,2379
+2319,61,Excessive Head Turn,77.30s,2259,2379
+2319,61,Hands Raised,77.30s,2259,2379
+2319,61,Looking Away,77.30s,2259,2379
+2320,68,Excessive Hand Movement,77.33s,2260,2380
+2320,68,Excessive Head Turn,77.33s,2260,2380
+2320,68,Hands Raised,77.33s,2260,2380
+2320,68,Looking Away,77.33s,2260,2380
+2321,12,Excessive Hand Movement,77.37s,2261,2381
+2321,12,Excessive Head Turn,77.37s,2261,2381
+2321,12,Hands Raised,77.37s,2261,2381
+2321,12,Looking Away,77.37s,2261,2381
+2321,25,Excessive Hand Movement,77.37s,2261,2381
+2321,25,Excessive Head Turn,77.37s,2261,2381
+2321,25,Hands Raised,77.37s,2261,2381
+2321,25,Looking Away,77.37s,2261,2381
+2326,33-68,Suspicious Proximity,77.53s,2266,2386
+2327,70,Excessive Hand Movement,77.57s,2267,2387
+2327,70,Excessive Head Turn,77.57s,2267,2387
+2327,70,Hands Raised,77.57s,2267,2387
+2327,70,Looking Away,77.57s,2267,2387
+2327,91,Excessive Hand Movement,77.57s,2267,2387
+2327,91,Excessive Head Turn,77.57s,2267,2387
+2327,91,Looking Away,77.57s,2267,2387
+2327,92,Excessive Hand Movement,77.57s,2267,2387
+2327,92,Excessive Head Turn,77.57s,2267,2387
+2327,92,Looking Away,77.57s,2267,2387
+2329,93,Looking Away,77.63s,2269,2389
+2330,7,Excessive Hand Movement,77.67s,2270,2390
+2330,7,Excessive Head Turn,77.67s,2270,2390
+2330,7,Hands Raised,77.67s,2270,2390
+2330,7,Looking Away,77.67s,2270,2390
+2340,93,Excessive Hand Movement,78.00s,2280,2400
+2340,93,Excessive Head Turn,78.00s,2280,2400
+2341,10,Excessive Hand Movement,78.03s,2281,2401
+2341,10,Excessive Head Turn,78.03s,2281,2401
+2341,10,Hands Raised,78.03s,2281,2401
+2341,10,Looking Away,78.03s,2281,2401
+2349,33,Excessive Hand Movement,78.30s,2289,2409
+2349,33,Excessive Head Turn,78.30s,2289,2409
+2349,33,Hands Raised,78.30s,2289,2409
+2349,33,Looking Away,78.30s,2289,2409
+2354,61,Excessive Hand Movement,78.47s,2294,2414
+2354,61,Excessive Head Turn,78.47s,2294,2414
+2354,61,Hands Raised,78.47s,2294,2414
+2354,61,Looking Away,78.47s,2294,2414
+2356,12,Excessive Hand Movement,78.53s,2296,2416
+2356,12,Excessive Head Turn,78.53s,2296,2416
+2356,12,Hands Raised,78.53s,2296,2416
+2356,12,Looking Away,78.53s,2296,2416
+2356,25,Excessive Hand Movement,78.53s,2296,2416
+2356,25,Excessive Head Turn,78.53s,2296,2416
+2356,25,Hands Raised,78.53s,2296,2416
+2356,25,Looking Away,78.53s,2296,2416
+2356,68,Excessive Hand Movement,78.53s,2296,2416
+2356,68,Excessive Head Turn,78.53s,2296,2416
+2356,68,Hands Raised,78.53s,2296,2416
+2356,68,Looking Away,78.53s,2296,2416
+2357,70,Excessive Hand Movement,78.57s,2297,2417
+2357,70,Excessive Head Turn,78.57s,2297,2417
+2357,70,Hands Raised,78.57s,2297,2417
+2357,70,Looking Away,78.57s,2297,2417
+2357,91,Excessive Hand Movement,78.57s,2297,2417
+2357,91,Excessive Head Turn,78.57s,2297,2417
+2357,91,Looking Away,78.57s,2297,2417
+2357,92,Excessive Hand Movement,78.57s,2297,2417
+2357,92,Excessive Head Turn,78.57s,2297,2417
+2357,92,Looking Away,78.57s,2297,2417
+2365,7,Excessive Hand Movement,78.83s,2305,2425
+2365,7,Excessive Head Turn,78.83s,2305,2425
+2365,7,Hands Raised,78.83s,2305,2425
+2365,7,Looking Away,78.83s,2305,2425
+2379,33,Excessive Hand Movement,79.30s,2319,2439
+2379,33,Excessive Head Turn,79.30s,2319,2439
+2379,33,Hands Raised,79.30s,2319,2439
+2379,33,Looking Away,79.30s,2319,2439
+2394,61,Excessive Hand Movement,79.80s,2334,2454
+2394,61,Excessive Head Turn,79.80s,2334,2454
+2394,61,Hands Raised,79.80s,2334,2454
+2394,61,Looking Away,79.80s,2334,2454
+2443,93,Excessive Hand Movement,81.43s,2383,2503
+2443,93,Excessive Head Turn,81.43s,2383,2503
+2443,93,Looking Away,81.43s,2383,2503
+2444,10,Excessive Hand Movement,81.47s,2384,2504
+2444,10,Excessive Head Turn,81.47s,2384,2504
+2444,10,Hands Raised,81.47s,2384,2504
+2444,10,Looking Away,81.47s,2384,2504
+2446,61,Excessive Hand Movement,81.53s,2386,2506
+2446,61,Excessive Head Turn,81.53s,2386,2506
+2446,61,Hands Raised,81.53s,2386,2506
+2446,61,Looking Away,81.53s,2386,2506
+2450,25,Excessive Hand Movement,81.67s,2390,2510
+2450,25,Excessive Head Turn,81.67s,2390,2510
+2450,25,Hands Raised,81.67s,2390,2510
+2450,25,Looking Away,81.67s,2390,2510
+2450,33,Excessive Hand Movement,81.67s,2390,2510
+2450,33,Excessive Head Turn,81.67s,2390,2510
+2450,33,Hands Raised,81.67s,2390,2510
+2450,33,Looking Away,81.67s,2390,2510
+2451,68,Excessive Hand Movement,81.70s,2391,2511
+2451,68,Excessive Head Turn,81.70s,2391,2511
+2451,68,Hands Raised,81.70s,2391,2511
+2451,68,Looking Away,81.70s,2391,2511
+2451,70,Excessive Hand Movement,81.70s,2391,2511
+2451,70,Excessive Head Turn,81.70s,2391,2511
+2451,70,Hands Raised,81.70s,2391,2511
+2451,70,Looking Away,81.70s,2391,2511
+2451,91,Excessive Hand Movement,81.70s,2391,2511
+2451,91,Excessive Head Turn,81.70s,2391,2511
+2451,91,Looking Away,81.70s,2391,2511
+2451,92,Excessive Hand Movement,81.70s,2391,2511
+2451,92,Excessive Head Turn,81.70s,2391,2511
+2451,92,Looking Away,81.70s,2391,2511
+2467,12,Excessive Hand Movement,82.23s,2407,2527
+2467,12,Excessive Head Turn,82.23s,2407,2527
+2467,12,Hands Raised,82.23s,2407,2527
+2467,12,Looking Away,82.23s,2407,2527
+2473,93,Excessive Hand Movement,82.43s,2413,2533
+2473,93,Excessive Head Turn,82.43s,2413,2533
+2473,93,Looking Away,82.43s,2413,2533
+2475,94,Looking Away,82.50s,2415,2535
+2479,70-93,Suspicious Proximity,82.63s,2419,2539
+2481,92,Excessive Hand Movement,82.70s,2421,2541
+2481,92,Excessive Head Turn,82.70s,2421,2541
+2481,92,Looking Away,82.70s,2421,2541
+2485,33,Excessive Hand Movement,82.83s,2425,2545
+2485,33,Excessive Head Turn,82.83s,2425,2545
+2485,33,Hands Raised,82.83s,2425,2545
+2485,33,Looking Away,82.83s,2425,2545
+2485,61,Excessive Hand Movement,82.83s,2425,2545
+2485,61,Excessive Head Turn,82.83s,2425,2545
+2485,61,Hands Raised,82.83s,2425,2545
+2485,61,Looking Away,82.83s,2425,2545
+2491,94,Excessive Head Turn,83.03s,2431,2551
+2492,68,Excessive Hand Movement,83.07s,2432,2552
+2492,68,Excessive Head Turn,83.07s,2432,2552
+2492,68,Hands Raised,83.07s,2432,2552
+2492,68,Looking Away,83.07s,2432,2552
+2494,10,Excessive Hand Movement,83.13s,2434,2554
+2494,10,Excessive Head Turn,83.13s,2434,2554
+2494,10,Hands Raised,83.13s,2434,2554
+2494,10,Looking Away,83.13s,2434,2554
+2494,25,Excessive Hand Movement,83.13s,2434,2554
+2494,25,Excessive Head Turn,83.13s,2434,2554
+2494,25,Hands Raised,83.13s,2434,2554
+2494,25,Looking Away,83.13s,2434,2554
+2495,70,Excessive Hand Movement,83.17s,2435,2555
+2495,70,Excessive Head Turn,83.17s,2435,2555
+2495,70,Hands Raised,83.17s,2435,2555
+2495,70,Looking Away,83.17s,2435,2555
+2495,91,Excessive Hand Movement,83.17s,2435,2555
+2495,91,Excessive Head Turn,83.17s,2435,2555
+2495,91,Looking Away,83.17s,2435,2555
+2497,12,Excessive Hand Movement,83.23s,2437,2557
+2497,12,Excessive Head Turn,83.23s,2437,2557
+2497,12,Hands Raised,83.23s,2437,2557
+2497,12,Looking Away,83.23s,2437,2557
+2505,94,Looking Away,83.50s,2445,2565
+2507,94,Excessive Hand Movement,83.57s,2447,2567
+2511,92,Excessive Hand Movement,83.70s,2451,2571
+2511,92,Excessive Head Turn,83.70s,2451,2571
+2511,92,Looking Away,83.70s,2451,2571
+2515,33,Excessive Hand Movement,83.83s,2455,2575
+2515,33,Excessive Head Turn,83.83s,2455,2575
+2515,33,Hands Raised,83.83s,2455,2575
+2515,33,Looking Away,83.83s,2455,2575
+2515,61,Excessive Hand Movement,83.83s,2455,2575
+2515,61,Excessive Head Turn,83.83s,2455,2575
+2515,61,Hands Raised,83.83s,2455,2575
+2515,61,Looking Away,83.83s,2455,2575
+2521,94,Excessive Head Turn,84.03s,2461,2581
+2524,10,Excessive Hand Movement,84.13s,2464,2584
+2524,10,Excessive Head Turn,84.13s,2464,2584
+2524,10,Hands Raised,84.13s,2464,2584
+2524,10,Looking Away,84.13s,2464,2584
+2524,25,Excessive Hand Movement,84.13s,2464,2584
+2524,25,Excessive Head Turn,84.13s,2464,2584
+2524,25,Hands Raised,84.13s,2464,2584
+2524,25,Looking Away,84.13s,2464,2584
+2527,12,Excessive Hand Movement,84.23s,2467,2587
+2527,12,Excessive Head Turn,84.23s,2467,2587
+2527,12,Hands Raised,84.23s,2467,2587
+2527,12,Looking Away,84.23s,2467,2587
+2544,33-94,Suspicious Proximity,84.80s,2484,2604
+2544,61-94,Suspicious Proximity,84.80s,2484,2604
+2544,91-94,Suspicious Proximity,84.80s,2484,2604
+2545,61,Excessive Hand Movement,84.83s,2485,2605
+2545,61,Excessive Head Turn,84.83s,2485,2605
+2545,61,Hands Raised,84.83s,2485,2605
+2545,61,Looking Away,84.83s,2485,2605
+2552,94,Excessive Hand Movement,85.07s,2492,2612
+2552,94,Excessive Head Turn,85.07s,2492,2612
+2552,94,Looking Away,85.07s,2492,2612
+2559,33,Excessive Hand Movement,85.30s,2499,2619
+2559,33,Excessive Head Turn,85.30s,2499,2619
+2559,33,Hands Raised,85.30s,2499,2619
+2559,33,Looking Away,85.30s,2499,2619
+2560,92,Excessive Hand Movement,85.33s,2500,2620
+2560,92,Excessive Head Turn,85.33s,2500,2620
+2560,92,Looking Away,85.33s,2500,2620
+2566,12,Excessive Hand Movement,85.53s,2506,2626
+2566,12,Excessive Head Turn,85.53s,2506,2626
+2566,12,Hands Raised,85.53s,2506,2626
+2566,12,Looking Away,85.53s,2506,2626
+2568,7,Excessive Hand Movement,85.60s,2508,2628
+2568,7,Excessive Head Turn,85.60s,2508,2628
+2568,7,Hands Raised,85.60s,2508,2628
+2568,7,Looking Away,85.60s,2508,2628
+2582,61,Excessive Hand Movement,86.07s,2522,2642
+2582,61,Excessive Head Turn,86.07s,2522,2642
+2582,61,Hands Raised,86.07s,2522,2642
+2582,61,Looking Away,86.07s,2522,2642
+2582,94,Excessive Hand Movement,86.07s,2522,2642
+2582,94,Excessive Head Turn,86.07s,2522,2642
+2582,94,Looking Away,86.07s,2522,2642
+2583,68,Excessive Hand Movement,86.10s,2523,2643
+2583,68,Excessive Head Turn,86.10s,2523,2643
+2583,68,Hands Raised,86.10s,2523,2643
+2583,68,Looking Away,86.10s,2523,2643
+2589,33,Excessive Hand Movement,86.30s,2529,2649
+2589,33,Excessive Head Turn,86.30s,2529,2649
+2589,33,Hands Raised,86.30s,2529,2649
+2589,33,Looking Away,86.30s,2529,2649
+2594,92,Excessive Hand Movement,86.47s,2534,2654
+2594,92,Excessive Head Turn,86.47s,2534,2654
+2594,92,Looking Away,86.47s,2534,2654
+2595,10,Excessive Hand Movement,86.50s,2535,2655
+2595,10,Excessive Head Turn,86.50s,2535,2655
+2595,10,Hands Raised,86.50s,2535,2655
+2595,10,Looking Away,86.50s,2535,2655
+2596,12,Excessive Hand Movement,86.53s,2536,2656
+2596,12,Excessive Head Turn,86.53s,2536,2656
+2596,12,Hands Raised,86.53s,2536,2656
+2596,12,Looking Away,86.53s,2536,2656
+2598,7,Excessive Hand Movement,86.60s,2538,2658
+2598,7,Excessive Head Turn,86.60s,2538,2658
+2598,7,Hands Raised,86.60s,2538,2658
+2598,7,Looking Away,86.60s,2538,2658
+2612,61,Excessive Hand Movement,87.07s,2552,2672
+2612,61,Excessive Head Turn,87.07s,2552,2672
+2612,61,Hands Raised,87.07s,2552,2672
+2612,61,Looking Away,87.07s,2552,2672
+2612,94,Excessive Hand Movement,87.07s,2552,2672
+2612,94,Excessive Head Turn,87.07s,2552,2672
+2612,94,Looking Away,87.07s,2552,2672
+2628,7,Excessive Hand Movement,87.60s,2568,2688
+2628,7,Excessive Head Turn,87.60s,2568,2688
+2628,7,Hands Raised,87.60s,2568,2688
+2628,7,Looking Away,87.60s,2568,2688
+2632,68,Excessive Hand Movement,87.73s,2572,2692
+2632,68,Excessive Head Turn,87.73s,2572,2692
+2632,68,Hands Raised,87.73s,2572,2692
+2632,68,Looking Away,87.73s,2572,2692
+2636,12,Excessive Hand Movement,87.87s,2576,2696
+2636,12,Excessive Head Turn,87.87s,2576,2696
+2636,12,Hands Raised,87.87s,2576,2696
+2636,12,Looking Away,87.87s,2576,2696
+2637,33,Excessive Hand Movement,87.90s,2577,2697
+2637,33,Excessive Head Turn,87.90s,2577,2697
+2637,33,Hands Raised,87.90s,2577,2697
+2637,33,Looking Away,87.90s,2577,2697
+2641,91,Excessive Hand Movement,88.03s,2581,2701
+2641,91,Excessive Head Turn,88.03s,2581,2701
+2641,91,Looking Away,88.03s,2581,2701
+2642,61,Excessive Hand Movement,88.07s,2582,2702
+2642,61,Excessive Head Turn,88.07s,2582,2702
+2642,61,Hands Raised,88.07s,2582,2702
+2642,61,Looking Away,88.07s,2582,2702
+2645,92,Excessive Hand Movement,88.17s,2585,2705
+2645,92,Excessive Head Turn,88.17s,2585,2705
+2645,92,Looking Away,88.17s,2585,2705
+2646,70,Excessive Hand Movement,88.20s,2586,2706
+2646,70,Excessive Head Turn,88.20s,2586,2706
+2646,70,Hands Raised,88.20s,2586,2706
+2646,70,Looking Away,88.20s,2586,2706
+2646,94,Excessive Hand Movement,88.20s,2586,2706
+2646,94,Excessive Head Turn,88.20s,2586,2706
+2646,94,Looking Away,88.20s,2586,2706
+2647,10,Excessive Hand Movement,88.23s,2587,2707
+2647,10,Excessive Head Turn,88.23s,2587,2707
+2647,10,Hands Raised,88.23s,2587,2707
+2647,10,Looking Away,88.23s,2587,2707
+2649,7-91,Suspicious Proximity,88.30s,2589,2709
+2653,10-92,Suspicious Proximity,88.43s,2593,2713
+2664,68,Excessive Hand Movement,88.80s,2604,2724
+2664,68,Excessive Head Turn,88.80s,2604,2724
+2664,68,Hands Raised,88.80s,2604,2724
+2664,68,Looking Away,88.80s,2604,2724
+2666,12,Excessive Hand Movement,88.87s,2606,2726
+2666,12,Excessive Head Turn,88.87s,2606,2726
+2666,12,Hands Raised,88.87s,2606,2726
+2666,12,Looking Away,88.87s,2606,2726
+2671,91,Excessive Hand Movement,89.03s,2611,2731
+2671,91,Excessive Head Turn,89.03s,2611,2731
+2671,91,Looking Away,89.03s,2611,2731
+2675,92,Excessive Hand Movement,89.17s,2615,2735
+2675,92,Excessive Head Turn,89.17s,2615,2735
+2675,92,Looking Away,89.17s,2615,2735
+2676,94,Excessive Hand Movement,89.20s,2616,2736
+2676,94,Excessive Head Turn,89.20s,2616,2736
+2676,94,Looking Away,89.20s,2616,2736
+2677,10,Excessive Hand Movement,89.23s,2617,2737
+2677,10,Excessive Head Turn,89.23s,2617,2737
+2677,10,Hands Raised,89.23s,2617,2737
+2677,10,Looking Away,89.23s,2617,2737
+2678,33,Excessive Hand Movement,89.27s,2618,2738
+2678,33,Excessive Head Turn,89.27s,2618,2738
+2678,33,Hands Raised,89.27s,2618,2738
+2678,33,Looking Away,89.27s,2618,2738
+2678,61,Excessive Hand Movement,89.27s,2618,2738
+2678,61,Excessive Head Turn,89.27s,2618,2738
+2678,61,Hands Raised,89.27s,2618,2738
+2678,61,Looking Away,89.27s,2618,2738
+2687,7,Excessive Hand Movement,89.57s,2627,2747
+2687,7,Excessive Head Turn,89.57s,2627,2747
+2687,7,Hands Raised,89.57s,2627,2747
+2687,7,Looking Away,89.57s,2627,2747
+2694,68,Excessive Hand Movement,89.80s,2634,2754
+2694,68,Excessive Head Turn,89.80s,2634,2754
+2694,68,Hands Raised,89.80s,2634,2754
+2694,68,Looking Away,89.80s,2634,2754
+2696,12,Excessive Hand Movement,89.87s,2636,2756
+2696,12,Excessive Head Turn,89.87s,2636,2756
+2696,12,Hands Raised,89.87s,2636,2756
+2696,12,Looking Away,89.87s,2636,2756
+2701,91,Excessive Hand Movement,90.03s,2641,2761
+2701,91,Excessive Head Turn,90.03s,2641,2761
+2701,91,Looking Away,90.03s,2641,2761
+2705,92,Excessive Hand Movement,90.17s,2645,2765
+2705,92,Excessive Head Turn,90.17s,2645,2765
+2705,92,Looking Away,90.17s,2645,2765
+2705,33-92,Suspicious Proximity,90.17s,2645,2765
+2706,94,Excessive Hand Movement,90.20s,2646,2766
+2706,94,Excessive Head Turn,90.20s,2646,2766
+2706,94,Looking Away,90.20s,2646,2766
+2707,10,Excessive Hand Movement,90.23s,2647,2767
+2707,10,Excessive Head Turn,90.23s,2647,2767
+2707,10,Hands Raised,90.23s,2647,2767
+2707,10,Looking Away,90.23s,2647,2767
+2708,33,Excessive Hand Movement,90.27s,2648,2768
+2708,33,Excessive Head Turn,90.27s,2648,2768
+2708,33,Hands Raised,90.27s,2648,2768
+2708,33,Looking Away,90.27s,2648,2768
+2708,61,Excessive Hand Movement,90.27s,2648,2768
+2708,61,Excessive Head Turn,90.27s,2648,2768
+2708,61,Hands Raised,90.27s,2648,2768
+2708,61,Looking Away,90.27s,2648,2768
+2711,25,Excessive Hand Movement,90.37s,2651,2771
+2711,25,Excessive Head Turn,90.37s,2651,2771
+2711,25,Hands Raised,90.37s,2651,2771
+2711,25,Looking Away,90.37s,2651,2771
+2717,7,Excessive Hand Movement,90.57s,2657,2777
+2717,7,Excessive Head Turn,90.57s,2657,2777
+2717,7,Hands Raised,90.57s,2657,2777
+2717,7,Looking Away,90.57s,2657,2777
+2725,97,Looking Away,90.83s,2665,2785
+2726,12,Excessive Hand Movement,90.87s,2666,2786
+2726,12,Excessive Head Turn,90.87s,2666,2786
+2726,12,Hands Raised,90.87s,2666,2786
+2726,12,Looking Away,90.87s,2666,2786
+2726,70-94,Suspicious Proximity,90.87s,2666,2786
+2729,68,Excessive Hand Movement,90.97s,2669,2789
+2729,68,Excessive Head Turn,90.97s,2669,2789
+2729,68,Hands Raised,90.97s,2669,2789
+2729,68,Looking Away,90.97s,2669,2789
+2731,91,Excessive Hand Movement,91.03s,2671,2791
+2731,91,Excessive Head Turn,91.03s,2671,2791
+2731,91,Looking Away,91.03s,2671,2791
+2735,92,Excessive Hand Movement,91.17s,2675,2795
+2735,92,Excessive Head Turn,91.17s,2675,2795
+2735,92,Looking Away,91.17s,2675,2795
+2736,94,Excessive Hand Movement,91.20s,2676,2796
+2736,94,Excessive Head Turn,91.20s,2676,2796
+2736,94,Looking Away,91.20s,2676,2796
+2737,10,Excessive Hand Movement,91.23s,2677,2797
+2737,10,Excessive Head Turn,91.23s,2677,2797
+2737,10,Hands Raised,91.23s,2677,2797
+2737,10,Looking Away,91.23s,2677,2797
+2741,25,Excessive Hand Movement,91.37s,2681,2801
+2741,25,Excessive Head Turn,91.37s,2681,2801
+2741,25,Hands Raised,91.37s,2681,2801
+2741,25,Looking Away,91.37s,2681,2801
+2747,7,Excessive Hand Movement,91.57s,2687,2807
+2747,7,Excessive Head Turn,91.57s,2687,2807
+2747,7,Hands Raised,91.57s,2687,2807
+2747,7,Looking Away,91.57s,2687,2807
+2753,97,Excessive Head Turn,91.77s,2693,2813
+2754,33,Excessive Hand Movement,91.80s,2694,2814
+2754,33,Excessive Head Turn,91.80s,2694,2814
+2754,33,Hands Raised,91.80s,2694,2814
+2754,33,Looking Away,91.80s,2694,2814
+2754,61,Excessive Hand Movement,91.80s,2694,2814
+2754,61,Excessive Head Turn,91.80s,2694,2814
+2754,61,Hands Raised,91.80s,2694,2814
+2754,61,Looking Away,91.80s,2694,2814
+2755,97,Looking Away,91.83s,2695,2815
+2756,12,Excessive Hand Movement,91.87s,2696,2816
+2756,12,Excessive Head Turn,91.87s,2696,2816
+2756,12,Hands Raised,91.87s,2696,2816
+2756,12,Looking Away,91.87s,2696,2816
+2758,97,Excessive Hand Movement,91.93s,2698,2818
+2758,7-94,Suspicious Proximity,91.93s,2698,2818
+2759,68,Excessive Hand Movement,91.97s,2699,2819
+2759,68,Excessive Head Turn,91.97s,2699,2819
+2759,68,Hands Raised,91.97s,2699,2819
+2759,68,Looking Away,91.97s,2699,2819
+2761,91,Excessive Hand Movement,92.03s,2701,2821
+2761,91,Excessive Head Turn,92.03s,2701,2821
+2761,91,Looking Away,92.03s,2701,2821
+2766,94,Excessive Hand Movement,92.20s,2706,2826
+2766,94,Excessive Head Turn,92.20s,2706,2826
+2766,94,Looking Away,92.20s,2706,2826
+2767,10,Excessive Hand Movement,92.23s,2707,2827
+2767,10,Excessive Head Turn,92.23s,2707,2827
+2767,10,Hands Raised,92.23s,2707,2827
+2767,10,Looking Away,92.23s,2707,2827
+2771,25,Excessive Hand Movement,92.37s,2711,2829
+2771,25,Excessive Head Turn,92.37s,2711,2829
+2771,25,Hands Raised,92.37s,2711,2829
+2771,25,Looking Away,92.37s,2711,2829
+2777,7,Excessive Hand Movement,92.57s,2717,2829
+2777,7,Excessive Head Turn,92.57s,2717,2829
+2777,7,Hands Raised,92.57s,2717,2829
+2777,7,Looking Away,92.57s,2717,2829
+2783,97,Excessive Head Turn,92.77s,2723,2829
+2785,97,Looking Away,92.83s,2725,2829
+2786,12,Excessive Hand Movement,92.87s,2726,2829
+2786,12,Excessive Head Turn,92.87s,2726,2829
+2786,12,Hands Raised,92.87s,2726,2829
+2786,12,Looking Away,92.87s,2726,2829
+2786,61,Excessive Hand Movement,92.87s,2726,2829
+2786,61,Excessive Head Turn,92.87s,2726,2829
+2786,61,Hands Raised,92.87s,2726,2829
+2786,61,Looking Away,92.87s,2726,2829
+2787,33,Excessive Hand Movement,92.90s,2727,2829
+2787,33,Excessive Head Turn,92.90s,2727,2829
+2787,33,Hands Raised,92.90s,2727,2829
+2787,33,Looking Away,92.90s,2727,2829
+2788,97,Excessive Hand Movement,92.93s,2728,2829
+2789,68,Excessive Hand Movement,92.97s,2729,2829
+2789,68,Excessive Head Turn,92.97s,2729,2829
+2789,68,Hands Raised,92.97s,2729,2829
+2789,68,Looking Away,92.97s,2729,2829
+2795,10-97,Suspicious Proximity,93.17s,2735,2829
+2795,12-97,Suspicious Proximity,93.17s,2735,2829
+2795,68-97,Suspicious Proximity,93.17s,2735,2829
+2797,10,Excessive Hand Movement,93.23s,2737,2829
+2797,10,Excessive Head Turn,93.23s,2737,2829
+2797,10,Hands Raised,93.23s,2737,2829
+2797,10,Looking Away,93.23s,2737,2829
+2805,94,Excessive Hand Movement,93.50s,2745,2829
+2805,94,Excessive Head Turn,93.50s,2745,2829
+2805,94,Looking Away,93.50s,2745,2829
+2809,25,Excessive Hand Movement,93.63s,2749,2829
+2809,25,Excessive Head Turn,93.63s,2749,2829
+2809,25,Hands Raised,93.63s,2749,2829
+2809,25,Looking Away,93.63s,2749,2829
+2809,91,Excessive Hand Movement,93.63s,2749,2829
+2809,91,Excessive Head Turn,93.63s,2749,2829
+2809,91,Looking Away,93.63s,2749,2829
+2815,97,Excessive Head Turn,93.83s,2755,2829
+2815,97,Looking Away,93.83s,2755,2829
+2816,12,Excessive Hand Movement,93.87s,2756,2829
+2816,12,Excessive Head Turn,93.87s,2756,2829
+2816,12,Hands Raised,93.87s,2756,2829
+2816,12,Looking Away,93.87s,2756,2829
+2816,61,Excessive Hand Movement,93.87s,2756,2829
+2816,61,Excessive Head Turn,93.87s,2756,2829
+2816,61,Hands Raised,93.87s,2756,2829
+2816,61,Looking Away,93.87s,2756,2829
+2817,33,Excessive Hand Movement,93.90s,2757,2829
+2817,33,Excessive Head Turn,93.90s,2757,2829
+2817,33,Hands Raised,93.90s,2757,2829
+2817,33,Looking Away,93.90s,2757,2829
+2818,97,Excessive Hand Movement,93.93s,2758,2829
+2819,68,Excessive Hand Movement,93.97s,2759,2829
+2819,68,Excessive Head Turn,93.97s,2759,2829
+2819,68,Hands Raised,93.97s,2759,2829
+2819,68,Looking Away,93.97s,2759,2829
+2827,10,Excessive Hand Movement,94.23s,2767,2829
+2827,10,Excessive Head Turn,94.23s,2767,2829
+2827,10,Hands Raised,94.23s,2767,2829
+2827,10,Looking Away,94.23s,2767,2829

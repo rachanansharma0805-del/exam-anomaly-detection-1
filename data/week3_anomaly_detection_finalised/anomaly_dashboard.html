@@ -1,0 +1,417 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exam Anomaly Detection Report</title>
+    <meta charset="UTF-8">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        .header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        .content {
+            padding: 40px;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        .stat-card {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+        .stat-number {
+            font-size: 56px;
+            font-weight: bold;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .stat-label {
+            color: #555;
+            margin-top: 10px;
+            font-size: 16px;
+            font-weight: 600;
+        }
+        .section {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+        }
+        .section h2 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #667eea;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 14px;
+            text-transform: uppercase;
+        }
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+            color: #555;
+        }
+        tr:hover {
+            background-color: #f8f9fa;
+        }
+        tr:last-child td {
+            border-bottom: none;
+        }
+        .anomaly-type {
+            display: inline-block;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .type-head { background: #ffebee; color: #c62828; }
+        .type-hand { background: #e3f2fd; color: #1565c0; }
+        .type-look { background: #fff3e0; color: #e65100; }
+        .type-raised { background: #f3e5f5; color: #6a1b9a; }
+        .type-proximity { background: #e8f5e9; color: #2e7d32; }
+        .insights {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .insights ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        .insights li {
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+            color: #555;
+            font-size: 15px;
+        }
+        .insights li:last-child {
+            border-bottom: none;
+        }
+        .insights strong {
+            color: #667eea;
+            font-weight: 600;
+        }
+        .footer {
+            text-align: center;
+            padding: 30px;
+            background: #f8f9fa;
+            color: #888;
+            font-size: 14px;
+        }
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            background: #667eea;
+            color: white;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎓 Exam Anomaly Detection Report</h1>
+            <p>Automated Surveillance System Analysis</p>
+        </div>
+
+        <div class="content">
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-number">110</div>
+                    <div class="stat-label">Total Anomalies Detected</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">6</div>
+                    <div class="stat-label">People Involved</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">4</div>
+                    <div class="stat-label">Anomaly Categories</div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>📊 Anomaly Distribution</h2>
+                <table>
+                    <tr>
+                        <th>Anomaly Type</th>
+                        <th>Count</th>
+                        <th>Percentage</th>
+                        <th>Severity</th>
+                    </tr>
+
+                    <tr>
+                        <td><span class="anomaly-type type-look">Looking Away</span></td>
+                        <td><strong>31</strong></td>
+                        <td>28.2%</td>
+                        <td><span class="badge">Medium</span></td>
+                    </tr>
+    
+                    <tr>
+                        <td><span class="anomaly-type type-head">Excessive Head Turn</span></td>
+                        <td><strong>28</strong></td>
+                        <td>25.5%</td>
+                        <td><span class="badge">Medium</span></td>
+                    </tr>
+    
+                    <tr>
+                        <td><span class="anomaly-type type-hand">Excessive Hand Movement</span></td>
+                        <td><strong>27</strong></td>
+                        <td>24.5%</td>
+                        <td><span class="badge">Medium</span></td>
+                    </tr>
+    
+                    <tr>
+                        <td><span class="anomaly-type type-hand">Hands Raised</span></td>
+                        <td><strong>24</strong></td>
+                        <td>21.8%</td>
+                        <td><span class="badge">Medium</span></td>
+                    </tr>
+    
+                </table>
+            </div>
+
+            <div class="section">
+                <h2>📋 Recent Detections</h2>
+                <table>
+                    <tr>
+                        <th>Timestamp</th>
+                        <th>Person ID</th>
+                        <th>Anomaly Type</th>
+                        <th>Frame</th>
+                    </tr>
+
+                    <tr>
+                        <td>⏱️ 1.03s</td>
+                        <td>👤 #6</td>
+                        <td><span class="anomaly-type type-look">Looking Away</span></td>
+                        <td>#31</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 1.07s</td>
+                        <td>👤 #1</td>
+                        <td><span class="anomaly-type type-head">Excessive Head Turn</span></td>
+                        <td>#32</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 1.07s</td>
+                        <td>👤 #1</td>
+                        <td><span class="anomaly-type type-look">Looking Away</span></td>
+                        <td>#32</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 1.27s</td>
+                        <td>👤 #3</td>
+                        <td><span class="anomaly-type type-look">Looking Away</span></td>
+                        <td>#38</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 1.37s</td>
+                        <td>👤 #6</td>
+                        <td><span class="anomaly-type type-hand">Excessive Hand Movement</span></td>
+                        <td>#41</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 1.47s</td>
+                        <td>👤 #6</td>
+                        <td><span class="anomaly-type type-head">Excessive Head Turn</span></td>
+                        <td>#44</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 1.50s</td>
+                        <td>👤 #1</td>
+                        <td><span class="anomaly-type type-hand">Excessive Hand Movement</span></td>
+                        <td>#45</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 1.67s</td>
+                        <td>👤 #3</td>
+                        <td><span class="anomaly-type type-head">Excessive Head Turn</span></td>
+                        <td>#50</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.03s</td>
+                        <td>👤 #6</td>
+                        <td><span class="anomaly-type type-look">Looking Away</span></td>
+                        <td>#61</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.30s</td>
+                        <td>👤 #2</td>
+                        <td><span class="anomaly-type type-hand">Excessive Hand Movement</span></td>
+                        <td>#69</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.30s</td>
+                        <td>👤 #2</td>
+                        <td><span class="anomaly-type type-head">Excessive Head Turn</span></td>
+                        <td>#69</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.30s</td>
+                        <td>👤 #2</td>
+                        <td><span class="anomaly-type type-look">Looking Away</span></td>
+                        <td>#69</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.43s</td>
+                        <td>👤 #3</td>
+                        <td><span class="anomaly-type type-hand">Excessive Hand Movement</span></td>
+                        <td>#73</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.43s</td>
+                        <td>👤 #3</td>
+                        <td><span class="anomaly-type type-look">Looking Away</span></td>
+                        <td>#73</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.43s</td>
+                        <td>👤 #3</td>
+                        <td><span class="anomaly-type type-hand">Hands Raised</span></td>
+                        <td>#73</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.53s</td>
+                        <td>👤 #1</td>
+                        <td><span class="anomaly-type type-hand">Excessive Hand Movement</span></td>
+                        <td>#76</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.53s</td>
+                        <td>👤 #1</td>
+                        <td><span class="anomaly-type type-head">Excessive Head Turn</span></td>
+                        <td>#76</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.53s</td>
+                        <td>👤 #1</td>
+                        <td><span class="anomaly-type type-look">Looking Away</span></td>
+                        <td>#76</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.53s</td>
+                        <td>👤 #1</td>
+                        <td><span class="anomaly-type type-hand">Hands Raised</span></td>
+                        <td>#76</td>
+                    </tr>
+    
+                    <tr>
+                        <td>⏱️ 2.67s</td>
+                        <td>👤 #3</td>
+                        <td><span class="anomaly-type type-head">Excessive Head Turn</span></td>
+                        <td>#80</td>
+                    </tr>
+    
+                    <tr>
+                        <td colspan="4" style="text-align: center; color: #888; padding: 20px;">
+                            ... and <strong>90 more anomalies</strong> (view full log in CSV)
+                        </td>
+                    </tr>
+    
+                </table>
+            </div>
+
+            <div class="section">
+                <h2>💡 Key Insights</h2>
+                <div class="insights">
+                    <ul>
+                        <li>🔴 <strong>Most Common Anomaly:</strong> Looking Away (31 occurrences, 28.2% of total)</li>
+                        <li>👤 <strong>Person with Most Anomalies:</strong> #6 (48 anomalies detected)</li>
+                        <li>⏰ <strong>Peak Activity Time:</strong> Around 6.0s into the exam</li>
+                        <li>📈 <strong>Average Anomalies per Person:</strong> 18.3</li>
+                        <li>⚠️ <strong>Detection Rate:</strong> 22.1% of frames flagged (498 frames analyzed)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Generated on January 13, 2026 at 01:52 PM</p>
+            <p>Exam Anomaly Detection System | Computer Vision & Deep Learning</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -3,7 +3,7 @@ import mediapipe as mp
 from ultralytics import YOLO
 
 # Load YOLOv8 model (pretrained on COCO dataset)
-model = YOLO("yolov8n.pt")  # lightweight model for quick testing
+model = YOLO("yolov8n.pt")  
 
 # Initialize Mediapipe pose
 mp_pose = mp.solutions.pose
