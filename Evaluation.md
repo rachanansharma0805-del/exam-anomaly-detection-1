@@ -169,6 +169,7 @@ Where:
 Precision = 78 / (78 + 16) ≈ **0.83**
 
 ### Interpretation:
+
 The precision value indicates that most anomaly alerts raised by the system are correct. Some false positives occur due to natural human movements, pose ambiguity, invigilator misidentification, and ID overlap.
 ---
 ## Recall Evaluation
