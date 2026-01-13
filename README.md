@@ -85,6 +85,15 @@ git clone https://github.com/rachanansharma0805-del/exam-anomaly-detection-1
 -  Compared flagged events with actual events to evaluate performance
 -  Documented results and evaluation in Evaluation.md
 
+## Week 4 Progress
+
+- Built a Streamlit dashboard for video upload and result visualization
+- Integrated the complete detection pipeline with the dashboard
+- Generated concise summary tables and logged anomalies (CSV)
+- Tested the system on unseen videos to verify end-to-end performance
+- Created A fully working MVP with an interactive dashboard
+- End-to-end video upload → processing → anomaly reporting pipeline
+- Detection outputs successfully visualized and logged
 
 ## Author
 Rachana Sharma 
