@@ -1,0 +1,117 @@
+# video_encoder.py
+"""
+FFmpeg-based video encoding for browser compatibility
+Ensures H.264/AAC encoding for universal playback
+"""
+import subprocess
+import os
+import shutil
+
+def check_ffmpeg():
+    """Check if FFmpeg is installed and accessible"""
+    try:
+        result = subprocess.run(
+            ['ffmpeg', '-version'],
+            capture_output=True,
+            timeout=5,
+            creationflags=subprocess.CREATE_NO_WINDOW if os.name == 'nt' else 0
+        )
+        return result.returncode == 0
+    except:
+        return False
+
+def encode_video_for_browser(input_path, output_path, fps=30):
+    """
+    Re-encode video using FFmpeg for maximum browser compatibility
+    Uses H.264 baseline profile + AAC audio
+    
+    Args:
+        input_path: Path to input video (can be any format)
+        output_path: Path for output MP4
+        fps: Frame rate (default 30)
+    
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    if not check_ffmpeg():
+        print("⚠️ FFmpeg not found! Install FFmpeg for best compatibility.")
+        return False
+    
+    if not os.path.exists(input_path):
+        print(f"❌ Input file not found: {input_path}")
+        return False
+    
+    # Ensure output directory exists
+    os.makedirs(os.path.dirname(output_path) if os.path.dirname(output_path) else '.', exist_ok=True)
+    
+    # FFmpeg command for maximum browser compatibility
+    cmd = [
+        'ffmpeg',
+        '-i', input_path,                    # Input file
+        '-c:v', 'libx264',                   # H.264 video codec
+        '-profile:v', 'baseline',            # Baseline profile (max compatibility)
+        '-level', '3.0',                     # Level 3.0 (compatible with most devices)
+        '-pix_fmt', 'yuv420p',              # Standard pixel format
+        '-crf', '23',                        # Quality (23 = good balance)
+        '-preset', 'medium',                 # Encoding speed
+        '-r', str(fps),                      # Frame rate
+        '-c:a', 'aac',                       # AAC audio codec
+        '-b:a', '128k',                      # Audio bitrate
+        '-ar', '44100',                      # Audio sample rate
+        '-movflags', '+faststart',           # Enable web streaming
+        '-max_muxing_queue_size', '1024',    # Prevent buffer issues
+        '-y',                                # Overwrite output
+        output_path
+    ]
+    
+    try:
+        print(f"🎬 Encoding video with FFmpeg: {os.path.basename(output_path)}")
+        
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            timeout=300,  # 5 minutes max
+            creationflags=subprocess.CREATE_NO_WINDOW if os.name == 'nt' else 0
+        )
+        
+        if result.returncode == 0 and os.path.exists(output_path):
+            file_size = os.path.getsize(output_path) / (1024 * 1024)
+            print(f"✅ Encoded successfully: {file_size:.2f} MB")
+            return True
+        else:
+            stderr = result.stderr.decode('utf-8', errors='ignore')
+            print(f"❌ FFmpeg encoding failed:")
+            print(f"   {stderr[:500]}")
+            return False
+            
+    except subprocess.TimeoutExpired:
+        print("❌ FFmpeg timeout (video too long)")
+        return False
+    except Exception as e:
+        print(f"❌ FFmpeg error: {e}")
+        return False
+
+
+def convert_to_browser_compatible(input_path, output_path, fps=30):
+    """
+    Convert video to browser-compatible format
+    Falls back to copying if FFmpeg fails
+    
+    Args:
+        input_path: Source video path
+        output_path: Destination video path
+        fps: Frame rate
+    
+    Returns:
+        str: Path to output video (may be original if conversion fails)
+    """
+    # Try FFmpeg encoding first
+    if encode_video_for_browser(input_path, output_path, fps):
+        return output_path
+    
+    # Fallback: just copy the file
+    print("⚠️ FFmpeg failed, using original video (may have compatibility issues)")
+    if input_path != output_path:
+        shutil.copy2(input_path, output_path)
+    
+    return output_path

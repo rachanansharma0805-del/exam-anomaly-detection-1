@@ -1,0 +1,60 @@
+frame_number,timestamp,person_id,anomaly_type,severity,confidence,description,excessive_violations
+37,00:01,1,head_turn,67.5,0.9955377578735352,Suspicious head turn - possible copying,False
+40,00:01,3,excessive_movement,100,0.9890926480293274,Excessive movement detected,False
+41,00:01,3,excessive_movement,100,0.9916985630989075,Excessive movement detected,False
+44,00:01,1,head_turn,73.33333333333334,0.9967795610427856,Suspicious head turn - possible copying,False
+45,00:01,1,head_turn,61.71428571428571,0.9968273639678955,Suspicious head turn - possible copying,False
+45,00:01,3,excessive_movement,100,0.9937126040458679,Excessive movement detected,False
+46,00:01,1,head_turn,70.14084507042253,0.9966713786125183,Suspicious head turn - possible copying,False
+46,00:01,3,excessive_movement,100,0.9941763281822205,Excessive movement detected,False
+47,00:01,1,head_turn,69.0909090909091,0.9968386888504028,Suspicious head turn - possible copying,False
+47,00:01,3,excessive_movement,100,0.9957080483436584,Excessive movement detected,False
+48,00:01,3,excessive_movement,83.2586331859946,0.9942215085029602,Excessive movement detected,False
+49,00:01,3,excessive_movement,100,0.9940871596336365,Excessive movement detected,False
+50,00:01,3,excessive_movement,100,0.9950031042098999,Excessive movement detected,False
+50,00:01,5,head_turn,72.92307692307692,0.9970391988754272,Suspicious head turn - possible copying,False
+51,00:01,1,head_turn,61.791044776119406,0.9972875118255615,Suspicious head turn - possible copying,False
+52,00:01,1,head_turn,76.61538461538461,0.9976134300231934,Suspicious head turn - possible copying,False
+53,00:01,1,head_turn,72.72727272727273,0.9978981614112854,Suspicious head turn - possible copying,False
+54,00:01,1,head_turn,81.49253731343283,0.9979488253593445,Suspicious head turn - possible copying,False
+55,00:01,1,head_turn,64.93150684931507,0.9980788230895996,Suspicious head turn - possible copying,False
+74,00:02,1,excessive_movement,93.03762679690406,0.9786703586578369,Excessive movement detected,False
+76,00:02,3,head_turn,100,0.9870796203613281,Suspicious head turn - possible copying,False
+89,00:03,3,excessive_movement,100,0.9881191253662109,Excessive movement detected,False
+90,00:03,3,excessive_movement,100,0.9870796203613281,Excessive movement detected,False
+102,00:03,1,speaking,70,0.9976269602775574,Possible communication with other students,False
+102,00:03,5,speaking,70,0.9654091000556946,Possible communication with other students,False
+103,00:03,1,speaking,70,0.9682378172874451,Possible communication with other students,False
+107,00:03,3,excessive_movement,72.01388754955533,0.9702569246292114,Excessive movement detected,False
+121,00:04,3,excessive_movement,100,0.9702569246292114,Excessive movement detected,False
+122,00:04,3,excessive_movement,100,0.9608222246170044,Excessive movement detected,False
+126,00:04,3,excessive_movement,100,0.9707227945327759,Excessive movement detected,True
+127,00:04,1,excessive_movement,77.62087348130012,0.9711873531341553,Excessive movement detected,False
+127,00:04,3,excessive_movement,100,0.9815253019332886,Excessive movement detected,True
+198,00:06,1,speaking,70,0.9643558859825134,Possible communication with other students,True
+316,00:10,4,head_turn,100,0.9577739238739014,Suspicious head turn - possible copying,False
+316,00:10,4,looking_away,66.66666666666666,0.9577739238739014,Looking away from paper - potential cheating,False
+317,00:10,1,looking_away,100,0.9684504270553589,Looking away from paper - potential cheating,True
+340,00:11,1,head_turn,98.33333333333333,0.9861680865287781,Suspicious head turn - possible copying,True
+443,00:15,1,head_turn,100,0.9748830795288086,Suspicious head turn - possible copying,True
+443,00:15,13,head_turn,100,0.9796269536018372,Suspicious head turn - possible copying,False
+443,00:15,13,looking_away,100,0.979505717754364,Looking away from paper - potential cheating,False
+443,00:15,13,peeping,100,0.9796269536018372,Leaning to side - possible attempt to view neighbor's paper,False
+444,00:15,1,head_turn,100.0,0.9834007024765015,Suspicious head turn - possible copying,True
+444,00:15,13,head_turn,100,0.9864224791526794,Suspicious head turn - possible copying,False
+444,00:15,13,looking_away,100,0.9863414168357849,Looking away from paper - potential cheating,False
+444,00:15,13,peeping,100,0.986095130443573,Leaning to side - possible attempt to view neighbor's paper,False
+445,00:15,1,head_turn,83.15789473684211,0.9888516664505005,Suspicious head turn - possible copying,True
+445,00:15,13,head_turn,100,0.9909349083900452,Suspicious head turn - possible copying,False
+445,00:15,13,looking_away,100,0.9907674193382263,Looking away from paper - potential cheating,False
+445,00:15,13,peeping,100,0.9869132041931152,Leaning to side - possible attempt to view neighbor's paper,False
+445,00:15,14,head_turn,80.8695652173913,0.9916934967041016,Suspicious head turn - possible copying,False
+446,00:15,1,head_turn,87.09677419354838,0.9924904704093933,Suspicious head turn - possible copying,True
+446,00:15,13,head_turn,100,0.9938859343528748,Suspicious head turn - possible copying,False
+446,00:15,13,looking_away,100,0.9936882853507996,Looking away from paper - potential cheating,False
+446,00:15,13,peeping,100,0.9887102246284485,Leaning to side - possible attempt to view neighbor's paper,False
+447,00:15,1,head_turn,90.0,0.994814395904541,Suspicious head turn - possible copying,True
+495,00:17,1,speaking,70,0.9826255440711975,Possible communication with other students,True
+496,00:17,1,speaking,70,0.9678308963775635,Possible communication with other students,True
+497,00:17,1,speaking,70,0.975239634513855,Possible communication with other students,True
+498,00:17,1,speaking,70,0.9784051179885864,Possible communication with other students,True

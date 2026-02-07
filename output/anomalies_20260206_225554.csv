@@ -1,0 +1,920 @@
+frame_number,timestamp,person_id,anomaly_type,severity,confidence,description
+1,00:00,3,Hand Raise,70,0.9,Student raised hand above shoulder
+3,00:00,14,Head Turn,60,0.8,Student turned head significantly
+3,00:00,14,Looking Away,50,0.7,Student looking away from desk
+3,00:00,15,Hand Raise,70,0.9,Student raised hand above shoulder
+3,00:00,15,Looking Away,50,0.7,Student looking away from desk
+4,00:00,19,Head Turn,60,0.8,Student turned head significantly
+7,00:00,34,Head Turn,60,0.8,Student turned head significantly
+7,00:00,34,Looking Away,50,0.7,Student looking away from desk
+8,00:00,36,Hand Raise,70,0.9,Student raised hand above shoulder
+8,00:00,36,Looking Away,50,0.7,Student looking away from desk
+8,00:00,37,Head Turn,60,0.8,Student turned head significantly
+8,00:00,37,Looking Away,50,0.7,Student looking away from desk
+9,00:00,44,Head Turn,60,0.8,Student turned head significantly
+10,00:00,46,Head Turn,60,0.8,Student turned head significantly
+10,00:00,46,Hand Raise,70,0.9,Student raised hand above shoulder
+10,00:00,46,Looking Away,50,0.7,Student looking away from desk
+10,00:00,47,Head Turn,60,0.8,Student turned head significantly
+10,00:00,47,Looking Away,50,0.7,Student looking away from desk
+13,00:00,62,Head Turn,60,0.8,Student turned head significantly
+13,00:00,62,Hand Raise,70,0.9,Student raised hand above shoulder
+13,00:00,62,Looking Away,50,0.7,Student looking away from desk
+13,00:00,63,Head Turn,60,0.8,Student turned head significantly
+13,00:00,63,Looking Away,50,0.7,Student looking away from desk
+13,00:00,64,Head Turn,60,0.8,Student turned head significantly
+13,00:00,64,Looking Away,50,0.7,Student looking away from desk
+13,00:00,65,Head Turn,60,0.8,Student turned head significantly
+13,00:00,65,Hand Raise,70,0.9,Student raised hand above shoulder
+13,00:00,65,Looking Away,50,0.7,Student looking away from desk
+14,00:00,66,Hand Raise,70,0.9,Student raised hand above shoulder
+14,00:00,66,Looking Away,50,0.7,Student looking away from desk
+14,00:00,67,Head Turn,60,0.8,Student turned head significantly
+14,00:00,67,Hand Raise,70,0.9,Student raised hand above shoulder
+14,00:00,67,Looking Away,50,0.7,Student looking away from desk
+14,00:00,68,Head Turn,60,0.8,Student turned head significantly
+14,00:00,68,Hand Raise,70,0.9,Student raised hand above shoulder
+14,00:00,68,Looking Away,50,0.7,Student looking away from desk
+14,00:00,69,Head Turn,60,0.8,Student turned head significantly
+14,00:00,69,Looking Away,50,0.7,Student looking away from desk
+15,00:00,73,Head Turn,60,0.8,Student turned head significantly
+18,00:00,85,Hand Raise,70,0.9,Student raised hand above shoulder
+18,00:00,87,Head Turn,60,0.8,Student turned head significantly
+18,00:00,88,Head Turn,60,0.8,Student turned head significantly
+21,00:00,99,Head Turn,60,0.8,Student turned head significantly
+21,00:00,100,Head Turn,60,0.8,Student turned head significantly
+23,00:00,108,Looking Away,50,0.7,Student looking away from desk
+24,00:00,109,Head Turn,60,0.8,Student turned head significantly
+24,00:00,109,Looking Away,50,0.7,Student looking away from desk
+24,00:00,110,Head Turn,60,0.8,Student turned head significantly
+24,00:00,110,Looking Away,50,0.7,Student looking away from desk
+24,00:00,111,Looking Away,50,0.7,Student looking away from desk
+24,00:00,112,Hand Raise,70,0.9,Student raised hand above shoulder
+24,00:00,112,Looking Away,50,0.7,Student looking away from desk
+25,00:00,113,Head Turn,60,0.8,Student turned head significantly
+25,00:00,113,Looking Away,50,0.7,Student looking away from desk
+25,00:00,114,Head Turn,60,0.8,Student turned head significantly
+26,00:00,117,Head Turn,60,0.8,Student turned head significantly
+26,00:00,117,Looking Away,50,0.7,Student looking away from desk
+26,00:00,120,Hand Raise,70,0.9,Student raised hand above shoulder
+27,00:00,123,Head Turn,60,0.8,Student turned head significantly
+27,00:00,123,Hand Raise,70,0.9,Student raised hand above shoulder
+27,00:00,123,Looking Away,50,0.7,Student looking away from desk
+27,00:00,124,Looking Away,50,0.7,Student looking away from desk
+28,00:00,125,Head Turn,60,0.8,Student turned head significantly
+28,00:00,125,Hand Raise,70,0.9,Student raised hand above shoulder
+28,00:00,125,Looking Away,50,0.7,Student looking away from desk
+28,00:00,128,Hand Raise,70,0.9,Student raised hand above shoulder
+28,00:00,128,Looking Away,50,0.7,Student looking away from desk
+29,00:01,129,Hand Raise,70,0.9,Student raised hand above shoulder
+29,00:01,130,Hand Raise,70,0.9,Student raised hand above shoulder
+29,00:01,131,Head Turn,60,0.8,Student turned head significantly
+29,00:01,131,Looking Away,50,0.7,Student looking away from desk
+30,00:01,133,Head Turn,60,0.8,Student turned head significantly
+30,00:01,133,Looking Away,50,0.7,Student looking away from desk
+33,00:01,151,Head Turn,60,0.8,Student turned head significantly
+33,00:01,151,Hand Raise,70,0.9,Student raised hand above shoulder
+33,00:01,151,Looking Away,50,0.7,Student looking away from desk
+34,00:01,153,Hand Raise,70,0.9,Student raised hand above shoulder
+34,00:01,153,Looking Away,50,0.7,Student looking away from desk
+34,00:01,154,Head Turn,60,0.8,Student turned head significantly
+34,00:01,154,Looking Away,50,0.7,Student looking away from desk
+34,00:01,155,Head Turn,60,0.8,Student turned head significantly
+34,00:01,155,Looking Away,50,0.7,Student looking away from desk
+35,00:01,161,Hand Raise,70,0.9,Student raised hand above shoulder
+35,00:01,161,Looking Away,50,0.7,Student looking away from desk
+35,00:01,162,Hand Raise,70,0.9,Student raised hand above shoulder
+36,00:01,163,Hand Raise,70,0.9,Student raised hand above shoulder
+36,00:01,164,Head Turn,60,0.8,Student turned head significantly
+36,00:01,164,Hand Raise,70,0.9,Student raised hand above shoulder
+36,00:01,164,Looking Away,50,0.7,Student looking away from desk
+36,00:01,165,Hand Raise,70,0.9,Student raised hand above shoulder
+36,00:01,165,Looking Away,50,0.7,Student looking away from desk
+36,00:01,166,Head Turn,60,0.8,Student turned head significantly
+36,00:01,166,Hand Raise,70,0.9,Student raised hand above shoulder
+36,00:01,166,Looking Away,50,0.7,Student looking away from desk
+36,00:01,167,Head Turn,60,0.8,Student turned head significantly
+36,00:01,167,Hand Raise,70,0.9,Student raised hand above shoulder
+36,00:01,167,Looking Away,50,0.7,Student looking away from desk
+37,00:01,169,Head Turn,60,0.8,Student turned head significantly
+37,00:01,169,Hand Raise,70,0.9,Student raised hand above shoulder
+38,00:01,173,Head Turn,60,0.8,Student turned head significantly
+40,00:01,181,Head Turn,60,0.8,Student turned head significantly
+41,00:01,187,Looking Away,50,0.7,Student looking away from desk
+41,00:01,188,Head Turn,60,0.8,Student turned head significantly
+41,00:01,188,Hand Raise,70,0.9,Student raised hand above shoulder
+41,00:01,188,Looking Away,50,0.7,Student looking away from desk
+42,00:01,190,Head Turn,60,0.8,Student turned head significantly
+43,00:01,196,Head Turn,60,0.8,Student turned head significantly
+43,00:01,196,Hand Raise,70,0.9,Student raised hand above shoulder
+43,00:01,196,Looking Away,50,0.7,Student looking away from desk
+43,00:01,197,Head Turn,60,0.8,Student turned head significantly
+43,00:01,197,Looking Away,50,0.7,Student looking away from desk
+43,00:01,198,Head Turn,60,0.8,Student turned head significantly
+43,00:01,198,Hand Raise,70,0.9,Student raised hand above shoulder
+43,00:01,198,Looking Away,50,0.7,Student looking away from desk
+44,00:01,200,Head Turn,60,0.8,Student turned head significantly
+45,00:01,206,Head Turn,60,0.8,Student turned head significantly
+45,00:01,206,Looking Away,50,0.7,Student looking away from desk
+45,00:01,207,Looking Away,50,0.7,Student looking away from desk
+45,00:01,208,Head Turn,60,0.8,Student turned head significantly
+45,00:01,208,Looking Away,50,0.7,Student looking away from desk
+48,00:01,218,Head Turn,60,0.8,Student turned head significantly
+48,00:01,218,Hand Raise,70,0.9,Student raised hand above shoulder
+48,00:01,219,Hand Raise,70,0.9,Student raised hand above shoulder
+48,00:01,219,Looking Away,50,0.7,Student looking away from desk
+50,00:01,228,Head Turn,60,0.8,Student turned head significantly
+51,00:01,231,Head Turn,60,0.8,Student turned head significantly
+54,00:01,250,Hand Raise,70,0.9,Student raised hand above shoulder
+55,00:01,251,Hand Raise,70,0.9,Student raised hand above shoulder
+55,00:01,251,Looking Away,50,0.7,Student looking away from desk
+55,00:01,252,Hand Raise,70,0.9,Student raised hand above shoulder
+55,00:01,252,Looking Away,50,0.7,Student looking away from desk
+55,00:01,253,Head Turn,60,0.8,Student turned head significantly
+55,00:01,253,Hand Raise,70,0.9,Student raised hand above shoulder
+55,00:01,253,Looking Away,50,0.7,Student looking away from desk
+55,00:01,255,Head Turn,60,0.8,Student turned head significantly
+56,00:01,259,Hand Raise,70,0.9,Student raised hand above shoulder
+57,00:01,261,Hand Raise,70,0.9,Student raised hand above shoulder
+57,00:01,261,Looking Away,50,0.7,Student looking away from desk
+57,00:01,262,Hand Raise,70,0.9,Student raised hand above shoulder
+58,00:02,265,Hand Raise,70,0.9,Student raised hand above shoulder
+58,00:02,266,Hand Raise,70,0.9,Student raised hand above shoulder
+58,00:02,266,Looking Away,50,0.7,Student looking away from desk
+59,00:02,269,Head Turn,60,0.8,Student turned head significantly
+59,00:02,269,Hand Raise,70,0.9,Student raised hand above shoulder
+59,00:02,269,Looking Away,50,0.7,Student looking away from desk
+59,00:02,270,Hand Raise,70,0.9,Student raised hand above shoulder
+59,00:02,270,Looking Away,50,0.7,Student looking away from desk
+60,00:02,273,Hand Raise,70,0.9,Student raised hand above shoulder
+60,00:02,274,Hand Raise,70,0.9,Student raised hand above shoulder
+60,00:02,274,Looking Away,50,0.7,Student looking away from desk
+61,00:02,277,Head Turn,60,0.8,Student turned head significantly
+61,00:02,277,Hand Raise,70,0.9,Student raised hand above shoulder
+61,00:02,277,Looking Away,50,0.7,Student looking away from desk
+61,00:02,278,Hand Raise,70,0.9,Student raised hand above shoulder
+61,00:02,278,Looking Away,50,0.7,Student looking away from desk
+61,00:02,281,Head Turn,60,0.8,Student turned head significantly
+64,00:02,293,Head Turn,60,0.8,Student turned head significantly
+66,00:02,301,Head Turn,60,0.8,Student turned head significantly
+66,00:02,301,Hand Raise,70,0.9,Student raised hand above shoulder
+66,00:02,301,Looking Away,50,0.7,Student looking away from desk
+67,00:02,306,Hand Raise,70,0.9,Student raised hand above shoulder
+67,00:02,306,Looking Away,50,0.7,Student looking away from desk
+68,00:02,307,Hand Raise,70,0.9,Student raised hand above shoulder
+68,00:02,308,Head Turn,60,0.8,Student turned head significantly
+68,00:02,308,Hand Raise,70,0.9,Student raised hand above shoulder
+68,00:02,308,Looking Away,50,0.7,Student looking away from desk
+68,00:02,309,Head Turn,60,0.8,Student turned head significantly
+68,00:02,309,Hand Raise,70,0.9,Student raised hand above shoulder
+68,00:02,309,Looking Away,50,0.7,Student looking away from desk
+69,00:02,311,Hand Raise,70,0.9,Student raised hand above shoulder
+69,00:02,311,Looking Away,50,0.7,Student looking away from desk
+71,00:02,319,Hand Raise,70,0.9,Student raised hand above shoulder
+71,00:02,319,Looking Away,50,0.7,Student looking away from desk
+73,00:02,330,Head Turn,60,0.8,Student turned head significantly
+73,00:02,330,Hand Raise,70,0.9,Student raised hand above shoulder
+74,00:02,331,Hand Raise,70,0.9,Student raised hand above shoulder
+74,00:02,332,Hand Raise,70,0.9,Student raised hand above shoulder
+74,00:02,333,Head Turn,60,0.8,Student turned head significantly
+74,00:02,333,Hand Raise,70,0.9,Student raised hand above shoulder
+74,00:02,333,Looking Away,50,0.7,Student looking away from desk
+76,00:02,339,Head Turn,60,0.8,Student turned head significantly
+76,00:02,342,Head Turn,60,0.8,Student turned head significantly
+77,00:02,343,Head Turn,60,0.8,Student turned head significantly
+77,00:02,343,Hand Raise,70,0.9,Student raised hand above shoulder
+77,00:02,345,Head Turn,60,0.8,Student turned head significantly
+77,00:02,345,Hand Raise,70,0.9,Student raised hand above shoulder
+77,00:02,345,Looking Away,50,0.7,Student looking away from desk
+78,00:02,350,Head Turn,60,0.8,Student turned head significantly
+78,00:02,350,Hand Raise,70,0.9,Student raised hand above shoulder
+78,00:02,350,Looking Away,50,0.7,Student looking away from desk
+79,00:02,353,Head Turn,60,0.8,Student turned head significantly
+79,00:02,353,Hand Raise,70,0.9,Student raised hand above shoulder
+79,00:02,353,Looking Away,50,0.7,Student looking away from desk
+80,00:02,355,Hand Raise,70,0.9,Student raised hand above shoulder
+82,00:02,366,Hand Raise,70,0.9,Student raised hand above shoulder
+82,00:02,366,Looking Away,50,0.7,Student looking away from desk
+83,00:02,367,Hand Raise,70,0.9,Student raised hand above shoulder
+83,00:02,367,Looking Away,50,0.7,Student looking away from desk
+83,00:02,368,Head Turn,60,0.8,Student turned head significantly
+83,00:02,368,Hand Raise,70,0.9,Student raised hand above shoulder
+83,00:02,369,Head Turn,60,0.8,Student turned head significantly
+83,00:02,369,Hand Raise,70,0.9,Student raised hand above shoulder
+85,00:02,375,Head Turn,60,0.8,Student turned head significantly
+85,00:02,375,Looking Away,50,0.7,Student looking away from desk
+85,00:02,376,Head Turn,60,0.8,Student turned head significantly
+85,00:02,376,Hand Raise,70,0.9,Student raised hand above shoulder
+85,00:02,376,Looking Away,50,0.7,Student looking away from desk
+87,00:03,383,Head Turn,60,0.8,Student turned head significantly
+91,00:03,400,Head Turn,60,0.8,Student turned head significantly
+91,00:03,400,Hand Raise,70,0.9,Student raised hand above shoulder
+91,00:03,400,Looking Away,50,0.7,Student looking away from desk
+92,00:03,403,Head Turn,60,0.8,Student turned head significantly
+94,00:03,411,Hand Raise,70,0.9,Student raised hand above shoulder
+94,00:03,411,Looking Away,50,0.7,Student looking away from desk
+100,00:03,436,Hand Raise,70,0.9,Student raised hand above shoulder
+104,00:03,452,Head Turn,60,0.8,Student turned head significantly
+104,00:03,452,Hand Raise,70,0.9,Student raised hand above shoulder
+104,00:03,453,Head Turn,60,0.8,Student turned head significantly
+104,00:03,453,Looking Away,50,0.7,Student looking away from desk
+105,00:03,456,Head Turn,60,0.8,Student turned head significantly
+105,00:03,456,Hand Raise,70,0.9,Student raised hand above shoulder
+109,00:03,471,Looking Away,50,0.7,Student looking away from desk
+109,00:03,472,Head Turn,60,0.8,Student turned head significantly
+109,00:03,473,Head Turn,60,0.8,Student turned head significantly
+109,00:03,473,Looking Away,50,0.7,Student looking away from desk
+113,00:03,488,Hand Raise,70,0.9,Student raised hand above shoulder
+113,00:03,489,Head Turn,60,0.8,Student turned head significantly
+113,00:03,491,Hand Raise,70,0.9,Student raised hand above shoulder
+114,00:03,492,Hand Raise,70,0.9,Student raised hand above shoulder
+114,00:03,492,Looking Away,50,0.7,Student looking away from desk
+114,00:03,494,Head Turn,60,0.8,Student turned head significantly
+114,00:03,496,Head Turn,60,0.8,Student turned head significantly
+115,00:03,499,Head Turn,60,0.8,Student turned head significantly
+115,00:03,499,Hand Raise,70,0.9,Student raised hand above shoulder
+115,00:03,499,Looking Away,50,0.7,Student looking away from desk
+116,00:04,503,Head Turn,60,0.8,Student turned head significantly
+116,00:04,503,Hand Raise,70,0.9,Student raised hand above shoulder
+117,00:04,507,Head Turn,60,0.8,Student turned head significantly
+117,00:04,507,Hand Raise,70,0.9,Student raised hand above shoulder
+118,00:04,510,Head Turn,60,0.8,Student turned head significantly
+119,00:04,513,Looking Away,50,0.7,Student looking away from desk
+120,00:04,517,Head Turn,60,0.8,Student turned head significantly
+120,00:04,517,Looking Away,50,0.7,Student looking away from desk
+120,00:04,520,Head Turn,60,0.8,Student turned head significantly
+122,00:04,527,Head Turn,60,0.8,Student turned head significantly
+123,00:04,532,Head Turn,60,0.8,Student turned head significantly
+123,00:04,532,Hand Raise,70,0.9,Student raised hand above shoulder
+124,00:04,535,Hand Raise,70,0.9,Student raised hand above shoulder
+124,00:04,535,Looking Away,50,0.7,Student looking away from desk
+125,00:04,538,Head Turn,60,0.8,Student turned head significantly
+125,00:04,538,Looking Away,50,0.7,Student looking away from desk
+125,00:04,540,Head Turn,60,0.8,Student turned head significantly
+128,00:04,552,Head Turn,60,0.8,Student turned head significantly
+129,00:04,555,Hand Raise,70,0.9,Student raised hand above shoulder
+129,00:04,556,Hand Raise,70,0.9,Student raised hand above shoulder
+129,00:04,556,Looking Away,50,0.7,Student looking away from desk
+130,00:04,558,Looking Away,50,0.7,Student looking away from desk
+130,00:04,559,Head Turn,60,0.8,Student turned head significantly
+130,00:04,560,Hand Raise,70,0.9,Student raised hand above shoulder
+130,00:04,560,Looking Away,50,0.7,Student looking away from desk
+130,00:04,561,Head Turn,60,0.8,Student turned head significantly
+130,00:04,561,Hand Raise,70,0.9,Student raised hand above shoulder
+130,00:04,561,Looking Away,50,0.7,Student looking away from desk
+131,00:04,565,Head Turn,60,0.8,Student turned head significantly
+131,00:04,565,Hand Raise,70,0.9,Student raised hand above shoulder
+132,00:04,570,Head Turn,60,0.8,Student turned head significantly
+132,00:04,570,Hand Raise,70,0.9,Student raised hand above shoulder
+132,00:04,571,Head Turn,60,0.8,Student turned head significantly
+132,00:04,571,Hand Raise,70,0.9,Student raised hand above shoulder
+132,00:04,572,Head Turn,60,0.8,Student turned head significantly
+133,00:04,573,Head Turn,60,0.8,Student turned head significantly
+133,00:04,573,Looking Away,50,0.7,Student looking away from desk
+133,00:04,576,Hand Raise,70,0.9,Student raised hand above shoulder
+134,00:04,577,Head Turn,60,0.8,Student turned head significantly
+134,00:04,577,Looking Away,50,0.7,Student looking away from desk
+134,00:04,578,Head Turn,60,0.8,Student turned head significantly
+134,00:04,578,Hand Raise,70,0.9,Student raised hand above shoulder
+134,00:04,579,Hand Raise,70,0.9,Student raised hand above shoulder
+134,00:04,579,Looking Away,50,0.7,Student looking away from desk
+134,00:04,581,Head Turn,60,0.8,Student turned head significantly
+135,00:04,583,Head Turn,60,0.8,Student turned head significantly
+135,00:04,585,Head Turn,60,0.8,Student turned head significantly
+135,00:04,585,Looking Away,50,0.7,Student looking away from desk
+137,00:04,592,Head Turn,60,0.8,Student turned head significantly
+137,00:04,592,Hand Raise,70,0.9,Student raised hand above shoulder
+137,00:04,592,Looking Away,50,0.7,Student looking away from desk
+137,00:04,593,Head Turn,60,0.8,Student turned head significantly
+137,00:04,593,Looking Away,50,0.7,Student looking away from desk
+138,00:04,595,Head Turn,60,0.8,Student turned head significantly
+140,00:04,603,Head Turn,60,0.8,Student turned head significantly
+141,00:04,609,Looking Away,50,0.7,Student looking away from desk
+142,00:04,610,Hand Raise,70,0.9,Student raised hand above shoulder
+142,00:04,610,Looking Away,50,0.7,Student looking away from desk
+143,00:04,616,Head Turn,60,0.8,Student turned head significantly
+143,00:04,616,Looking Away,50,0.7,Student looking away from desk
+144,00:04,621,Head Turn,60,0.8,Student turned head significantly
+144,00:04,621,Looking Away,50,0.7,Student looking away from desk
+146,00:05,627,Hand Raise,70,0.9,Student raised hand above shoulder
+146,00:05,628,Head Turn,60,0.8,Student turned head significantly
+147,00:05,630,Head Turn,60,0.8,Student turned head significantly
+147,00:05,630,Hand Raise,70,0.9,Student raised hand above shoulder
+147,00:05,630,Looking Away,50,0.7,Student looking away from desk
+148,00:05,636,Head Turn,60,0.8,Student turned head significantly
+148,00:05,637,Head Turn,60,0.8,Student turned head significantly
+148,00:05,637,Looking Away,50,0.7,Student looking away from desk
+149,00:05,638,Hand Raise,70,0.9,Student raised hand above shoulder
+149,00:05,638,Looking Away,50,0.7,Student looking away from desk
+150,00:05,643,Head Turn,60,0.8,Student turned head significantly
+150,00:05,644,Head Turn,60,0.8,Student turned head significantly
+150,00:05,644,Looking Away,50,0.7,Student looking away from desk
+151,00:05,649,Hand Raise,70,0.9,Student raised hand above shoulder
+151,00:05,649,Looking Away,50,0.7,Student looking away from desk
+152,00:05,651,Head Turn,60,0.8,Student turned head significantly
+153,00:05,654,Head Turn,60,0.8,Student turned head significantly
+154,00:05,659,Head Turn,60,0.8,Student turned head significantly
+155,00:05,663,Head Turn,60,0.8,Student turned head significantly
+155,00:05,663,Looking Away,50,0.7,Student looking away from desk
+155,00:05,665,Head Turn,60,0.8,Student turned head significantly
+155,00:05,665,Hand Raise,70,0.9,Student raised hand above shoulder
+156,00:05,666,Hand Raise,70,0.9,Student raised hand above shoulder
+156,00:05,667,Hand Raise,70,0.9,Student raised hand above shoulder
+156,00:05,668,Head Turn,60,0.8,Student turned head significantly
+156,00:05,668,Hand Raise,70,0.9,Student raised hand above shoulder
+156,00:05,668,Looking Away,50,0.7,Student looking away from desk
+157,00:05,671,Head Turn,60,0.8,Student turned head significantly
+157,00:05,671,Looking Away,50,0.7,Student looking away from desk
+157,00:05,673,Hand Raise,70,0.9,Student raised hand above shoulder
+157,00:05,673,Looking Away,50,0.7,Student looking away from desk
+158,00:05,674,Head Turn,60,0.8,Student turned head significantly
+158,00:05,674,Hand Raise,70,0.9,Student raised hand above shoulder
+158,00:05,674,Looking Away,50,0.7,Student looking away from desk
+158,00:05,676,Head Turn,60,0.8,Student turned head significantly
+159,00:05,679,Head Turn,60,0.8,Student turned head significantly
+159,00:05,679,Looking Away,50,0.7,Student looking away from desk
+159,00:05,681,Head Turn,60,0.8,Student turned head significantly
+159,00:05,681,Hand Raise,70,0.9,Student raised hand above shoulder
+159,00:05,681,Looking Away,50,0.7,Student looking away from desk
+161,00:05,687,Head Turn,60,0.8,Student turned head significantly
+161,00:05,687,Looking Away,50,0.7,Student looking away from desk
+162,00:05,691,Head Turn,60,0.8,Student turned head significantly
+163,00:05,694,Head Turn,60,0.8,Student turned head significantly
+165,00:05,702,Head Turn,60,0.8,Student turned head significantly
+165,00:05,702,Hand Raise,70,0.9,Student raised hand above shoulder
+165,00:05,702,Looking Away,50,0.7,Student looking away from desk
+165,00:05,703,Hand Raise,70,0.9,Student raised hand above shoulder
+166,00:05,706,Hand Raise,70,0.9,Student raised hand above shoulder
+166,00:05,706,Looking Away,50,0.7,Student looking away from desk
+167,00:05,711,Head Turn,60,0.8,Student turned head significantly
+167,00:05,711,Looking Away,50,0.7,Student looking away from desk
+168,00:05,716,Head Turn,60,0.8,Student turned head significantly
+168,00:05,718,Head Turn,60,0.8,Student turned head significantly
+168,00:05,718,Looking Away,50,0.7,Student looking away from desk
+169,00:05,724,Head Turn,60,0.8,Student turned head significantly
+170,00:05,726,Head Turn,60,0.8,Student turned head significantly
+170,00:05,727,Head Turn,60,0.8,Student turned head significantly
+170,00:05,727,Looking Away,50,0.7,Student looking away from desk
+170,00:05,730,Head Turn,60,0.8,Student turned head significantly
+171,00:05,735,Head Turn,60,0.8,Student turned head significantly
+172,00:05,740,Looking Away,50,0.7,Student looking away from desk
+173,00:05,741,Looking Away,50,0.7,Student looking away from desk
+173,00:05,743,Head Turn,60,0.8,Student turned head significantly
+173,00:05,743,Looking Away,50,0.7,Student looking away from desk
+173,00:05,745,Head Turn,60,0.8,Student turned head significantly
+174,00:06,746,Head Turn,60,0.8,Student turned head significantly
+174,00:06,748,Head Turn,60,0.8,Student turned head significantly
+175,00:06,752,Head Turn,60,0.8,Student turned head significantly
+175,00:06,753,Head Turn,60,0.8,Student turned head significantly
+175,00:06,753,Looking Away,50,0.7,Student looking away from desk
+175,00:06,754,Head Turn,60,0.8,Student turned head significantly
+175,00:06,755,Head Turn,60,0.8,Student turned head significantly
+177,00:06,764,Head Turn,60,0.8,Student turned head significantly
+177,00:06,764,Looking Away,50,0.7,Student looking away from desk
+178,00:06,767,Head Turn,60,0.8,Student turned head significantly
+178,00:06,768,Head Turn,60,0.8,Student turned head significantly
+178,00:06,768,Looking Away,50,0.7,Student looking away from desk
+179,00:06,772,Hand Raise,70,0.9,Student raised hand above shoulder
+179,00:06,772,Looking Away,50,0.7,Student looking away from desk
+179,00:06,773,Head Turn,60,0.8,Student turned head significantly
+179,00:06,773,Looking Away,50,0.7,Student looking away from desk
+179,00:06,775,Hand Raise,70,0.9,Student raised hand above shoulder
+180,00:06,776,Head Turn,60,0.8,Student turned head significantly
+180,00:06,776,Hand Raise,70,0.9,Student raised hand above shoulder
+180,00:06,776,Looking Away,50,0.7,Student looking away from desk
+180,00:06,777,Head Turn,60,0.8,Student turned head significantly
+180,00:06,777,Looking Away,50,0.7,Student looking away from desk
+180,00:06,778,Head Turn,60,0.8,Student turned head significantly
+180,00:06,778,Looking Away,50,0.7,Student looking away from desk
+180,00:06,779,Head Turn,60,0.8,Student turned head significantly
+180,00:06,779,Hand Raise,70,0.9,Student raised hand above shoulder
+180,00:06,779,Looking Away,50,0.7,Student looking away from desk
+181,00:06,783,Head Turn,60,0.8,Student turned head significantly
+181,00:06,783,Looking Away,50,0.7,Student looking away from desk
+181,00:06,785,Hand Raise,70,0.9,Student raised hand above shoulder
+181,00:06,785,Looking Away,50,0.7,Student looking away from desk
+182,00:06,786,Head Turn,60,0.8,Student turned head significantly
+182,00:06,786,Hand Raise,70,0.9,Student raised hand above shoulder
+182,00:06,786,Looking Away,50,0.7,Student looking away from desk
+182,00:06,787,Head Turn,60,0.8,Student turned head significantly
+182,00:06,787,Looking Away,50,0.7,Student looking away from desk
+182,00:06,788,Head Turn,60,0.8,Student turned head significantly
+182,00:06,788,Looking Away,50,0.7,Student looking away from desk
+182,00:06,789,Head Turn,60,0.8,Student turned head significantly
+182,00:06,789,Looking Away,50,0.7,Student looking away from desk
+183,00:06,791,Head Turn,60,0.8,Student turned head significantly
+183,00:06,791,Looking Away,50,0.7,Student looking away from desk
+183,00:06,793,Head Turn,60,0.8,Student turned head significantly
+183,00:06,794,Head Turn,60,0.8,Student turned head significantly
+183,00:06,794,Looking Away,50,0.7,Student looking away from desk
+184,00:06,796,Head Turn,60,0.8,Student turned head significantly
+184,00:06,799,Head Turn,60,0.8,Student turned head significantly
+185,00:06,800,Head Turn,60,0.8,Student turned head significantly
+186,00:06,805,Head Turn,60,0.8,Student turned head significantly
+188,00:06,813,Head Turn,60,0.8,Student turned head significantly
+191,00:06,825,Head Turn,60,0.8,Student turned head significantly
+191,00:06,825,Looking Away,50,0.7,Student looking away from desk
+191,00:06,827,Head Turn,60,0.8,Student turned head significantly
+191,00:06,827,Hand Raise,70,0.9,Student raised hand above shoulder
+191,00:06,828,Hand Raise,70,0.9,Student raised hand above shoulder
+191,00:06,828,Looking Away,50,0.7,Student looking away from desk
+194,00:06,837,Head Turn,60,0.8,Student turned head significantly
+194,00:06,837,Hand Raise,70,0.9,Student raised hand above shoulder
+194,00:06,837,Looking Away,50,0.7,Student looking away from desk
+195,00:06,841,Head Turn,60,0.8,Student turned head significantly
+195,00:06,841,Hand Raise,70,0.9,Student raised hand above shoulder
+195,00:06,841,Looking Away,50,0.7,Student looking away from desk
+195,00:06,842,Head Turn,60,0.8,Student turned head significantly
+195,00:06,842,Looking Away,50,0.7,Student looking away from desk
+195,00:06,843,Head Turn,60,0.8,Student turned head significantly
+195,00:06,843,Hand Raise,70,0.9,Student raised hand above shoulder
+195,00:06,843,Looking Away,50,0.7,Student looking away from desk
+196,00:06,846,Head Turn,60,0.8,Student turned head significantly
+196,00:06,846,Looking Away,50,0.7,Student looking away from desk
+196,00:06,847,Looking Away,50,0.7,Student looking away from desk
+197,00:06,849,Head Turn,60,0.8,Student turned head significantly
+197,00:06,849,Looking Away,50,0.7,Student looking away from desk
+199,00:06,857,Head Turn,60,0.8,Student turned head significantly
+199,00:06,857,Looking Away,50,0.7,Student looking away from desk
+200,00:06,861,Head Turn,60,0.8,Student turned head significantly
+201,00:06,865,Head Turn,60,0.8,Student turned head significantly
+201,00:06,865,Looking Away,50,0.7,Student looking away from desk
+202,00:06,869,Head Turn,60,0.8,Student turned head significantly
+203,00:07,873,Head Turn,60,0.8,Student turned head significantly
+205,00:07,881,Head Turn,60,0.8,Student turned head significantly
+205,00:07,881,Hand Raise,70,0.9,Student raised hand above shoulder
+205,00:07,881,Looking Away,50,0.7,Student looking away from desk
+206,00:07,887,Head Turn,60,0.8,Student turned head significantly
+206,00:07,887,Hand Raise,70,0.9,Student raised hand above shoulder
+206,00:07,887,Looking Away,50,0.7,Student looking away from desk
+207,00:07,889,Head Turn,60,0.8,Student turned head significantly
+208,00:07,895,Head Turn,60,0.8,Student turned head significantly
+208,00:07,896,Head Turn,60,0.8,Student turned head significantly
+209,00:07,897,Head Turn,60,0.8,Student turned head significantly
+209,00:07,897,Looking Away,50,0.7,Student looking away from desk
+210,00:07,903,Head Turn,60,0.8,Student turned head significantly
+210,00:07,904,Head Turn,60,0.8,Student turned head significantly
+211,00:07,905,Head Turn,60,0.8,Student turned head significantly
+211,00:07,905,Looking Away,50,0.7,Student looking away from desk
+212,00:07,909,Head Turn,60,0.8,Student turned head significantly
+212,00:07,909,Looking Away,50,0.7,Student looking away from desk
+212,00:07,910,Hand Raise,70,0.9,Student raised hand above shoulder
+213,00:07,914,Head Turn,60,0.8,Student turned head significantly
+214,00:07,918,Hand Raise,70,0.9,Student raised hand above shoulder
+214,00:07,918,Looking Away,50,0.7,Student looking away from desk
+214,00:07,919,Hand Raise,70,0.9,Student raised hand above shoulder
+214,00:07,919,Looking Away,50,0.7,Student looking away from desk
+214,00:07,920,Looking Away,50,0.7,Student looking away from desk
+219,00:07,939,Hand Raise,70,0.9,Student raised hand above shoulder
+219,00:07,939,Looking Away,50,0.7,Student looking away from desk
+219,00:07,941,Head Turn,60,0.8,Student turned head significantly
+219,00:07,941,Looking Away,50,0.7,Student looking away from desk
+219,00:07,942,Head Turn,60,0.8,Student turned head significantly
+219,00:07,942,Hand Raise,70,0.9,Student raised hand above shoulder
+219,00:07,942,Looking Away,50,0.7,Student looking away from desk
+220,00:07,943,Hand Raise,70,0.9,Student raised hand above shoulder
+220,00:07,943,Looking Away,50,0.7,Student looking away from desk
+220,00:07,946,Head Turn,60,0.8,Student turned head significantly
+220,00:07,946,Hand Raise,70,0.9,Student raised hand above shoulder
+220,00:07,946,Looking Away,50,0.7,Student looking away from desk
+220,00:07,947,Head Turn,60,0.8,Student turned head significantly
+221,00:07,948,Hand Raise,70,0.9,Student raised hand above shoulder
+221,00:07,949,Looking Away,50,0.7,Student looking away from desk
+221,00:07,950,Hand Raise,70,0.9,Student raised hand above shoulder
+225,00:07,966,Head Turn,60,0.8,Student turned head significantly
+226,00:07,970,Head Turn,60,0.8,Student turned head significantly
+230,00:07,987,Hand Raise,70,0.9,Student raised hand above shoulder
+230,00:07,987,Looking Away,50,0.7,Student looking away from desk
+231,00:07,991,Head Turn,60,0.8,Student turned head significantly
+231,00:07,991,Looking Away,50,0.7,Student looking away from desk
+232,00:08,992,Hand Raise,70,0.9,Student raised hand above shoulder
+232,00:08,992,Looking Away,50,0.7,Student looking away from desk
+232,00:08,995,Head Turn,60,0.8,Student turned head significantly
+232,00:08,995,Looking Away,50,0.7,Student looking away from desk
+233,00:08,998,Head Turn,60,0.8,Student turned head significantly
+233,00:08,998,Looking Away,50,0.7,Student looking away from desk
+234,00:08,1003,Looking Away,50,0.7,Student looking away from desk
+235,00:08,1007,Head Turn,60,0.8,Student turned head significantly
+235,00:08,1007,Looking Away,50,0.7,Student looking away from desk
+236,00:08,1009,Head Turn,60,0.8,Student turned head significantly
+237,00:08,1013,Head Turn,60,0.8,Student turned head significantly
+237,00:08,1013,Looking Away,50,0.7,Student looking away from desk
+238,00:08,1016,Head Turn,60,0.8,Student turned head significantly
+238,00:08,1016,Looking Away,50,0.7,Student looking away from desk
+242,00:08,1029,Looking Away,50,0.7,Student looking away from desk
+244,00:08,1037,Looking Away,50,0.7,Student looking away from desk
+247,00:08,1048,Looking Away,50,0.7,Student looking away from desk
+247,00:08,1049,Looking Away,50,0.7,Student looking away from desk
+248,00:08,1054,Looking Away,50,0.7,Student looking away from desk
+249,00:08,1061,Looking Away,50,0.7,Student looking away from desk
+251,00:08,1068,Looking Away,50,0.7,Student looking away from desk
+252,00:08,1073,Head Turn,60,0.8,Student turned head significantly
+252,00:08,1073,Hand Raise,70,0.9,Student raised hand above shoulder
+252,00:08,1073,Looking Away,50,0.7,Student looking away from desk
+253,00:08,1074,Head Turn,60,0.8,Student turned head significantly
+253,00:08,1074,Hand Raise,70,0.9,Student raised hand above shoulder
+253,00:08,1074,Looking Away,50,0.7,Student looking away from desk
+253,00:08,1075,Head Turn,60,0.8,Student turned head significantly
+253,00:08,1075,Hand Raise,70,0.9,Student raised hand above shoulder
+253,00:08,1075,Looking Away,50,0.7,Student looking away from desk
+253,00:08,1077,Looking Away,50,0.7,Student looking away from desk
+254,00:08,1081,Looking Away,50,0.7,Student looking away from desk
+255,00:08,1083,Looking Away,50,0.7,Student looking away from desk
+255,00:08,1084,Looking Away,50,0.7,Student looking away from desk
+257,00:08,1094,Looking Away,50,0.7,Student looking away from desk
+258,00:08,1098,Head Turn,60,0.8,Student turned head significantly
+258,00:08,1098,Hand Raise,70,0.9,Student raised hand above shoulder
+258,00:08,1098,Looking Away,50,0.7,Student looking away from desk
+260,00:08,1104,Hand Raise,70,0.9,Student raised hand above shoulder
+260,00:08,1104,Looking Away,50,0.7,Student looking away from desk
+261,00:09,1109,Head Turn,60,0.8,Student turned head significantly
+264,00:09,1123,Looking Away,50,0.7,Student looking away from desk
+266,00:09,1131,Looking Away,50,0.7,Student looking away from desk
+270,00:09,1145,Looking Away,50,0.7,Student looking away from desk
+270,00:09,1146,Looking Away,50,0.7,Student looking away from desk
+272,00:09,1154,Hand Raise,70,0.9,Student raised hand above shoulder
+272,00:09,1154,Looking Away,50,0.7,Student looking away from desk
+274,00:09,1163,Head Turn,60,0.8,Student turned head significantly
+274,00:09,1163,Hand Raise,70,0.9,Student raised hand above shoulder
+274,00:09,1163,Looking Away,50,0.7,Student looking away from desk
+274,00:09,1164,Head Turn,60,0.8,Student turned head significantly
+274,00:09,1164,Hand Raise,70,0.9,Student raised hand above shoulder
+274,00:09,1164,Looking Away,50,0.7,Student looking away from desk
+275,00:09,1166,Head Turn,60,0.8,Student turned head significantly
+275,00:09,1166,Looking Away,50,0.7,Student looking away from desk
+275,00:09,1167,Head Turn,60,0.8,Student turned head significantly
+275,00:09,1168,Head Turn,60,0.8,Student turned head significantly
+275,00:09,1168,Looking Away,50,0.7,Student looking away from desk
+276,00:09,1172,Hand Raise,70,0.9,Student raised hand above shoulder
+277,00:09,1173,Hand Raise,70,0.9,Student raised hand above shoulder
+277,00:09,1174,Head Turn,60,0.8,Student turned head significantly
+277,00:09,1174,Hand Raise,70,0.9,Student raised hand above shoulder
+277,00:09,1174,Looking Away,50,0.7,Student looking away from desk
+277,00:09,1175,Hand Raise,70,0.9,Student raised hand above shoulder
+277,00:09,1175,Looking Away,50,0.7,Student looking away from desk
+277,00:09,1176,Head Turn,60,0.8,Student turned head significantly
+277,00:09,1176,Hand Raise,70,0.9,Student raised hand above shoulder
+278,00:09,1177,Head Turn,60,0.8,Student turned head significantly
+278,00:09,1177,Hand Raise,70,0.9,Student raised hand above shoulder
+278,00:09,1177,Looking Away,50,0.7,Student looking away from desk
+278,00:09,1178,Head Turn,60,0.8,Student turned head significantly
+278,00:09,1178,Hand Raise,70,0.9,Student raised hand above shoulder
+278,00:09,1178,Looking Away,50,0.7,Student looking away from desk
+281,00:09,1189,Looking Away,50,0.7,Student looking away from desk
+281,00:09,1191,Head Turn,60,0.8,Student turned head significantly
+282,00:09,1193,Looking Away,50,0.7,Student looking away from desk
+285,00:09,1205,Head Turn,60,0.8,Student turned head significantly
+285,00:09,1205,Looking Away,50,0.7,Student looking away from desk
+285,00:09,1208,Head Turn,60,0.8,Student turned head significantly
+285,00:09,1208,Hand Raise,70,0.9,Student raised hand above shoulder
+285,00:09,1208,Looking Away,50,0.7,Student looking away from desk
+286,00:09,1212,Head Turn,60,0.8,Student turned head significantly
+291,00:10,1229,Head Turn,60,0.8,Student turned head significantly
+291,00:10,1229,Hand Raise,70,0.9,Student raised hand above shoulder
+292,00:10,1234,Head Turn,60,0.8,Student turned head significantly
+292,00:10,1234,Looking Away,50,0.7,Student looking away from desk
+296,00:10,1249,Head Turn,60,0.8,Student turned head significantly
+296,00:10,1249,Hand Raise,70,0.9,Student raised hand above shoulder
+296,00:10,1249,Looking Away,50,0.7,Student looking away from desk
+299,00:10,1261,Head Turn,60,0.8,Student turned head significantly
+299,00:10,1261,Hand Raise,70,0.9,Student raised hand above shoulder
+299,00:10,1261,Looking Away,50,0.7,Student looking away from desk
+299,00:10,1263,Head Turn,60,0.8,Student turned head significantly
+299,00:10,1263,Hand Raise,70,0.9,Student raised hand above shoulder
+299,00:10,1263,Looking Away,50,0.7,Student looking away from desk
+300,00:10,1264,Head Turn,60,0.8,Student turned head significantly
+300,00:10,1264,Hand Raise,70,0.9,Student raised hand above shoulder
+300,00:10,1264,Looking Away,50,0.7,Student looking away from desk
+300,00:10,1266,Looking Away,50,0.7,Student looking away from desk
+301,00:10,1268,Head Turn,60,0.8,Student turned head significantly
+303,00:10,1275,Head Turn,60,0.8,Student turned head significantly
+303,00:10,1275,Hand Raise,70,0.9,Student raised hand above shoulder
+304,00:10,1276,Hand Raise,70,0.9,Student raised hand above shoulder
+304,00:10,1278,Head Turn,60,0.8,Student turned head significantly
+304,00:10,1278,Hand Raise,70,0.9,Student raised hand above shoulder
+304,00:10,1278,Looking Away,50,0.7,Student looking away from desk
+307,00:10,1285,Head Turn,60,0.8,Student turned head significantly
+307,00:10,1285,Looking Away,50,0.7,Student looking away from desk
+307,00:10,1287,Head Turn,60,0.8,Student turned head significantly
+314,00:10,1306,Hand Raise,70,0.9,Student raised hand above shoulder
+314,00:10,1309,Hand Raise,70,0.9,Student raised hand above shoulder
+314,00:10,1309,Looking Away,50,0.7,Student looking away from desk
+315,00:10,1310,Hand Raise,70,0.9,Student raised hand above shoulder
+315,00:10,1310,Looking Away,50,0.7,Student looking away from desk
+315,00:10,1312,Head Turn,60,0.8,Student turned head significantly
+315,00:10,1313,Looking Away,50,0.7,Student looking away from desk
+320,00:11,1330,Head Turn,60,0.8,Student turned head significantly
+322,00:11,1340,Looking Away,50,0.7,Student looking away from desk
+322,00:11,1341,Head Turn,60,0.8,Student turned head significantly
+327,00:11,1359,Head Turn,60,0.8,Student turned head significantly
+327,00:11,1360,Looking Away,50,0.7,Student looking away from desk
+327,00:11,1361,Head Turn,60,0.8,Student turned head significantly
+328,00:11,1363,Head Turn,60,0.8,Student turned head significantly
+328,00:11,1363,Looking Away,50,0.7,Student looking away from desk
+330,00:11,1370,Head Turn,60,0.8,Student turned head significantly
+330,00:11,1372,Hand Raise,70,0.9,Student raised hand above shoulder
+330,00:11,1372,Looking Away,50,0.7,Student looking away from desk
+330,00:11,1373,Head Turn,60,0.8,Student turned head significantly
+330,00:11,1373,Hand Raise,70,0.9,Student raised hand above shoulder
+330,00:11,1373,Looking Away,50,0.7,Student looking away from desk
+331,00:11,1374,Hand Raise,70,0.9,Student raised hand above shoulder
+331,00:11,1377,Head Turn,60,0.8,Student turned head significantly
+331,00:11,1377,Hand Raise,70,0.9,Student raised hand above shoulder
+332,00:11,1378,Head Turn,60,0.8,Student turned head significantly
+332,00:11,1378,Hand Raise,70,0.9,Student raised hand above shoulder
+332,00:11,1380,Head Turn,60,0.8,Student turned head significantly
+332,00:11,1380,Looking Away,50,0.7,Student looking away from desk
+336,00:11,1395,Head Turn,60,0.8,Student turned head significantly
+336,00:11,1395,Looking Away,50,0.7,Student looking away from desk
+336,00:11,1396,Looking Away,50,0.7,Student looking away from desk
+336,00:11,1397,Head Turn,60,0.8,Student turned head significantly
+337,00:11,1399,Head Turn,60,0.8,Student turned head significantly
+337,00:11,1399,Looking Away,50,0.7,Student looking away from desk
+339,00:11,1408,Head Turn,60,0.8,Student turned head significantly
+343,00:11,1422,Head Turn,60,0.8,Student turned head significantly
+343,00:11,1422,Looking Away,50,0.7,Student looking away from desk
+343,00:11,1423,Head Turn,60,0.8,Student turned head significantly
+343,00:11,1423,Hand Raise,70,0.9,Student raised hand above shoulder
+343,00:11,1423,Looking Away,50,0.7,Student looking away from desk
+343,00:11,1425,Head Turn,60,0.8,Student turned head significantly
+343,00:11,1425,Looking Away,50,0.7,Student looking away from desk
+344,00:11,1426,Head Turn,60,0.8,Student turned head significantly
+344,00:11,1426,Looking Away,50,0.7,Student looking away from desk
+344,00:11,1427,Head Turn,60,0.8,Student turned head significantly
+346,00:11,1435,Head Turn,60,0.8,Student turned head significantly
+346,00:11,1436,Looking Away,50,0.7,Student looking away from desk
+346,00:11,1439,Head Turn,60,0.8,Student turned head significantly
+346,00:11,1439,Hand Raise,70,0.9,Student raised hand above shoulder
+346,00:11,1439,Looking Away,50,0.7,Student looking away from desk
+347,00:11,1440,Looking Away,50,0.7,Student looking away from desk
+347,00:11,1441,Head Turn,60,0.8,Student turned head significantly
+347,00:11,1441,Looking Away,50,0.7,Student looking away from desk
+347,00:11,1444,Head Turn,60,0.8,Student turned head significantly
+347,00:11,1444,Hand Raise,70,0.9,Student raised hand above shoulder
+347,00:11,1444,Looking Away,50,0.7,Student looking away from desk
+348,00:12,1445,Hand Raise,70,0.9,Student raised hand above shoulder
+348,00:12,1445,Looking Away,50,0.7,Student looking away from desk
+348,00:12,1446,Hand Raise,70,0.9,Student raised hand above shoulder
+348,00:12,1447,Hand Raise,70,0.9,Student raised hand above shoulder
+349,00:12,1450,Head Turn,60,0.8,Student turned head significantly
+349,00:12,1453,Head Turn,60,0.8,Student turned head significantly
+349,00:12,1453,Hand Raise,70,0.9,Student raised hand above shoulder
+349,00:12,1453,Looking Away,50,0.7,Student looking away from desk
+349,00:12,1454,Hand Raise,70,0.9,Student raised hand above shoulder
+349,00:12,1454,Looking Away,50,0.7,Student looking away from desk
+350,00:12,1456,Head Turn,60,0.8,Student turned head significantly
+351,00:12,1460,Head Turn,60,0.8,Student turned head significantly
+351,00:12,1460,Looking Away,50,0.7,Student looking away from desk
+351,00:12,1461,Hand Raise,70,0.9,Student raised hand above shoulder
+351,00:12,1461,Looking Away,50,0.7,Student looking away from desk
+351,00:12,1463,Head Turn,60,0.8,Student turned head significantly
+351,00:12,1463,Hand Raise,70,0.9,Student raised hand above shoulder
+351,00:12,1464,Head Turn,60,0.8,Student turned head significantly
+352,00:12,1466,Head Turn,60,0.8,Student turned head significantly
+352,00:12,1466,Looking Away,50,0.7,Student looking away from desk
+352,00:12,1468,Head Turn,60,0.8,Student turned head significantly
+352,00:12,1468,Looking Away,50,0.7,Student looking away from desk
+353,00:12,1470,Head Turn,60,0.8,Student turned head significantly
+353,00:12,1470,Hand Raise,70,0.9,Student raised hand above shoulder
+353,00:12,1472,Head Turn,60,0.8,Student turned head significantly
+353,00:12,1472,Hand Raise,70,0.9,Student raised hand above shoulder
+353,00:12,1473,Head Turn,60,0.8,Student turned head significantly
+353,00:12,1473,Hand Raise,70,0.9,Student raised hand above shoulder
+353,00:12,1473,Looking Away,50,0.7,Student looking away from desk
+353,00:12,1474,Head Turn,60,0.8,Student turned head significantly
+353,00:12,1474,Looking Away,50,0.7,Student looking away from desk
+353,00:12,1475,Head Turn,60,0.8,Student turned head significantly
+353,00:12,1475,Hand Raise,70,0.9,Student raised hand above shoulder
+353,00:12,1475,Looking Away,50,0.7,Student looking away from desk
+354,00:12,1477,Head Turn,60,0.8,Student turned head significantly
+354,00:12,1480,Head Turn,60,0.8,Student turned head significantly
+354,00:12,1481,Head Turn,60,0.8,Student turned head significantly
+355,00:12,1482,Head Turn,60,0.8,Student turned head significantly
+355,00:12,1484,Hand Raise,70,0.9,Student raised hand above shoulder
+355,00:12,1484,Looking Away,50,0.7,Student looking away from desk
+355,00:12,1485,Hand Raise,70,0.9,Student raised hand above shoulder
+355,00:12,1485,Looking Away,50,0.7,Student looking away from desk
+355,00:12,1486,Head Turn,60,0.8,Student turned head significantly
+355,00:12,1486,Hand Raise,70,0.9,Student raised hand above shoulder
+355,00:12,1486,Looking Away,50,0.7,Student looking away from desk
+355,00:12,1487,Head Turn,60,0.8,Student turned head significantly
+355,00:12,1487,Hand Raise,70,0.9,Student raised hand above shoulder
+356,00:12,1488,Head Turn,60,0.8,Student turned head significantly
+356,00:12,1488,Hand Raise,70,0.9,Student raised hand above shoulder
+356,00:12,1488,Looking Away,50,0.7,Student looking away from desk
+356,00:12,1489,Head Turn,60,0.8,Student turned head significantly
+356,00:12,1489,Hand Raise,70,0.9,Student raised hand above shoulder
+356,00:12,1489,Looking Away,50,0.7,Student looking away from desk
+356,00:12,1490,Head Turn,60,0.8,Student turned head significantly
+356,00:12,1490,Looking Away,50,0.7,Student looking away from desk
+356,00:12,1491,Head Turn,60,0.8,Student turned head significantly
+356,00:12,1491,Looking Away,50,0.7,Student looking away from desk
+357,00:12,1497,Hand Raise,70,0.9,Student raised hand above shoulder
+357,00:12,1497,Looking Away,50,0.7,Student looking away from desk
+357,00:12,1498,Hand Raise,70,0.9,Student raised hand above shoulder
+357,00:12,1498,Looking Away,50,0.7,Student looking away from desk
+357,00:12,1499,Head Turn,60,0.8,Student turned head significantly
+357,00:12,1499,Hand Raise,70,0.9,Student raised hand above shoulder
+357,00:12,1499,Looking Away,50,0.7,Student looking away from desk
+358,00:12,1500,Head Turn,60,0.8,Student turned head significantly
+358,00:12,1500,Hand Raise,70,0.9,Student raised hand above shoulder
+358,00:12,1500,Looking Away,50,0.7,Student looking away from desk
+360,00:12,1513,Looking Away,50,0.7,Student looking away from desk
+360,00:12,1514,Looking Away,50,0.7,Student looking away from desk
+361,00:12,1521,Head Turn,60,0.8,Student turned head significantly
+361,00:12,1522,Head Turn,60,0.8,Student turned head significantly
+362,00:12,1524,Head Turn,60,0.8,Student turned head significantly
+363,00:12,1530,Head Turn,60,0.8,Student turned head significantly
+363,00:12,1530,Looking Away,50,0.7,Student looking away from desk
+363,00:12,1533,Head Turn,60,0.8,Student turned head significantly
+363,00:12,1534,Head Turn,60,0.8,Student turned head significantly
+364,00:12,1538,Head Turn,60,0.8,Student turned head significantly
+364,00:12,1538,Hand Raise,70,0.9,Student raised hand above shoulder
+366,00:12,1548,Head Turn,60,0.8,Student turned head significantly
+366,00:12,1548,Looking Away,50,0.7,Student looking away from desk
+366,00:12,1551,Head Turn,60,0.8,Student turned head significantly
+366,00:12,1552,Head Turn,60,0.8,Student turned head significantly
+366,00:12,1552,Hand Raise,70,0.9,Student raised hand above shoulder
+366,00:12,1552,Looking Away,50,0.7,Student looking away from desk
+366,00:12,1553,Head Turn,60,0.8,Student turned head significantly
+367,00:12,1556,Looking Away,50,0.7,Student looking away from desk
+368,00:12,1561,Head Turn,60,0.8,Student turned head significantly
+368,00:12,1561,Looking Away,50,0.7,Student looking away from desk
+368,00:12,1564,Head Turn,60,0.8,Student turned head significantly
+368,00:12,1564,Hand Raise,70,0.9,Student raised hand above shoulder
+369,00:12,1565,Hand Raise,70,0.9,Student raised hand above shoulder
+369,00:12,1565,Looking Away,50,0.7,Student looking away from desk
+369,00:12,1570,Head Turn,60,0.8,Student turned head significantly
+370,00:12,1576,Head Turn,60,0.8,Student turned head significantly
+371,00:12,1578,Looking Away,50,0.7,Student looking away from desk
+372,00:12,1583,Head Turn,60,0.8,Student turned head significantly
+372,00:12,1583,Looking Away,50,0.7,Student looking away from desk
+372,00:12,1584,Head Turn,60,0.8,Student turned head significantly
+372,00:12,1584,Looking Away,50,0.7,Student looking away from desk
+372,00:12,1587,Head Turn,60,0.8,Student turned head significantly
+373,00:12,1589,Head Turn,60,0.8,Student turned head significantly
+373,00:12,1589,Looking Away,50,0.7,Student looking away from desk
+374,00:12,1598,Head Turn,60,0.8,Student turned head significantly
+374,00:12,1598,Hand Raise,70,0.9,Student raised hand above shoulder
+374,00:12,1598,Looking Away,50,0.7,Student looking away from desk
+374,00:12,1599,Head Turn,60,0.8,Student turned head significantly
+374,00:12,1599,Looking Away,50,0.7,Student looking away from desk
+375,00:12,1600,Hand Raise,70,0.9,Student raised hand above shoulder
+375,00:12,1602,Head Turn,60,0.8,Student turned head significantly
+375,00:12,1602,Hand Raise,70,0.9,Student raised hand above shoulder
+375,00:12,1602,Looking Away,50,0.7,Student looking away from desk
+375,00:12,1603,Hand Raise,70,0.9,Student raised hand above shoulder
+375,00:12,1603,Looking Away,50,0.7,Student looking away from desk
+375,00:12,1605,Head Turn,60,0.8,Student turned head significantly
+376,00:12,1607,Looking Away,50,0.7,Student looking away from desk
+376,00:12,1611,Head Turn,60,0.8,Student turned head significantly
+377,00:13,1613,Looking Away,50,0.7,Student looking away from desk
+377,00:13,1617,Head Turn,60,0.8,Student turned head significantly
+378,00:13,1619,Looking Away,50,0.7,Student looking away from desk
+379,00:13,1625,Head Turn,60,0.8,Student turned head significantly
+379,00:13,1629,Head Turn,60,0.8,Student turned head significantly
+380,00:13,1632,Head Turn,60,0.8,Student turned head significantly
+380,00:13,1633,Head Turn,60,0.8,Student turned head significantly
+380,00:13,1633,Looking Away,50,0.7,Student looking away from desk
+381,00:13,1638,Looking Away,50,0.7,Student looking away from desk
+381,00:13,1641,Head Turn,60,0.8,Student turned head significantly
+382,00:13,1644,Looking Away,50,0.7,Student looking away from desk
+383,00:13,1649,Looking Away,50,0.7,Student looking away from desk
+383,00:13,1652,Head Turn,60,0.8,Student turned head significantly
+383,00:13,1652,Hand Raise,70,0.9,Student raised hand above shoulder
+384,00:13,1654,Head Turn,60,0.8,Student turned head significantly
+385,00:13,1657,Head Turn,60,0.8,Student turned head significantly
+386,00:13,1661,Head Turn,60,0.8,Student turned head significantly
+387,00:13,1666,Head Turn,60,0.8,Student turned head significantly
+388,00:13,1673,Hand Raise,70,0.9,Student raised hand above shoulder
+388,00:13,1674,Head Turn,60,0.8,Student turned head significantly
+388,00:13,1674,Hand Raise,70,0.9,Student raised hand above shoulder
+388,00:13,1674,Looking Away,50,0.7,Student looking away from desk
+389,00:13,1679,Head Turn,60,0.8,Student turned head significantly
+389,00:13,1679,Looking Away,50,0.7,Student looking away from desk
+390,00:13,1684,Head Turn,60,0.8,Student turned head significantly
+390,00:13,1684,Looking Away,50,0.7,Student looking away from desk
+391,00:13,1685,Hand Raise,70,0.9,Student raised hand above shoulder
+391,00:13,1685,Looking Away,50,0.7,Student looking away from desk
+391,00:13,1688,Looking Away,50,0.7,Student looking away from desk
+392,00:13,1690,Head Turn,60,0.8,Student turned head significantly
+392,00:13,1690,Looking Away,50,0.7,Student looking away from desk
+393,00:13,1696,Head Turn,60,0.8,Student turned head significantly
+393,00:13,1696,Looking Away,50,0.7,Student looking away from desk
+394,00:13,1700,Head Turn,60,0.8,Student turned head significantly
+394,00:13,1700,Looking Away,50,0.7,Student looking away from desk
+396,00:13,1708,Head Turn,60,0.8,Student turned head significantly
+396,00:13,1708,Looking Away,50,0.7,Student looking away from desk
+397,00:13,1712,Head Turn,60,0.8,Student turned head significantly
+397,00:13,1712,Looking Away,50,0.7,Student looking away from desk
+397,00:13,1714,Looking Away,50,0.7,Student looking away from desk
+398,00:13,1717,Head Turn,60,0.8,Student turned head significantly
+398,00:13,1717,Looking Away,50,0.7,Student looking away from desk
+399,00:13,1721,Head Turn,60,0.8,Student turned head significantly
+399,00:13,1721,Looking Away,50,0.7,Student looking away from desk
+400,00:13,1725,Head Turn,60,0.8,Student turned head significantly
+400,00:13,1725,Looking Away,50,0.7,Student looking away from desk
+404,00:13,1741,Head Turn,60,0.8,Student turned head significantly
+404,00:13,1741,Looking Away,50,0.7,Student looking away from desk
+406,00:14,1750,Looking Away,50,0.7,Student looking away from desk
+407,00:14,1754,Head Turn,60,0.8,Student turned head significantly
+407,00:14,1754,Looking Away,50,0.7,Student looking away from desk
+410,00:14,1767,Head Turn,60,0.8,Student turned head significantly
+410,00:14,1767,Looking Away,50,0.7,Student looking away from desk
+411,00:14,1770,Head Turn,60,0.8,Student turned head significantly
+411,00:14,1770,Looking Away,50,0.7,Student looking away from desk
+416,00:14,1785,Head Turn,60,0.8,Student turned head significantly
+416,00:14,1785,Looking Away,50,0.7,Student looking away from desk
+417,00:14,1788,Head Turn,60,0.8,Student turned head significantly
+417,00:14,1788,Looking Away,50,0.7,Student looking away from desk
+420,00:14,1797,Head Turn,60,0.8,Student turned head significantly
+420,00:14,1797,Looking Away,50,0.7,Student looking away from desk
+430,00:14,1826,Hand Raise,70,0.9,Student raised hand above shoulder
+430,00:14,1827,Head Turn,60,0.8,Student turned head significantly
+431,00:14,1830,Head Turn,60,0.8,Student turned head significantly
+431,00:14,1830,Looking Away,50,0.7,Student looking away from desk
+433,00:14,1836,Head Turn,60,0.8,Student turned head significantly
+433,00:14,1836,Looking Away,50,0.7,Student looking away from desk
+436,00:15,1844,Head Turn,60,0.8,Student turned head significantly
+438,00:15,1849,Hand Raise,70,0.9,Student raised hand above shoulder
+440,00:15,1855,Head Turn,60,0.8,Student turned head significantly
+440,00:15,1855,Hand Raise,70,0.9,Student raised hand above shoulder
+440,00:15,1855,Looking Away,50,0.7,Student looking away from desk
+441,00:15,1858,Hand Raise,70,0.9,Student raised hand above shoulder
+441,00:15,1858,Looking Away,50,0.7,Student looking away from desk
+442,00:15,1861,Hand Raise,70,0.9,Student raised hand above shoulder
+442,00:15,1861,Looking Away,50,0.7,Student looking away from desk
+442,00:15,1862,Hand Raise,70,0.9,Student raised hand above shoulder
+442,00:15,1862,Looking Away,50,0.7,Student looking away from desk
+443,00:15,1864,Head Turn,60,0.8,Student turned head significantly
+443,00:15,1864,Hand Raise,70,0.9,Student raised hand above shoulder
+443,00:15,1864,Looking Away,50,0.7,Student looking away from desk
+443,00:15,1866,Head Turn,60,0.8,Student turned head significantly
+443,00:15,1866,Hand Raise,70,0.9,Student raised hand above shoulder
+443,00:15,1866,Looking Away,50,0.7,Student looking away from desk
+453,00:15,1904,Hand Raise,70,0.9,Student raised hand above shoulder
+453,00:15,1905,Hand Raise,70,0.9,Student raised hand above shoulder
+453,00:15,1906,Hand Raise,70,0.9,Student raised hand above shoulder
+453,00:15,1906,Looking Away,50,0.7,Student looking away from desk
+457,00:15,1922,Hand Raise,70,0.9,Student raised hand above shoulder
+457,00:15,1922,Looking Away,50,0.7,Student looking away from desk
+457,00:15,1923,Hand Raise,70,0.9,Student raised hand above shoulder
+458,00:15,1924,Head Turn,60,0.8,Student turned head significantly
+458,00:15,1924,Hand Raise,70,0.9,Student raised hand above shoulder
+458,00:15,1925,Head Turn,60,0.8,Student turned head significantly
+458,00:15,1925,Hand Raise,70,0.9,Student raised hand above shoulder
+458,00:15,1925,Looking Away,50,0.7,Student looking away from desk
+458,00:15,1926,Hand Raise,70,0.9,Student raised hand above shoulder
+458,00:15,1926,Looking Away,50,0.7,Student looking away from desk
+458,00:15,1927,Head Turn,60,0.8,Student turned head significantly
+458,00:15,1927,Looking Away,50,0.7,Student looking away from desk
+459,00:15,1928,Head Turn,60,0.8,Student turned head significantly
+459,00:15,1928,Hand Raise,70,0.9,Student raised hand above shoulder
+459,00:15,1928,Looking Away,50,0.7,Student looking away from desk
+459,00:15,1929,Head Turn,60,0.8,Student turned head significantly
+459,00:15,1929,Hand Raise,70,0.9,Student raised hand above shoulder
+459,00:15,1929,Looking Away,50,0.7,Student looking away from desk
+459,00:15,1930,Head Turn,60,0.8,Student turned head significantly
+459,00:15,1930,Hand Raise,70,0.9,Student raised hand above shoulder
+459,00:15,1930,Looking Away,50,0.7,Student looking away from desk
+459,00:15,1931,Head Turn,60,0.8,Student turned head significantly
+459,00:15,1931,Hand Raise,70,0.9,Student raised hand above shoulder
+459,00:15,1931,Looking Away,50,0.7,Student looking away from desk
+460,00:15,1934,Head Turn,60,0.8,Student turned head significantly
+461,00:15,1937,Hand Raise,70,0.9,Student raised hand above shoulder
+462,00:15,1942,Head Turn,60,0.8,Student turned head significantly
+462,00:15,1942,Hand Raise,70,0.9,Student raised hand above shoulder
+465,00:16,1954,Head Turn,60,0.8,Student turned head significantly
+466,00:16,1957,Head Turn,60,0.8,Student turned head significantly
+466,00:16,1957,Looking Away,50,0.7,Student looking away from desk
+467,00:16,1963,Head Turn,60,0.8,Student turned head significantly
+468,00:16,1966,Head Turn,60,0.8,Student turned head significantly
+468,00:16,1966,Looking Away,50,0.7,Student looking away from desk
+468,00:16,1967,Looking Away,50,0.7,Student looking away from desk
+469,00:16,1971,Head Turn,60,0.8,Student turned head significantly
+470,00:16,1976,Head Turn,60,0.8,Student turned head significantly
+472,00:16,1986,Head Turn,60,0.8,Student turned head significantly
+473,00:16,1992,Head Turn,60,0.8,Student turned head significantly
+473,00:16,1992,Looking Away,50,0.7,Student looking away from desk
+474,00:16,1993,Hand Raise,70,0.9,Student raised hand above shoulder
+474,00:16,1996,Head Turn,60,0.8,Student turned head significantly
+475,00:16,2000,Head Turn,60,0.8,Student turned head significantly
+476,00:16,2004,Head Turn,60,0.8,Student turned head significantly
+477,00:16,2008,Head Turn,60,0.8,Student turned head significantly
+479,00:16,2016,Head Turn,60,0.8,Student turned head significantly
+480,00:16,2020,Head Turn,60,0.8,Student turned head significantly
+481,00:16,2022,Head Turn,60,0.8,Student turned head significantly
+482,00:16,2026,Head Turn,60,0.8,Student turned head significantly
+483,00:16,2032,Head Turn,60,0.8,Student turned head significantly
+484,00:16,2034,Head Turn,60,0.8,Student turned head significantly
+484,00:16,2034,Looking Away,50,0.7,Student looking away from desk
+485,00:16,2040,Head Turn,60,0.8,Student turned head significantly
+486,00:16,2044,Head Turn,60,0.8,Student turned head significantly
+487,00:16,2048,Head Turn,60,0.8,Student turned head significantly
+490,00:16,2058,Head Turn,60,0.8,Student turned head significantly
+490,00:16,2058,Looking Away,50,0.7,Student looking away from desk
+491,00:16,2064,Head Turn,60,0.8,Student turned head significantly
+492,00:16,2068,Head Turn,60,0.8,Student turned head significantly
+493,00:17,2070,Head Turn,60,0.8,Student turned head significantly
+496,00:17,2082,Looking Away,50,0.7,Student looking away from desk
+496,00:17,2084,Looking Away,50,0.7,Student looking away from desk

@@ -1,0 +1,77 @@
+GitHub -> Card render beginner friendly BE -> download zip
+Open in VS code
+Open terminal -> npm i
+src -> open in integrated terminal -> node app.js
+
+component A - parent component ->landing.jsx in frontend
+component B - child component -> Books.jsx
+
+import React from "react";
+import axios from "axios";
+import { useLoaderData } from "react-router-dom";
+import Books from "../components/Books.jsx";
+
+export const loader = async() => {
+    const response = await axios.get("http://localhost:3000/data");
+    return response.data.data;
+};
+
+const Landing = () => {
+    const myBook = useLoaderData();
+    console.log(myBook);
+    return (
+        <div className ="landing-page">
+            <h1> Welcome to Landing Page </h1>
+            {myBook.map((item) => {
+                return <Books key={item.id} item={item} />;
+            })}
+        </div>    
+    );
+    };
+export default Landing; 
+
+
+ERROR RESOLUTION -
+	ERROR MESSAGE 1: Access to XMLHttpRequest at 'http://localhost:3000/data' from origin 'http://localhost:5173' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header contains multiple values 'http://localhost:node 5173', but only one is allowed.
+	
+	REASON: In the backend code,  
+		app.use(
+  			cors({
+    				origin: "http://localhost:node 5173",
+  			})
+		);
+		That string "http://localhost:node 5173" is invalid. The browser is complaining because the header contains a malformed origin.
+
+
+	SOLUTION: app.use(
+  cors({
+    origin: ["http://localhost:5173", "http://localhost:5174"], // allow both ports
+    methods: ["GET", "POST"], // adjust if you use other HTTP methods
+  })
+);
+
+
+
+before code - backend app.js - 
+const express = require("express");
+const { books } = require("./data");
+const app = express();
+const cors = require("cors");
+
+app.use(
+  cors({
+    origin: "http://localhost:node 5173",
+  })
+);
+
+app.get("/", (req, res) => {
+  res.send("Home Page ");
+});
+
+app.get("/data", (req, res) => {
+  res.status(200).json({ message: "successful", data: books });
+});
+
+app.listen(3000, () => {
+  console.log("Server is running in port 3000....");
+});

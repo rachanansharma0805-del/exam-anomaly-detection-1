@@ -1,0 +1,179 @@
+{
+  "report_metadata": {
+    "generated": "2026-02-04T19:31:23.220006",
+    "system_version": "3.0",
+    "total_videos_analyzed": 2
+  },
+  "learning_summary": {
+    "learning_status": "Collecting Data (2/3)",
+    "total_videos": 2,
+    "total_anomalies": 243,
+    "average_anomalies_per_video": 121.5,
+    "patterns_learned": {
+      "temporal": 11,
+      "spatial": 0,
+      "profiles": 0,
+      "sequences": 0,
+      "correlations": 0
+    },
+    "current_thresholds": {
+      "head_angle": 10.0,
+      "head_confidence": 0.5571900000000001,
+      "hand_height": 0.15,
+      "hand_confidence": 0.5576139800000001,
+      "mouth_ratio": 0.05,
+      "speak_confidence": 0.55,
+      "proximity_dist": 140,
+      "proximity_confidence": 0.5266647257929999,
+      "learning_rate": 0.1,
+      "last_updated": "2026-01-30T18:51:47.019729"
+    },
+    "average_confidence_by_type": {},
+    "recent_performance_score": 0.0,
+    "last_updated": "2026-01-30T18:51:47.019729",
+    "system_version": "3.0"
+  },
+  "system_statistics": {
+    "total_videos": 2,
+    "total_anomalies": 243,
+    "total_frames_processed": 1876,
+    "average_anomalies_per_video": 121.5,
+    "detection_rate_by_type": {
+      "Head Turn": [
+        151,
+        5
+      ],
+      "Hand Raise (Right)": [
+        38
+      ],
+      "Hand Raise (Left)": [
+        15
+      ],
+      "Hand Raise (Both)": [
+        10
+      ],
+      "Proximity to ID 12": [
+        5
+      ],
+      "Proximity to ID 13": [
+        4
+      ],
+      "Proximity to ID 19": [
+        4
+      ],
+      "Proximity to ID 16": [
+        3
+      ],
+      "Proximity to ID 2": [
+        2
+      ],
+      "Proximity to ID 8": [
+        2
+      ],
+      "Proximity to ID 15": [
+        2
+      ],
+      "Proximity to ID 23": [
+        2
+      ]
+    },
+    "average_confidence_by_type": {},
+    "false_positive_trend": [],
+    "user_satisfaction_trend": [],
+    "system_version": "3.0"
+  },
+  "detection_metrics": {
+    "head_turn": {
+      "total_count": 0,
+      "confidence_mean": 0.0,
+      "confidence_std": 0.0,
+      "false_positive_rate": 0.0
+    },
+    "hand_raise": {
+      "total_count": 0,
+      "confidence_mean": 0.0,
+      "confidence_std": 0.0,
+      "false_positive_rate": 0.0
+    },
+    "speaking": {
+      "total_count": 0,
+      "confidence_mean": 0.0,
+      "confidence_std": 0.0,
+      "false_positive_rate": 0.0
+    },
+    "proximity": {
+      "total_count": 0,
+      "confidence_mean": 0.0,
+      "confidence_std": 0.0,
+      "false_positive_rate": 0.0
+    }
+  },
+  "adaptive_thresholds": {
+    "head_angle": 10.0,
+    "head_confidence": 0.5571900000000001,
+    "hand_height": 0.15,
+    "hand_confidence": 0.5576139800000001,
+    "mouth_ratio": 0.05,
+    "speak_confidence": 0.55,
+    "proximity_dist": 140,
+    "proximity_confidence": 0.5266647257929999,
+    "learning_rate": 0.1,
+    "last_updated": "2026-01-30T18:51:47.019729"
+  },
+  "recent_video_history": [
+    {
+      "video_name": "input_megs.mp4",
+      "timestamp": "2026-02-04T14:19:38.439576",
+      "total_frames": 498,
+      "total_anomalies": 238,
+      "anomaly_breakdown": {
+        "Head Turn": 151,
+        "Hand Raise (Right)": 38,
+        "Hand Raise (Left)": 15,
+        "Hand Raise (Both)": 10,
+        "Proximity to ID 12": 5,
+        "Proximity to ID 13": 4,
+        "Proximity to ID 19": 4,
+        "Proximity to ID 16": 3,
+        "Proximity to ID 2": 2,
+        "Proximity to ID 8": 2,
+        "Proximity to ID 15": 2,
+        "Proximity to ID 23": 2
+      },
+      "confidence_stats": {
+        "mean": 0.8507689075630253,
+        "std": 0.06695984973428985,
+        "min": 0.664,
+        "max": 0.98,
+        "median": 0.842
+      },
+      "invigilator_detected": false,
+      "invigilator_confidence": 0.0,
+      "user_rating": null,
+      "false_positive_count": 0,
+      "processing_time": 0.0
+    },
+    {
+      "video_name": "input_malpractice.mp4",
+      "timestamp": "2026-02-04T19:31:23.086713",
+      "total_frames": 1378,
+      "total_anomalies": 5,
+      "anomaly_breakdown": {
+        "Head Turn": 5
+      },
+      "confidence_stats": {
+        "mean": 0.7718,
+        "std": 0.02179908254950196,
+        "min": 0.747,
+        "max": 0.789,
+        "median": 0.785
+      },
+      "invigilator_detected": false,
+      "invigilator_confidence": 0.0,
+      "user_rating": null,
+      "false_positive_count": 0,
+      "processing_time": 0.0
+    }
+  ],
+  "performance_trend": []
+}

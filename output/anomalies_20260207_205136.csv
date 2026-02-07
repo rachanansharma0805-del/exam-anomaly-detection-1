@@ -1,0 +1,44 @@
+frame_number,timestamp,person_id,anomaly_type,severity,confidence,description
+2,00:00,1,possible_speaking,60,0.9988144040107727,Possible speaking detected
+2,00:00,3,looking_away,71.875,0.9930153489112854,Looking away from desk
+2,00:00,3,possible_speaking,60,0.9852553606033325,Possible speaking detected
+3,00:00,1,possible_speaking,60,0.9879423975944519,Possible speaking detected
+4,00:00,1,head_turn,58.108108108108105,0.993325412273407,Head turned significantly
+4,00:00,1,possible_speaking,60,0.9917627573013306,Possible speaking detected
+5,00:00,1,possible_speaking,60,0.9944394826889038,Possible speaking detected
+6,00:00,1,possible_speaking,60,0.9959366917610168,Possible speaking detected
+6,00:00,5,possible_speaking,60,0.9941256642341614,Possible speaking detected
+7,00:00,1,possible_speaking,60,0.9946565628051758,Possible speaking detected
+7,00:00,3,possible_speaking,60,0.9915122985839844,Possible speaking detected
+8,00:00,1,possible_speaking,60,0.9930854439735413,Possible speaking detected
+8,00:00,3,head_turn,46.07843137254902,0.9740598201751709,Head turned significantly
+8,00:00,3,possible_speaking,60,0.9761751294136047,Possible speaking detected
+8,00:00,4,possible_speaking,60,0.9532287120819092,Possible speaking detected
+8,00:00,5,possible_speaking,60,0.9568819999694824,Possible speaking detected
+9,00:00,1,possible_speaking,60,0.9579113125801086,Possible speaking detected
+17,00:00,1,head_turn,43.84615384615385,0.9632984399795532,Head turned significantly
+17,00:00,3,excessive_movement,100,0.9628212451934814,Excessive movement detected
+18,00:00,1,head_turn,51.61290322580645,0.9771935343742371,Head turned significantly
+18,00:00,3,excessive_movement,36.54107278118693,0.9772372841835022,Excessive movement detected
+18,00:00,5,possible_speaking,60,0.9831985235214233,Possible speaking detected
+19,00:00,1,head_turn,48.4375,0.9845455288887024,Head turned significantly
+20,00:00,1,possible_speaking,60,0.987308144569397,Possible speaking detected
+20,00:00,3,head_turn,48.529411764705884,0.9662743210792542,Head turned significantly
+20,00:00,3,looking_away,100,0.9700824022293091,Looking away from desk
+20,00:00,3,possible_speaking,60,0.9587866067886353,Possible speaking detected
+20,00:00,4,possible_speaking,60,0.9628989696502686,Possible speaking detected
+21,00:00,1,head_turn,42.857142857142854,0.9753811359405518,Head turned significantly
+21,00:00,4,head_turn,40.69767441860465,0.9707155227661133,Head turned significantly
+127,00:04,6,head_turn,57.49999999999999,0.9776970744132996,Head turned significantly
+128,00:04,6,excessive_movement,100,0.9559390544891357,Excessive movement detected
+132,00:04,6,head_turn,55.55555555555556,0.9867372512817383,Head turned significantly
+325,00:11,10,excessive_movement,32.38826948140329,0.9769706130027771,Excessive movement detected
+326,00:11,10,excessive_movement,41.14911906711977,0.9798833727836609,Excessive movement detected
+327,00:11,10,excessive_movement,35.00357124637428,0.9863371849060059,Excessive movement detected
+334,00:11,10,excessive_movement,32.42298567374695,0.9578671455383301,Excessive movement detected
+345,00:11,11,possible_speaking,60,0.9759047627449036,Possible speaking detected
+381,00:13,11,possible_speaking,60,0.9616761803627014,Possible speaking detected
+385,00:13,11,body_turn,100,0.9571734070777893,Body turned or twisted
+443,00:15,14,head_turn,100,0.9806539416313171,Head turned significantly
+444,00:15,14,head_turn,85.29411764705883,0.9869756698608398,Head turned significantly
+445,00:15,14,head_turn,67.3913043478261,0.9912993907928467,Head turned significantly

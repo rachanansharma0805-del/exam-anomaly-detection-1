@@ -1,0 +1,2 @@
+frame,timestamp_sec,person_id,anomaly_type,confidence,bbox
+161,5.37,1,Head Turn,0.693,"679,272,746,465"
