@@ -51,6 +51,7 @@ Pipeline Flow
 - Irregular movement patterns compared to baseline behavior
 
 ### Project Structure
+<pre>
 exam-anomaly-detection/
 ├── src/ # Core source code
 ├── data/ # Input videos and sample data
@@ -58,7 +59,8 @@ exam-anomaly-detection/
 ├── docs/ # Architecture diagrams, screenshots, reports
 ├── requirements.txt
 ├── README.md
-└── Evaluation.md
+└── Evaluation.md 
+</pre>
 
 ### How to Run the Project
 #### 1. Clone the Repository
@@ -132,6 +134,6 @@ https://trello.com/invite/b/69593f10d77282585d9e62a1/ATTIf28afd3f91d72ee65c3e4f3
 - Integration with exam management systems
 
 ### Authors
-#### Rachana Sharma
-#### N Meghana
+- Rachana Sharma
+- N Meghana
 #### AI/ML Internship Project
