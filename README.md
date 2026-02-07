@@ -4,51 +4,51 @@ The Exam Hall Anomaly Detection System is an AI-based computer vision project de
 The system acts as a digital invigilator by analyzing video footage to identify activities such as excessive head movement, unusual posture, and abnormal hand movements using object detection, tracking, and pose estimation techniques.
 
 ### Objectives
-Detect students in exam hall videos
-Track multiple students across frames
-Analyze posture, head orientation, and movement patterns
-Identify suspicious or abnormal behavior using rule-based logic
-Generate logs and visual evidence for manual review
+- Detect students in exam hall videos
+- Track multiple students across frames
+- Analyze posture, head orientation, and movement patterns
+- Identify suspicious or abnormal behavior using rule-based logic
+- Generate logs and visual evidence for manual review
 
 ### Features
-Person detection using YOLOv8
-Multi-person tracking using DeepSORT
-Pose estimation using MediaPipe
-Rule-based anomaly detection
-Timestamped anomaly logging (CSV)
-Evdence frame capture for flagged events
-Streamlit dashboard for video upload and result visualization
-Privacy-preserving face blurring
+- Person detection using YOLOv8
+- Multi-person tracking using DeepSORT
+- Pose estimation using MediaPipe
+- Rule-based anomaly detection
+- Timestamped anomaly logging (CSV)
+- Evdence frame capture for flagged events
+- Streamlit dashboard for video upload and result visualization
+- Privacy-preserving face blurring
 
 ### Technologies Used
-Python 3.10+
-OpenCV
-YOLOv8 (Ultralytics)
-DeepSORT
-MediaPipe
-Streamlit
-NumPy
-Pandas
-Git & GitHub
+- Python 3.10+
+- OpenCV
+- YOLOv8 (Ultralytics)
+- DeepSORT
+- MediaPipe
+- Streamlit
+- NumPy
+- Pandas
+- Git & GitHub
 
 ### System Architecture Overview
 
 The system follows a modular video analytics pipeline where each component operates independently and passes structured outputs to the next stage.
 Pipeline Flow
-Video Input
-YOLOv8 – Person Detection
-DeepSORT – Multi-Object Tracking
-MediaPipe – Pose Estimation
-Feature Extraction
-Rule-Based Anomaly Detection
-Logs & Dashboard Visualization
+- Video Input
+- YOLOv8 – Person Detection
+- DeepSORT – Multi-Object Tracking
+- MediaPipe – Pose Estimation
+- Feature Extraction
+- Rule-Based Anomaly Detection
+- Logs & Dashboard Visualization
 
 ### Anomaly Types Detected
-Repeated head turns (looking away from exam paper)
-Excessive or abnormal hand movements
-Unusual posture or body orientation
-Prolonged suspicious behavior across frames
-Irregular movement patterns compared to baseline behavior
+- Repeated head turns (looking away from exam paper)
+- Excessive or abnormal hand movements
+- Unusual posture or body orientation
+- Prolonged suspicious behavior across frames
+- Irregular movement patterns compared to baseline behavior
 
 ### Project Structure
 exam-anomaly-detection/
@@ -83,51 +83,53 @@ https://trello.com/invite/b/69593f10d77282585d9e62a1/ATTIf28afd3f91d72ee65c3e4f3
 
 ### Weekly Progress Summary
 #### Week 1 – Setup & Initial Detection
-Development environment setup
-YOLOv8 pretrained model tested on images and videos
-Verified person detection with bounding boxes
-Initial observations documented
+- Development environment setup
+- YOLOv8 pretrained model tested on images and videos
+- Verified person detection with bounding boxes
+- Initial observations documented
 
 #### Week 2 – Detection & Tracking
-Implemented YOLOv8-based person detection on videos
-Integrated DeepSORT for multi-person tracking
-Ensured consistent ID assignment
-Applied face blurring for privacy
-Generated detection and tracking logs in CSV format
-Verified outputs through processed videos
+- Implemented YOLOv8-based person detection on videos
+- Integrated DeepSORT for multi-person tracking
+- Ensured consistent ID assignment
+- Applied face blurring for privacy
+- Generated detection and tracking logs in CSV format
+- Verified outputs through processed videos
 
 #### Week 3 – Pose Estimation & Anomaly Detection
-Integrated MediaPipe pose estimation
-Extracted keypoints for head, shoulders, and hands
-Designed rule-based anomaly detection logic
-Defined confidence thresholds to reduce false positives
-Logged anomalies with timestamps
-Saved evidence frames for detected events
-Evaluated precision and recall manually
+- Integrated MediaPipe pose estimation
+- Extracted keypoints for head, shoulders, and hands
+- Designed rule-based anomaly detection logic
+- Defined confidence thresholds to reduce false positives
+- Logged anomalies with timestamps
+- Saved evidence frames for detected events
+- Evaluated precision and recall manually
 
 #### Week 4 – Dashboard & End-to-End Integration
-Built Streamlit dashboard for video upload and visualization
-Integrated complete detection pipeline
-Displayed summary tables and anomaly logs
-Tested system on unseen videos
-Delivered a fully working MVP with end-to-end flow
-Evaluation Summary
-High detection precision
-Strong anomaly recall
-Evaluation performed using manual inspection and log analysis
-Detailed metrics documented in Evaluation.md
+- Built Streamlit dashboard for video upload and visualization
+- Integrated complete detection pipeline
+- Displayed summary tables and anomaly logs
+- Tested system on unseen videos
+- Delivered a fully working MVP with end-to-end flow
+
+#### Evaluation Summary
+- High detection precision
+- Strong anomaly recall
+- Evaluation performed using manual inspection and log analysis
+- Detailed metrics documented in Evaluation.md
 
 ### Limitations
-Rule-based anomaly detection may produce false positives
-Performance depends on camera angle and video quality
-CPU-based inference limits real-time scalability
-No labeled ground-truth dataset used
-Future Enhancements
-Deep learning–based anomaly classification
-GPU acceleration for real-time deployment
-Automatic invigilator exclusion
-Improved tracking stability
-Integration with exam management systems
+- Rule-based anomaly detection may produce false positives
+- Performance depends on camera angle and video quality
+- CPU-based inference limits real-time scalability
+- No labeled ground-truth dataset used
+  
+### Future Enhancements
+- Deep learning–based anomaly classification
+- GPU acceleration for real-time deployment
+- Automatic invigilator exclusion
+- Improved tracking stability
+- Integration with exam management systems
 
 ### Authors
 #### Rachana Sharma
